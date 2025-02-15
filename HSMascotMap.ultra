@@ -1,0 +1,41 @@
+---
+options:
+  hash: m
+  attributionControl:
+    customAttribution: '<a href=".">Overpass Ultra</a>'
+controls:
+  - type: GeolocateControl
+    options:
+      positionOptions:
+        enableHighAccuracy: true
+      trackUserLocation: true
+style:
+  extends: https://styles.trailsta.sh/protomaps-light.json
+  layers:
+    - type: circle
+      paint:
+        circle-color: '#6dad6f'
+        circle-stroke-color: white
+        circle-stroke-width: 2
+        circle-radius: 3
+    - type: symbol
+      layout:
+        icon-padding: 0
+        icon-image:
+          - match
+          - ["get","mascot"]
+          - "Bears"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bear-653.png
+          - "Bulldogs"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-dog-364.png
+          - ""
+---
+
+[out:json][timeout:800];
+rel(114690);map_to_area->.searchArea;
+// determine set of schools
+(
+  wr["mascot"][amenity=school][name~"High School"](area.searchArea);
+);
+
+out center;
