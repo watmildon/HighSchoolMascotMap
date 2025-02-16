@@ -45,3 +45,12 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-otter-60.png - https://icons8.com/
 * icons8-orca-64.png - https://icons8.com/
 * icons8-wagon-64.png - https://icons8.com/
+* icons8-badger-64.png - https://icons8.com/
+* icons8-duck-64.png - https://icons8.com/
+* icons8-hippo-64.png - https://icons8.com/
+* icons8-chicken-64.png - https://icons8.com/
+* icons8-shark-64.png - https://icons8.com/
+* icons8-boat-64.png - https://icons8.com/
+* icons8-wave-64.png - https://icons8.com/
+* icons8-clock-64.png - https://icons8.com/
+* icons8-koala-64.png - https://icons8.com/
