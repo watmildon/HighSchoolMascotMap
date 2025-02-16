@@ -105,13 +105,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-horse-60.png
           - "Hurricanes"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-hurricane-64.png
-          - "Tornados"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-hurricane-64.png
-          - "Tornadoes"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-hurricane-64.png
-          - "Golden Tornados"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-hurricane-64.png
-          - "Golden Tornadoes"
+          - "Cyclones"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-hurricane-64.png
           - "Miners"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-miner-64.png
@@ -129,7 +123,11 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-sun-64.png
           - "Tornados"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-tornado-64.png
-          - "Cyclones"
+          - "Tornadoes"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-tornado-64.png
+          - "Golden Tornados"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-tornado-64.png
+          - "Golden Tornadoes"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-tornado-64.png
           - "Trojans"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-trojan-horse-60.png
