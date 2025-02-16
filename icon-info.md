@@ -29,3 +29,12 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-year-of-tiger-64.png - https://icons8.com/
 * icons8-wolf-64.png - https://icons8.com/
 * icons8-rhinoceros-64.png - https://icons8.com/
+* icons8-potato-64.png - https://icons8.com/
+* icons8-bee-64.png - https://icons8.com/
+* icons8-plane-64.png - https://icons8.com/
+* icons8-ram-64.png - https://icons8.com/
+* icons8-knight-64.png - https://icons8.com/
+* icons8-rabbit-64.png - https://icons8.com/
+* icons8-spartan-64.png - https://icons8.com/
+* icons8-cowboy-64.png - https://icons8.com/
+* icons8-roadrunner-64.png - https://icons8.com/
