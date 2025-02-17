@@ -60,3 +60,10 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-fleur-de-lys-60.png - https://icons8.com/
 * icons8-beaver-64.png - https://icons8.com/
 * icons8-mine-cart-64.png - https://icons8.com/
+* icons8-deer-64.png - https://icons8.com/
+* icons8-tree-64.png - https://icons8.com/
+* icons8-saber-64.png - https://icons8.com/
+* icons8-seagull-64.png - https://icons8.com/
+* icons8-shamrock-64.png - https://icons8.com/
+* icons8-beetle-60.png - https://icons8.com/
+* icons8-comet-64.png - https://icons8.com/
