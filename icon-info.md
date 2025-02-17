@@ -9,6 +9,13 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-griffin-1388150.png - Griffin by Icons Producer from Noun Project (CC BY 3.0)
 * noun-giant-4728529.png - giant by agus raharjo from from Noun Project (CC BY 3.0)
 * noun-celtic-knot-6722441.png - Celtic Knot by Jaime Serra from from Noun Project (CC BY 3.0)
+* noun-wolverine-4704799.png - Wolverine by Amethyst Studio from from Noun Project (CC BY 3.0)
+* noun-coyote-3662387.png - Coyote by Abby from from from Noun Project (CC BY 3.0)
+* noun-longhorn-skull-189289.png - Longhorn Skull by Benjamin Harlow from from Noun Project (CC BY 3.0)
+* noun-scorpion-7144042.png - Scorpion by Leonardo Henrique Martini from from Noun Project (CC BY 3.0)
+* noun-flag-of-scotland-4062186.png - flag of scotland by Tyler Gobberdiel from from Noun Project (CC BY 3.0)
+* noun-bulldog-7196519.png - Bulldog by Bangun puji Lestari from from Noun Project (CC BY 3.0)
+* noun-bobcat-6475557.png - Bobcat by Besticons from Noun Project (CC BY 3.0)
 * icons8-zebra-60.png - https://icons8.com/
 * icons8-school-60.png - https://icons8.com/
 * icons8-alligator-64.png - https://icons8.com/
@@ -75,3 +82,8 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-ford-model-t-64.png - https://icons8.com/
 * icons8-trident-64.png - https://icons8.com/
 * icons8-phantom-64.png - https://icons8.com/
+* icons8-earthquake-60.png - https://icons8.com/
+* icons8-caveman-60.png - https://icons8.com/
+* icons8-leopard-64.png - https://icons8.com/
+* icons8-parrot-64.png - https://icons8.com/
+* icons8-corn-64.png - https://icons8.com/

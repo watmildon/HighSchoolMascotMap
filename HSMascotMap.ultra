@@ -27,9 +27,9 @@ style:
           - ["get","mascot"]
           - ["Bears", "Bruins", "Grizzlies", "Cubs", "Golden Bears"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bear-653.png
-          - ["Tigers", "Bobcats", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Wildcats", "Cougars", "Lynx", "Leopards", "Bengals"]
+          - ["Tigers", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Wildcats", "Cougars", "Lynx", "Bengals"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cat-64.png
-          - ["Bulldogs", "Huskies", "Beagles", "Greyhounds", "Boxers", "Hoyas"]
+          - ["Huskies", "Beagles", "Greyhounds", "Boxers", "Hoyas"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-dog-364.png
           - ["Eagles", "Golden Eagles", "War Eagles", "Falcons", "Redhawks", "Nighthawks", "Skyhawks", "Thunderbirds", "Hawks", "Seahawks","Sea Hawks", "Riverhawks", "Warhawks", "Soaring Eagles"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/eagle_14030573.png
@@ -45,7 +45,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-crown-64.png
           - ["Crusaders", "Templars"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-crusader-60.png
-          - "Red Devils"
+          - ["Red Devils","Sundevils"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-devil-64.png
           - "Dolphins"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-dolphin-64.png
@@ -73,7 +73,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-trojan-horse-60.png
           - "Vikings"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-viking-helmet-64.png
-          - ["Wolves", "Lobos", "Red Wolves", "Timberwolves", "Seawolves", "Greywolves", "Silverwolves", "Wolverines", "Reds"]
+          - ["Wolves", "Lobos", "Red Wolves", "Timberwolves", "Seawolves", "Greywolves", "Silverwolves", "Reds"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-wolf-64.png
           - "Rhinoceros"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-rhinoceros-64.png
@@ -133,7 +133,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-koala-64.png
           - "Locomotives"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-steam-engine-64.png
-          - ["Thunderbolts","Bolts", "Thunders"]
+          - ["Thunderbolts", "Bolts", "Thunders"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-lightning-64.png
           - "Dinos"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-dino-64.png
@@ -155,7 +155,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-shamrock-64.png
           - "Beetles"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-beetle-60.png
-          - "Comets"
+          - ["Comets","Komets"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-comet-64.png
           - "Blue Jays"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-jay-64.png
@@ -183,6 +183,30 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-phantom-64.png
           - "Celts"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-celtic-knot-6722441.png
+          - "Wolverines"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-wolverine-4704799.png
+          - "Tremors"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-earthquake-60.png
+          - "Kavemen"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-caveman-64.png
+          - "Coyotes"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-coyote-3662387.png
+          - "Leopards"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-leopard-64.png
+          - "Longhorns"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-longhorn-skull-189289.png
+          - "Parrots"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-parrot-64.png
+          - "Scorpions"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-scorpion-7144042.png
+          - ["Scots","Highlanders","Hilanders"]
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-flag-of-scotland-4062186.png
+          - ["Bulldogs"]
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bulldog-7196519.png
+          - ["Bobcats"]
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bobcat-6475557.png
+          - "Kernels"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-corn-64.png
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-school-60.png
 ---
 
