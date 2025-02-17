@@ -1,7 +1,7 @@
 # HighSchoolMascotMap
 This repo hosts the style file and icons for an [Ultra](https://overpass-ultra.us/) based mascot map. You can view the map from [this link](https://overpass-ultra.us/#map&query=url:https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/HSMascotMap.ultra).
 
-<img width="1439" alt="image" src="https://github.com/user-attachments/assets/0406856d-f875-4e25-8f41-e720a682281a" />
+<img width="1504" alt="image" src="https://github.com/user-attachments/assets/350719c4-0add-4f92-a716-61ecfceb551e" />
 
 # Adding mascot data
 All map information comes from [OpenStreetMap](https://www.openstreetmap.org/). The mascot key is [documented on the OSM Wiki](https://wiki.openstreetmap.org/wiki/Key:mascot). If you know the mascot for a local school, please feel free to add it to the database!
