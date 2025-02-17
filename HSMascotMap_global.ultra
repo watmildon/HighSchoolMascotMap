@@ -3,7 +3,6 @@ options:
   hash: m
   attributionControl:
     customAttribution: '<a href=".">Overpass Ultra</a>'
-  bounds: [-124.848974, 24.396308,-66.885444, 49.384358]
 controls:
   - type: GeolocateControl
     options:
