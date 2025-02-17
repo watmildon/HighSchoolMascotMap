@@ -81,7 +81,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-rhinoceros-64.png
           - "Cardinals"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cardinals-64.png
-          - "Russets"
+          - ["Russets", "Spuds"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-potato-64.png
           - ["Bees", "Wasps", "Hornets", "Yellow Jackets", "Yellowjackets"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-bee-64.png
