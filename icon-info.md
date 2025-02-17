@@ -56,3 +56,7 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-koala-64.png - https://icons8.com/
 * icons8-steam-engine-64.png - https://icons8.com/
 * icons8-lightning-64.png - https://icons8.com/
+* icons8-dino-64.png - https://icons8.com/
+* icons8-fleur-de-lys-60.png - https://icons8.com/
+* icons8-beaver-64.png - https://icons8.com/
+* icons8-mine-cart-64.png - https://icons8.com/
