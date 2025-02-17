@@ -1,5 +1,8 @@
 # HighSchoolMascotMap
-This repo hosts the style file and icons for an [Ultra](https://overpass-ultra.us/) based mascot map. You can view the map from [this link](https://overpass-ultra.us/#map&query=url:https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/HSMascotMap.ultra).
+This repo hosts the style file and icons for an [Ultra](https://overpass-ultra.us/) based mascot map. You can view the map using the links below.
+
+* [United States](https://overpass-ultra.us/#map&query=url:https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/HSMascotMap.ultra).
+* [Global](https://overpass-ultra.us/#map&query=url:https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/HSMascotMap_global.ultra).
 
 <img width="1504" alt="image" src="https://github.com/user-attachments/assets/350719c4-0add-4f92-a716-61ecfceb551e" />
 
