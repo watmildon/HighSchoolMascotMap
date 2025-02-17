@@ -27,11 +27,11 @@ style:
           - ["get","mascot"]
           - ["Bears", "Bruins", "Grizzlies", "Cubs", "Golden Bears"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bear-653.png
-          - ["Tigers", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Wildcats", "Cougars", "Lynx"]
+          - ["Tigers", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Wildcats", "Cougars", "Lynx", "Bengals"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cat-64.png
           - ["Huskies", "Beagles", "Greyhounds", "Boxers", "Hoyas"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-dog-364.png
-          - ["Eagles", "Golden Eagles", "War Eagles", "Falcons", "Redhawks", "Nighthawks", "Skyhawks", "Thunderbirds", "Hawks", "Seahawks","Sea Hawks", "Riverhawks", "Warhawks"]
+          - ["Eagles", "Golden Eagles", "War Eagles", "Falcons", "Redhawks", "Nighthawks", "Skyhawks", "Thunderbirds", "Hawks", "Seahawks","Sea Hawks", "Riverhawks", "Warhawks", "Soaring Eagles"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/eagle_14030573.png
           - ["Ravens"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-raven-64.png
@@ -43,7 +43,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-alligator-64.png
           - ["Monarchs", "Royals","Nobles"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-crown-64.png
-          - "Crusaders"
+          - ["Crusaders", "Templars"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-crusader-60.png
           - ["Red Devils","Sundevils"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-devil-64.png
@@ -73,7 +73,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-trojan-horse-60.png
           - "Vikings"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-viking-helmet-64.png
-          - ["Wolves", "Lobos", "Red Wolves", "Timberwolves", "Seawolves", "Greywolves", "Silverwolves"]
+          - ["Wolves", "Lobos", "Red Wolves", "Timberwolves", "Seawolves", "Greywolves", "Silverwolves", "Reds"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-wolf-64.png
           - "Rhinoceros"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-rhinoceros-64.png
@@ -83,7 +83,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-potato-64.png
           - ["Bees", "Wasps", "Hornets", "Yellow Jackets", "Yellowjackets", "Bumble Bees"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-bee-64.png
-          - ["Bombers", "Jets"]
+          - ["Bombers", "Jets", "Flyers"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-plane-64.png
           - ["Bighorns", "Rams"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-ram-64.png
@@ -91,7 +91,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-knight-64.png
           - ["Jackrabbits", "Rabbits"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-rabbit-64.png
-          - "Spartans"
+          - ["Spartans", "Sentinels"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-spartan-64.png
           - ["Cowboys", "Texans", "Buckaroos"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cowboy-64.png
@@ -133,7 +133,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-koala-64.png
           - "Locomotives"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-steam-engine-64.png
-          - ["Thunderbolts","Bolts"]
+          - ["Thunderbolts", "Bolts", "Thunders"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-lightning-64.png
           - "Dinos"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-dino-64.png
