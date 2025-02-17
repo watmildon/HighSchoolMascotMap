@@ -67,3 +67,4 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-shamrock-64.png - https://icons8.com/
 * icons8-beetle-60.png - https://icons8.com/
 * icons8-comet-64.png - https://icons8.com/
+* icons8-jay-64.png - https://icons8.com/
