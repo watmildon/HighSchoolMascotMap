@@ -5,6 +5,10 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-dog-364.png - Public Domain from https://thenounproject.com/icon/dog-364/
 * lion - (Icon by G-CAT)[https://www.freepik.com/icon/animal_15006191#fromView=search&page=2&position=74&uuid=ca6e4ddb-31bb-4dee-ad72-fe02c43fe17e]
 * eagle_14030573.png - (Icon by Blue Lantern Artwork)[https://www.freepik.com/icon/eagle_14030573#fromView=search&page=1&position=78&uuid=57d49c08-105e-4f29-ae35-fbaa2d0c64b2]
+* noun-cowboy-615101.png - Cowboy by Luis Prado from Noun Project (CC BY 3.0)
+* noun-griffin-1388150.png - Griffin by Icons Producer from Noun Project (CC BY 3.0)
+* noun-giant-4728529.png - giant by agus raharjo from from Noun Project (CC BY 3.0)
+* noun-celtic-knot-6722441.png - Celtic Knot by Jaime Serra from from Noun Project (CC BY 3.0)
 * icons8-zebra-60.png - https://icons8.com/
 * icons8-school-60.png - https://icons8.com/
 * icons8-alligator-64.png - https://icons8.com/
@@ -69,3 +73,5 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-comet-64.png - https://icons8.com/
 * icons8-jay-64.png - https://icons8.com/
 * icons8-ford-model-t-64.png - https://icons8.com/
+* icons8-trident-64.png - https://icons8.com/
+* icons8-phantom-64.png - https://icons8.com/
