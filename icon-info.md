@@ -13,6 +13,9 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-coyote-3662387.png - Coyote by Abby from from from Noun Project (CC BY 3.0)
 * noun-longhorn-skull-189289.png - Longhorn Skull by Benjamin Harlow from from Noun Project (CC BY 3.0)
 * noun-scorpion-7144042.png - Scorpion by Leonardo Henrique Martini from from Noun Project (CC BY 3.0)
+* noun-flag-of-scotland-4062186.png - flag of scotland by Tyler Gobberdiel from from Noun Project (CC BY 3.0)
+* noun-bulldog-7196519.png - Bulldog by Bangun puji Lestari from from Noun Project (CC BY 3.0)
+* noun-bobcat-6475557.png - Bobcat by Besticons from Noun Project (CC BY 3.0)
 * icons8-zebra-60.png - https://icons8.com/
 * icons8-school-60.png - https://icons8.com/
 * icons8-alligator-64.png - https://icons8.com/
