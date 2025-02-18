@@ -29,7 +29,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bear-653.png
           - ["Cats","Tigers", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Cougars", "Bengals", "Kougars", "Bearcats", "Bearkats", "Catamounts","Cheetahs"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cat-64.png
-          - ["Huskies", "Beagles", "Greyhounds", "Boxers", "Hoyas", "Devil Dogs","Spoofhounds","Dogies","Dogs"]
+          - ["Huskies", "Beagles", "Greyhounds", "Boxers", "Hoyas", "Devil Dogs","Spoofhounds","Dogs"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-dog-364.png
           - ["Eagles", "Golden Eagles", "War Eagles", "Falcons", "Redhawks", "Nighthawks", "Skyhawks", "Thunderbirds", "Hawks", "Seahawks","Sea Hawks", "Riverhawks", "Warhawks", "Soaring Eagles", "Black Eagles"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/eagle_14030573.png
@@ -191,7 +191,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-coyote-3662387.png
           - "Leopards"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-leopard-64.png
-          - "Longhorns"
+          - ["Longhorns","Dogies"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-longhorn-skull-189289.png
           - "Parrots"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-parrot-64.png

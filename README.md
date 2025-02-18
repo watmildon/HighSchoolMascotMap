@@ -15,7 +15,10 @@ I am also running a set of [MapRoulette](https://maproulette.org/) tasks that he
 I would love help sourcing icons and adding them to the repo and map. The current requirements are:
 
 * Black and white 64x64 pixel png
+* Generally heavy weight and high fill
 * Suitable license, ex: public domain, or attributed in icon-info.md
+
+Most of the icons currently in use come from [Icon8](https://icons8.com/) and [The Noun Project](https://thenounproject.com/).
 
 Once you have a suitable icon, add it to HSMascotMap.ultra under the other icons. The last entry is the defaul school icon.
 
