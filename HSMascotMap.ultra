@@ -2,8 +2,8 @@
 options:
   hash: m
   attributionControl:
-    customAttribution: '<a href=".">Overpass Ultra</a>'
-  bounds: [-124.848974, 24.396308,-66.885444, 49.384358]
+    customAttribution: '<a href=".">Ultra</a>'
+  bounds: [ -124.848974, 24.396308, -66.885444, 49.384358 ]
 controls:
   - type: GeolocateControl
     options:
@@ -23,220 +23,345 @@ style:
       layout:
         icon-padding: 0
         icon-image:
-          - match
-          - ["get","mascot"]
-          - ["Bears", "Bruins", "Grizzlies", "Cubs", "Golden Bears"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bear-653.png
-          - ["Cats","Tigers", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Cougars", "Bengals", "Kougars", "Bearcats", "Bearkats", "Catamounts","Cheetahs"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cat-64.png
-          - ["Huskies", "Beagles", "Greyhounds", "Boxers", "Hoyas", "Devil Dogs","Spoofhounds","Dogs"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-dog-364.png
-          - ["Eagles", "Golden Eagles", "War Eagles", "Falcons", "Redhawks", "Nighthawks", "Skyhawks", "Thunderbirds", "Hawks", "Seahawks","Sea Hawks", "Riverhawks", "Warhawks", "Soaring Eagles", "Black Eagles"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/eagle_14030573.png
-          - ["Ravens"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-raven-64.png
-          - ["Lions", "Golden Lions"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/lion.png
-          - ["Zebras"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-zebra-60.png
-          - "Gators"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-alligator-64.png
-          - ["Monarchs", "Royals","Nobles","Kingsmen", "Regals"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-crown-64.png
-          - ["Crusaders", "Templars"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-crusader-60.png
-          - ["Red Devils","Blue Devils","Sundevils", "Green Devils", "Greene Devils"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-devil-64.png
-          - "Dolphins"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-dolphin-64.png
-          - "Farmers"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-field-and-tractor-64.png
-          - ["Colts", "Broncos", "Chargers", "Mavericks", "Mustangs","Horsemen","Broncs", "Bays"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-horse-60.png
-          - ["Hurricanes", "Cyclones", "Purple Hurricanes"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-hurricane-64.png
-          - "Owls"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-owl-64.png
-          - ["Phoenix","Phoenixes","Firebirds"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-phoenix-60.png
-          - ["Pirates", "Buccaneers"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-pirate-60.png
-          - "Rockets"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-rocket-64.png
-          - "Suns"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-sun-64.png
-          - ["Tornados", "Tornadoes", "Golden Tornados", "Golden Tornadoes", "Whirlwinds"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-tornado-64.png
-          - "Trojans"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-trojan-horse-60.png
-          - "Vikings"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-viking-helmet-64.png
-          - ["Wolves", "Lobos", "Red Wolves", "Timberwolves", "Seawolves", "Greywolves", "Silverwolves", "Reds", "Loboes"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-wolf-64.png
-          - "Rhinoceros"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-rhinoceros-64.png
-          - "Cardinals"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cardinals-64.png
-          - ["Russets", "Spuds"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-potato-64.png
-          - ["Bees", "Wasps", "Hornets", "Yellow Jackets", "Yellowjackets", "Bumble Bees"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-bee-64.png
-          - ["Bombers", "Jets", "Flyers"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-plane-64.png
-          - ["Bighorns", "Rams"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-ram-64.png
-          - ["Knights", "Raiders", "Golden Knights"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-knight-64.png
-          - ["Jackrabbits", "Rabbits"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-rabbit-64.png
-          - ["Spartans", "Sentinels"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-spartan-64.png
-          - ["Cowboys", "Texans", "Buckaroos", "Wranglers","Scouts"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cowboy-64.png
-          - ["Roadrunners","Road Runners"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-roadrunner-64.png
-          - ["Loggers","Axemen"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-axe-60.png
-          - "Dragons"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-dragon-64.png
-          - "Kangaroos"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-kangaroo-64.png
-          - "Otters"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-otter-60.png
-          - "Orcas"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-orca-64.png
-          - "Pioneers"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-wagon-64.png
-          - ["Rattlers", "Rattles", "Cobras", "Diamondbacks", "Vipers", "King Cobras"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-snake-64.png
-          - ["Swordsmen", "Gladiators"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-gladiator-64.png
-          - "Badgers"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-badger-64.png
-          - ["Ducks", "Ganders"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-duck-64.png
-          - "Hippos"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-hippo-64.png
-          - "Brahmas"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-chicken-64.png
-          - ["Sharks","Requins"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-shark-64.png
-          - ["Skippers", "Mariners"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-boat-64.png
-          - ["Blue Wave", "Greenwave", "Waveriders"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-wave-64.png
-          - "Clockers"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-clock-64.png
-          - "Koalas"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-koala-64.png
-          - "Locomotives"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-steam-engine-64.png
-          - ["Thunderbolts", "Bolts", "Thunders", "Flashes"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-lightning-64.png
-          - "Dinos"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-dino-64.png
-          - "Saints"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-fleur-de-lys-60.png
-          - "Beavers"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-beaver-64.png
-          - ["Miners", "Gold Diggers","Golddiggers"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-mine-cart-64.png
-          - "Bucks"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-deer-64.png
-          - "Chaparrals"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-tree-64.png
-          - "Sabers"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-saber-weapon-64.png
-          - "Seagulls"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-seagull-64.png
-          - ["Irish","Shamrocks"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-shamrock-64.png
-          - "Beetles"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-beetle-60.png
-          - ["Comets","Komets"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-comet-64.png
-          - "Blue Jays"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-jay-64.png
-          - "Honkers"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-goose-64.png
-          - "Cheesemakers"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cheese-64.png
-          - ["Olympians"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-olympic-torch-64.png
-          - "Bullfrogs"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-frog-64.png
-          - "Fords"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-ford-model-t-64.png
-          - "Sea Kings"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-trident-64.png
-          - ["Gauchos", "Plainsmen"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-cowboy-615101.png
-          - ["Aviators", "Pilots"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-aviator-64.png
-          - ["Griffins", "Gryphons"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-griffin-1388150.png
-          - ["Giants","Titans"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-giant-4728529.png
-          - "Phantoms"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-phantom-64.png
-          - "Celts"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-celtic-knot-6722441.png
-          - "Wolverines"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-wolverine-4704799.png
-          - "Tremors"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-earthquake-60.png
-          - "Kavemen"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-caveman-64.png
-          - "Coyotes"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-coyote-3662387.png
-          - "Leopards"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-leopard-64.png
-          - ["Longhorns","Dogies"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-longhorn-skull-189289.png
-          - "Parrots"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-parrot-64.png
-          - "Scorpions"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-scorpion-7144042.png
-          - ["Scots","Highlanders","Hilanders"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-flag-of-scotland-4062186.png
-          - ["Bulldogs"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bulldog-7196519.png
-          - ["Bobcats", "Lynx","Wildcats","Wildkats"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bobcat-6475557.png
-          - "Kernels"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-corn-64.png
-          - "Explorers"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-binoculars-64.png
-          - "Herons"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-heron-7121230.png
-          - "Syrup Makers"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-maple-syrup-7241147.png
-          - "Razorbacks"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-pig-64.png
-          - "Sand Lizards"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-gecko-64.png
-          - ["Flames","Blue Blazes"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-flames-60.png
-          - "Berries"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-blueberry-64.png
-          - "Beetdiggers"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-beet-64.png
-          - ["Bison","Buffalo","Buffaloes"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bison-5832708.png
-          - ["Moose","Mooses"]
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-moose-7525270.png
-          - "Outlaws"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-bandit-64.png
-          - "Camels"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-camel-64.png
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-school-60.png
+          - concat
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/
+          - - match
+            - [ get, mascot ]
+            - - Bears
+              - Bruins
+              - Grizzlies
+              - Cubs
+              - Golden Bears
+            - noun-bear-653
+            - - Cats
+              - Tigers
+              - Blackcats
+              - Pumas
+              - Mountain Lions
+              - Jaguars
+              - Panthers
+              - Cougars
+              - Bengals
+              - Kougars
+              - Bearcats
+              - Bearkats
+              - Catamounts
+              - Cheetahs
+            - noun-cat-364
+            - - Huskies
+              - Beagles
+              - Greyhounds
+              - Boxers
+              - Hoyas
+              - Devil Dogs
+              - Spoofhounds
+              - Dogs
+            - noun-dog-364
+            - - Eagles
+              - Golden Eagles
+              - War Eagles
+              - Falcons
+              - Redhawks
+              - Nighthawks
+              - Skyhawks
+              - Thunderbirds
+              - Hawks
+              - Seahawks
+              - Sea Hawks
+              - Riverhawks
+              - Warhawks
+              - Soaring Eagles
+              - Black Eagles
+            - eagle_14030573
+            - - Ravens
+            - icons8-raven-64
+            - - Lions
+              - Golden Lions
+            - lion
+            - - Zebras
+            - icons8-zebra-60
+            - - Gators
+            - icons8-alligator-64
+            - - Monarchs
+              - Royals
+              - Nobles
+              - Kingsmen
+              - Regals
+            - icons8-crown-64
+            - - Crusaders
+              - Templars
+            - icons8-crusader-60
+            - - Red Devils
+              - Blue Devils
+              - Sundevils
+              - Green Devils
+              - Greene Devils
+            - icons8-devil-64
+            - - Dolphins
+            - icons8-dolphin-64
+            - - Farmers
+            - icons8-field-and-tractor-64
+            - - Colts
+              - Broncos
+              - Chargers
+              - Mavericks
+              - Mustangs
+              - Horsemen
+              - Broncs
+              - Bays
+            - icons8-horse-60
+            - - Hurricanes
+              - Cyclones
+              - Purple Hurricanes
+            - icons8-hurricane-64
+            - - Owls
+            - icons8-owl-64
+            - - Phoenix
+              - Phoenixes
+              - Firebirds
+            - icons8-phoenix-60
+            - - Pirates
+              - Buccaneers
+            - icons8-pirate-60
+            - - Rockets
+            - icons8-rocket-64
+            - - Suns
+            - icons8-sun-64
+            - - Tornados
+              - Tornadoes
+              - Golden Tornados
+              - Golden Tornadoes
+              - Whirlwinds
+            - icons8-tornado-64
+            - - Trojans
+            - icons8-trojan-horse-60
+            - - Vikings
+            - icons8-viking-helmet-64
+            - - Wolves
+              - Lobos
+              - Red Wolves
+              - Timberwolves
+              - Seawolves
+              - Greywolves
+              - Silverwolves
+              - Reds
+              - Loboes
+            - icons8-wolf-64
+            - - Rhinoceros
+            - icons8-rhinoceros-64
+            - - Cardinals
+            - icons8-cardinals-64
+            - - Russets
+              - Spuds
+            - icons8-potato-64
+            - - Bees
+              - Wasps
+              - Hornets
+              - Yellow Jackets
+              - Yellowjackets
+              - Bumble Bees
+            - icons8-bee-64
+            - - Bombers
+              - Jets
+              - Flyers
+            - icons8-plane-64
+            - - Bighorns
+              - Rams
+            - icons8-ram-64
+            - - Knights
+              - Raiders
+              - Golden Knights
+            - icons8-knight-64
+            - - Jackrabbits
+              - Rabbits
+            - icons8-rabbit-64
+            - - Spartans
+              - Sentinels
+            - icons8-spartan-64
+            - - Cowboys
+              - Texans
+              - Buckaroos
+              - Wranglers
+              - Scouts
+            - icons8-cowboy-64
+            - - Roadrunners
+              - Road Runners
+            - icons8-roadrunner-64
+            - - Loggers
+              - Axemen
+            - icons8-axe-60
+            - - Dragons
+            - icons8-dragon-64
+            - - Kangaroos
+            - icons8-kangaroo-64
+            - - Otters
+            - icons8-otter-60
+            - - Orcas
+            - icons8-orca-64
+            - - Pioneers
+            - icons8-wagon-64
+            - - Rattlers
+              - Rattles
+              - Cobras
+              - Diamondbacks
+              - Vipers
+              - King Cobras
+            - icons8-snake-64
+            - - Swordsmen
+              - Gladiators
+            - icons8-gladiator-64
+            - - Badgers
+            - icons8-badger-64
+            - - Ducks
+              - Ganders
+            - icons8-duck-64
+            - - Hippos
+            - icons8-hippo-64
+            - - Brahmas
+            - icons8-chicken-64
+            - - Sharks
+              - Requins
+            - icons8-shark-64
+            - - Skippers
+              - Mariners
+            - icons8-boat-64
+            - - Blue Wave
+              - Greenwave
+              - Waveriders
+            - icons8-wave-64
+            - - Clockers
+            - icons8-clock-64
+            - - Koalas
+            - icons8-koala-64
+            - - Locomotives
+            - icons8-steam-engine-64
+            - - Thunderbolts
+              - Bolts
+              - Thunders
+              - Flashes
+            - icons8-lightning-64
+            - - Dinos
+            - icons8-dino-64
+            - - Saints
+            - icons8-fleur-de-lys-60
+            - - Beavers
+            - icons8-beaver-64
+            - - Miners
+              - Gold Diggers
+              - Golddiggers
+            - icons8-mine-cart-64
+            - - Bucks
+            - icons8-deer-64
+            - - Chaparrals
+            - icons8-tree-64
+            - - Sabers
+            - icons8-saber-weapon-64
+            - - Seagulls
+            - icons8-seagull-64
+            - - Irish
+              - Shamrocks
+            - icons8-shamrock-64
+            - - Beetles
+            - icons8-beetle-60
+            - - Comets
+              - Komets
+            - icons8-comet-64
+            - - Blue Jays
+            - icons8-jay-64
+            - - Honkers
+            - icons8-goose-64
+            - - Cheesemakers
+            - icons8-cheese-64
+            - - Olympians
+            - icons8-olympic-torch-64
+            - - Bullfrogs
+            - icons8-frog-64
+            - - Fords
+            - icons8-ford-model-t-64
+            - - Sea Kings
+            - icons8-trident-64
+            - - Gauchos
+              - Plainsmen
+            - noun-cowboy-615101
+            - - Aviators
+              - Pilots
+            - icons8-aviator-64
+            - - Griffins
+              - Gryphons
+            - noun-griffin-1388150
+            - - Giants
+              - Titans
+            - noun-giant-4728529
+            - - Phantoms
+            - icons8-phantom-64
+            - - Celts
+            - noun-celtic-knot-6722441
+            - - Wolverines
+            - noun-wolverine-4704799
+            - - Tremors
+            - icons8-earthquake-60
+            - - Kavemen
+            - icons8-caveman-64
+            - - Coyotes
+            - noun-coyote-3662387
+            - - Leopards
+            - icons8-leopard-64
+            - - Longhorns
+              - Dogies
+            - noun-longhorn-skull-189289
+            - - Parrots
+            - icons8-parrot-64
+            - - Scorpions
+            - noun-scorpion-7144042
+            - - Scots
+              - Highlanders
+              - Hilanders
+            - noun-flag-of-scotland-4062186
+            - - Bulldogs
+            - noun-bulldog-7196519
+            - - Bobcats
+              - Lynx
+              - Wildcats
+              - Wildkats
+            - noun-bobcat-6475557
+            - - Kernels
+            - icons8-corn-64
+            - - Explorers
+            - icons8-binoculars-64
+            - - Herons
+            - noun-heron-7121230
+            - - Syrup Makers
+            - noun-maple-syrup-7241147
+            - - Razorbacks
+            - icons8-pig-64
+            - - Sand Lizards
+            - icons8-gecko-64
+            - - Flames
+              - Blue Blazes
+            - icons8-flames-60
+            - - Berries
+            - icons8-blueberry-64
+            - - Beetdiggers
+            - icons8-beet-64
+            - - Bison
+              - Buffalo
+              - Buffaloes
+            - noun-bison-5832708
+            - - Moose
+              - Mooses
+            - noun-moose-7525270
+            - - Outlaws
+            - icons8-bandit-64
+            - - Camels
+            - icons8-camel-64
+            - icons8-school-60
+          - .png
 ---
-
 [out:json][timeout:800];
 rel(148838);map_to_area->.searchArea;
 // determine set of schools
 (
-  wr["mascot"][amenity=school](area.searchArea);
+  wr[mascot][amenity=school](area.searchArea);
 );
 
 out center;
