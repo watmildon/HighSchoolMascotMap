@@ -27,7 +27,7 @@ style:
           - ["get","mascot"]
           - ["Bears", "Bruins", "Grizzlies", "Cubs", "Golden Bears"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bear-653.png
-          - ["Cats","Tigers", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Cougars", "Bengals", "Kougars", "Bearcats", "Bearkats", "Catamounts"]
+          - ["Cats","Tigers", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Cougars", "Bengals", "Kougars", "Bearcats", "Bearkats", "Catamounts","Cheetahs"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cat-64.png
           - ["Huskies", "Beagles", "Greyhounds", "Boxers", "Hoyas", "Devil Dogs","Spoofhounds","Dogies","Dogs"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-dog-364.png
@@ -93,7 +93,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-spartan-64.png
           - ["Cowboys", "Texans", "Buckaroos", "Wranglers","Scouts"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cowboy-64.png
-          - "Roadrunners"
+          - ["Roadrunners","Road Runners"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-roadrunner-64.png
           - ["Loggers","Axemen"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-axe-60.png
