@@ -16,7 +16,8 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-flag-of-scotland-4062186.png - flag of scotland by Tyler Gobberdiel from from Noun Project (CC BY 3.0)
 * noun-bulldog-7196519.png - Bulldog by Bangun puji Lestari from from Noun Project (CC BY 3.0)
 * noun-bobcat-6475557.png - Bobcat by Besticons from Noun Project (CC BY 3.0)
-* noun-heron-7121230.png - Heron by sentya irma rom Noun Project (CC BY 3.0)
+* noun-heron-7121230.png - Heron by sentya irma from Noun Project (CC BY 3.0)
+* noun-maple-syrup-7241147.png - maple syrup by Supanut Piyakanont from Noun Project (CC BY 3.0)
 * icons8-zebra-60.png - https://icons8.com/
 * icons8-school-60.png - https://icons8.com/
 * icons8-alligator-64.png - https://icons8.com/
