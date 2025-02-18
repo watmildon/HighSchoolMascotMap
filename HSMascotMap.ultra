@@ -27,7 +27,7 @@ style:
           - ["get","mascot"]
           - ["Bears", "Bruins", "Grizzlies", "Cubs", "Golden Bears"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bear-653.png
-          - ["Cats","Tigers", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Wildcats", "Cougars", "Lynx", "Bengals"]
+          - ["Cats","Tigers", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Cougars", "Bengals"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cat-64.png
           - ["Huskies", "Beagles", "Greyhounds", "Boxers", "Hoyas", "Devil Dogs"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-dog-364.png
@@ -203,7 +203,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-flag-of-scotland-4062186.png
           - ["Bulldogs"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bulldog-7196519.png
-          - ["Bobcats", "Lynx","Wildcats"]
+          - ["Bobcats", "Lynx","Wildcats","Wildkats"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bobcat-6475557.png
           - "Kernels"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-corn-64.png
@@ -218,7 +218,9 @@ style:
           - "Sand Lizards"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-gecko-64.png
           - "Flames"
-          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-flames-64.png
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-flames-60.png
+          - "Berries"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-blueberry-64.png
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-school-60.png
 ---
 
