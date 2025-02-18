@@ -26,7 +26,7 @@ style:
           - ["get","mascot"]
           - ["Bears", "Bruins", "Grizzlies", "Cubs", "Golden Bears"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bear-653.png
-          - ["Tigers", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Wildcats", "Cougars", "Lynx", "Bengals"]
+          - ["Tigers", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Cougars", "Bengals"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cat-64.png
           - ["Huskies", "Beagles", "Greyhounds", "Boxers", "Hoyas"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-dog-364.png
@@ -202,7 +202,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-flag-of-scotland-4062186.png
           - ["Bulldogs"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bulldog-7196519.png
-          - ["Bobcats"]
+          - ["Bobcats", "Lynx","Wildcats"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bobcat-6475557.png
           - "Kernels"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-corn-64.png
