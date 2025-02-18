@@ -18,6 +18,8 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-bobcat-6475557.png - Bobcat by Besticons from Noun Project (CC BY 3.0)
 * noun-heron-7121230.png - Heron by sentya irma from Noun Project (CC BY 3.0)
 * noun-maple-syrup-7241147.png - maple syrup by Supanut Piyakanont from Noun Project (CC BY 3.0)
+* noun-bison-5832708.png - Bison by Lars Meiertoberens from Noun Project (CC BY 3.0)
+* noun-moose-7525270.png - Moose by pramana from Noun Project (CC BY 3.0)
 * icons8-zebra-60.png - https://icons8.com/
 * icons8-school-60.png - https://icons8.com/
 * icons8-alligator-64.png - https://icons8.com/
@@ -95,3 +97,5 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-flames-60.png - https://icons8.com/
 * icons8-blueberry-64.png - https://icons8.com/
 * icons8-beet-64.png - https://icons8.com/
+* icons8-bandit-64.png - https://icons8.com/
+* icons8-camel-64.png - https://icons8.com/

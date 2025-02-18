@@ -26,11 +26,11 @@ style:
           - ["get","mascot"]
           - ["Bears", "Bruins", "Grizzlies", "Cubs", "Golden Bears"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bear-653.png
-          - ["Cats","Tigers", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Cougars", "Bengals", "Panthères", "Kougars", "Bearcats", "Bearkats", "Catamounts"]
+          - ["Cats","Tigers", "Blackcats", "Pumas", "Mountain Lions", "Jaguars", "Panthers", "Cougars", "Bengals", "Kougars", "Bearcats", "Bearkats", "Catamounts"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cat-64.png
-          - ["Huskies", "Beagles", "Greyhounds", "Boxers", "Hoyas", "Devil Dogs","Spoofhounds"]
+          - ["Huskies", "Beagles", "Greyhounds", "Boxers", "Hoyas", "Devil Dogs","Spoofhounds","Dogies","Dogs"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-dog-364.png
-          - ["Eagles", "Golden Eagles", "War Eagles", "Falcons", "Redhawks", "Nighthawks", "Skyhawks", "Thunderbirds", "Hawks", "Seahawks","Sea Hawks", "Riverhawks", "Warhawks", "Soaring Eagles", "Black Eagles", "Aigles"]
+          - ["Eagles", "Golden Eagles", "War Eagles", "Falcons", "Redhawks", "Nighthawks", "Skyhawks", "Thunderbirds", "Hawks", "Seahawks","Sea Hawks", "Riverhawks", "Warhawks", "Soaring Eagles", "Black Eagles"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/eagle_14030573.png
           - ["Ravens"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-raven-64.png
@@ -56,7 +56,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-hurricane-64.png
           - "Owls"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-owl-64.png
-          - "Phoenix"
+          - ["Phoenix","Phoenixes","Firebirds"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-phoenix-60.png
           - ["Pirates", "Buccaneers"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-pirate-60.png
@@ -106,7 +106,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-orca-64.png
           - "Pioneers"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-wagon-64.png
-          - ["Rattlers", "Cobras", "Diamondbacks", "Vipers", "King Cobras"]
+          - ["Rattlers", "Rattles", "Cobras", "Diamondbacks", "Vipers", "King Cobras"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-snake-64.png
           - ["Swordsmen", "Gladiators"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-gladiator-64.png
@@ -118,7 +118,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-hippo-64.png
           - "Brahmas"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-chicken-64.png
-          - ["Sharks", "Requins"]
+          - ["Sharks","Requins"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-shark-64.png
           - ["Skippers", "Mariners"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-boat-64.png
@@ -138,13 +138,13 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-fleur-de-lys-60.png
           - "Beavers"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-beaver-64.png
-          - ["Miners", "Gold Diggers"]
+          - ["Miners", "Gold Diggers","Golddiggers"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-mine-cart-64.png
           - "Bucks"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-deer-64.png
           - "Chaparrals"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-tree-64.png
-          - ["Sabers", "Sabres"]
+          - "Sabers"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-saber-weapon-64.png
           - "Seagulls"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-seagull-64.png
@@ -172,7 +172,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-cowboy-615101.png
           - ["Aviators", "Pilots"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-aviator-64.png
-          - ["Griffins", "Gryphons", "Griffons"]
+          - ["Griffins", "Gryphons"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-griffin-1388150.png
           - ["Giants","Titans"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-giant-4728529.png
@@ -220,6 +220,14 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-blueberry-64.png
           - "Beetdiggers"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-beet-64.png
+          - ["Bison","Buffalo","Buffaloes"]
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-bison-5832708.png
+          - ["Moose","Mooses"]
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-moose-7525270.png
+          - "Outlaws"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-bandit-64.png
+          - "Camels"
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-camel-64.png
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-school-60.png
 ---
 
