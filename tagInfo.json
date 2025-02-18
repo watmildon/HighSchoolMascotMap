@@ -1,0 +1,21 @@
+{
+    "data_format": 1,
+    "data_url": "https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/tagInfo.json",
+    "project": {               
+        "name": "HighSchoolMascotMap",
+        "description": "An Ultra map showing data from the mascot tag on schools",
+        "project_url": "https://github.com/watmildon/HighSchoolMascotMap/",
+        "contact_name": "watmildon",
+        "contact_email": "highschoolmascotmap@gmail.com"
+    },
+    "tags": [
+        {
+            "key": "mascot",
+            "description": "Determine which icon to use"
+        },
+        {
+            "key": "amenity",
+            "value": "school"
+        }
+    ]
+}
