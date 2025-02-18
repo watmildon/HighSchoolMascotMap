@@ -92,3 +92,4 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-binoculars-64.png - https://icons8.com/
 * icons8-pig-64.png - https://icons8.com/
 * icons8-gecko-64.png - https://icons8.com/
+* icons8-flames-60.png - https://icons8.com/
