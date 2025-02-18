@@ -39,7 +39,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/lion.png
           - ["Zebras"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-zebra-60.png
-          - "Gators"
+          - ["Gators", "Irrigators"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-alligator-64.png
           - ["Monarchs", "Royals","Nobles","Kingsmen", "Regals"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-crown-64.png
@@ -169,7 +169,7 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-ford-model-t-64.png
           - "Sea Kings"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-trident-64.png
-          - ["Gauchos", "Plainsmen"]
+          - ["Gauchos", "Plainsmen", "Rough Riders"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/noun-cowboy-615101.png
           - ["Aviators", "Pilots"]
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-aviator-64.png
@@ -229,6 +229,20 @@ style:
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-bandit-64.png
           - "Camels"
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-camel-64.png
+          - ["Cavaliers"]
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-cavalier-64.png
+          - ["Warriors"]
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-tomahawk-64.png
+          - ["Orioles", "Tanagers]
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-bird-64.png
+          - ["Scoopers"]
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-shovel-64.png
+          - ["Arrows"]
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-arrow-64.png
+          - ["Thorpes"]
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-american-football-player-64.png
+          - ["Sioux", "Redmen"]
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-indian-headdress-64.png
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/icons8-school-60.png
 ---
 
