@@ -99,3 +99,11 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-beet-64.png - https://icons8.com/
 * icons8-bandit-64.png - https://icons8.com/
 * icons8-camel-64.png - https://icons8.com/
+* icons8-arrow-64.png - https://icons8.com/
+* icons8-bird-64.png - https://icons8.com/
+* icons8-gazelle-64.png - https://icons8.com/
+* icons8-american-football-player-64.png - https://icons8.com/
+* icons/icons8-shovel-64.png - https://icons8.com/
+* icons/icons8-cavalier-64.png - https://icons8.com/
+* icons/icons8-tomahawk-64.png - https://icons8.com/
+* icons/icons8-indian-headdress-64.png - https://icons8.com/
