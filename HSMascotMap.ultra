@@ -352,6 +352,8 @@ style:
               - Wildkats
             - noun-bobcat-6475557
             - - Kernels
+              - Huskers
+              - Cornjerkers
             - icons8-corn-64
             - - Explorers
             - icons8-binoculars-64
@@ -452,7 +454,7 @@ style:
 rel(148838);map_to_area->.searchArea;
 // determine set of schools
 (
-  wr[mascot][amenity=school](area.searchArea);
+  nwr[mascot][amenity=school](area.searchArea);
 );
 
 out center;
