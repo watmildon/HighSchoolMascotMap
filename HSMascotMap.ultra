@@ -30,6 +30,7 @@ style:
             - - Bears
               - Bruins
               - Grizzlies
+              - Grizzly
               - Cubs
               - Golden Bears
               - Kodiaks
@@ -224,6 +225,7 @@ style:
             - icons8-kangaroo-64
             - - Otters
               - River Otters
+              - Sea Otters
             - icons8-otter-60
             - - Orcas
             - icons8-orca-64
@@ -253,6 +255,7 @@ style:
             - - Sharks
               - Requins
               - Bullsharks
+              - Blue Sharks
             - icons8-shark-64
             - - Skippers
               - Mariners
