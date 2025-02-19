@@ -387,7 +387,8 @@ style:
             - icons8-cavalier-64
             - - Warriors
             - icons8-tomahawk-64
-            - - Orioles
+            - - Birds
+              - Orioles
               - Tanagers
               - Alouettes
               - Golden Cranes
@@ -432,7 +433,7 @@ style:
             - - Steers
             - icons8-cow-64
             - - Pilgrims
-            - icons8-pilgrim-64
+            - icons8-pilgrim-hat-64
             - - Stars
             - icons8-star-64
             - - Zeyphers

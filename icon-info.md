@@ -120,7 +120,7 @@ Provides an accounting of the license information for image files in the "icons"
 * icons/icons8-unicorn-64.png - https://icons8.com/
 * icons/icons8-ace-of-spades-64.png - https://icons8.com/
 * icons/icons8-cow-64.png - https://icons8.com/
-* icons/icons8-pilgrim-64.png - https://icons8.com/
+* icons/icons8-pilgrim-hat-64.png - https://icons8.com/
 * icons/icons8-star-64.png - https://icons8.com/
 * icons/icons8-witch's-hat-64.png - https://icons8.com/
 * icons/icons8-wind-64.png - https://icons8.com/
