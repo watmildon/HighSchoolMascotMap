@@ -126,3 +126,4 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-wind-64.png - https://icons8.com/
 * icons8-dwarf-64.png - https://icons8.com/
 * icons8-avatar-64.png - https://icons8.com/
+* icons8-wizard-64.png - https://icons8.com/
