@@ -31,6 +31,7 @@ style:
               - Grizzlies
               - Cubs
               - Golden Bears
+              - Kodiaks
             - noun-bear-653
             - - Cats
               - Tigers
@@ -39,6 +40,7 @@ style:
               - Mountain Lions
               - Jaguars
               - Panthers
+              - Panthères
               - Cougars
               - Bengals
               - Kougars
@@ -63,6 +65,7 @@ style:
               - Redhawks
               - Nighthawks
               - Skyhawks
+              - SkyHawks
               - Thunderbirds
               - Hawks
               - Seahawks
@@ -71,6 +74,8 @@ style:
               - Warhawks
               - Soaring Eagles
               - Black Eagles
+              - Aigles
+              - Bayhawks
             - eagle_14030573
             - - Ravens
             - icons8-raven-64
@@ -80,12 +85,15 @@ style:
             - - Zebras
             - icons8-zebra-60
             - - Gators
+              - Alligators
+              - Irrigators
             - icons8-alligator-64
             - - Monarchs
               - Royals
               - Nobles
               - Kingsmen
               - Regals
+              - Delta Kings
             - icons8-crown-64
             - - Crusaders
               - Templars
@@ -108,6 +116,7 @@ style:
               - Horsemen
               - Broncs
               - Bays
+              - Stallions
             - icons8-horse-60
             - - Hurricanes
               - Cyclones
@@ -125,6 +134,7 @@ style:
             - - Rockets
             - icons8-rocket-64
             - - Suns
+              - Apollos
             - icons8-sun-64
             - - Tornados
               - Tornadoes
@@ -173,9 +183,12 @@ style:
             - icons8-knight-64
             - - Jackrabbits
               - Rabbits
+              - Angoras
             - icons8-rabbit-64
             - - Spartans
               - Sentinels
+              - Centurions
+              - Sentinals
             - icons8-spartan-64
             - - Cowboys
               - Texans
@@ -194,6 +207,7 @@ style:
             - - Kangaroos
             - icons8-kangaroo-64
             - - Otters
+              - River Otters
             - icons8-otter-60
             - - Orcas
             - icons8-orca-64
@@ -233,10 +247,12 @@ style:
             - - Koalas
             - icons8-koala-64
             - - Locomotives
+              - Rail Cat
             - icons8-steam-engine-64
             - - Thunderbolts
               - Bolts
               - Thunders
+              - Thunder
               - Flashes
             - icons8-lightning-64
             - - Dinos
@@ -254,6 +270,7 @@ style:
             - - Chaparrals
             - icons8-tree-64
             - - Sabers
+              - Sabres
             - icons8-saber-weapon-64
             - - Seagulls
             - icons8-seagull-64
@@ -287,6 +304,7 @@ style:
             - icons8-aviator-64
             - - Griffins
               - Gryphons
+              - Griffons
             - noun-griffin-1388150
             - - Giants
               - Titans
@@ -317,6 +335,7 @@ style:
               - Hilanders
             - noun-flag-of-scotland-4062186
             - - Bulldogs
+              - Bullpups
             - noun-bulldog-7196519
             - - Bobcats
               - Lynx
@@ -328,10 +347,12 @@ style:
             - - Explorers
             - icons8-binoculars-64
             - - Herons
+              - Blue Herons
             - noun-heron-7121230
             - - Syrup Makers
             - noun-maple-syrup-7241147
             - - Razorbacks
+              - Javelinas
             - icons8-pig-64
             - - Sand Lizards
             - icons8-gecko-64
@@ -355,10 +376,14 @@ style:
             - icons8-camel-64
             - - Cavaliers
             - icons8-cavalier-64
-            - - "Warriors"
+            - - Warriors
             - icons8-tomahawk-64
             - - Orioles
               - Tanagers
+              - Alouettes
+              - Golden Cranes
+              - Condors
+              - Ricebirds
             - icons8-bird-64
             - - Scoopers
             - icons8-shovel-64
@@ -369,6 +394,10 @@ style:
             - - Sioux
               - Redmen
             - icons8-indian-headdress-64
+            - - Tarpons
+              - Marlins
+              - Muskies
+            - icons8-fish-64
             - icons8-school-60
           - .png
 ---

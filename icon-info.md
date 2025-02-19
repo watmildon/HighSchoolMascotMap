@@ -107,3 +107,4 @@ Provides an accounting of the license information for image files in the "icons"
 * icons/icons8-cavalier-64.png - https://icons8.com/
 * icons/icons8-tomahawk-64.png - https://icons8.com/
 * icons/icons8-indian-headdress-64.png - https://icons8.com/
+* icons/icons8-fish-64.png - https://icons8.com/
