@@ -212,6 +212,9 @@ style:
               - Axemen
             - icons8-axe-60
             - - Dragons
+              - Blue Dragons
+              - Red Dragons
+              - Green Dragons
             - icons8-dragon-64
             - - Kangaroos
             - icons8-kangaroo-64
@@ -243,6 +246,7 @@ style:
             - icons8-chicken-64
             - - Sharks
               - Requins
+              - Bullsharks
             - icons8-shark-64
             - - Skippers
               - Mariners
@@ -258,6 +262,7 @@ style:
             - icons8-koala-64
             - - Locomotives
               - Rail Cat
+              - Moguls
             - icons8-steam-engine-64
             - - Thunderbolts
               - Bolts
@@ -276,6 +281,7 @@ style:
               - Golddiggers
             - icons8-mine-cart-64
             - - Bucks
+              - Bucks;Gazelles
             - icons8-deer-64
             - - Chaparrals
             - icons8-tree-64
@@ -308,6 +314,7 @@ style:
             - icons8-trident-64
             - - Gauchos
               - Plainsmen
+              - Rough Riders
             - noun-cowboy-615101
             - - Aviators
               - Pilots
@@ -409,6 +416,7 @@ style:
             - icons8-american-football-player-64
             - - Sioux
               - Redmen
+              - Indians
             - icons8-indian-headdress-64
             - - Tarpons
               - Marlins
@@ -448,6 +456,10 @@ style:
             - icons8-witch's-hat-64
             - - Rapids
             - noun-kayak-156915
+            - - Midgets
+              - Dwarves
+              - Dwarfs
+            - icons8-dwarf-64
             - icons8-school-60
           - .png
 ---
