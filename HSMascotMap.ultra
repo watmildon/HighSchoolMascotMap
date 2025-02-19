@@ -354,6 +354,22 @@ style:
             - icons8-bandit-64
             - - Camels
             - icons8-camel-64
+            - - Cavaliers
+            - icons8-cavalier-64
+            - - "Warriors"
+            - icons8-tomahawk-64
+            - - Orioles
+              - Tanagers
+            - icons8-bird-64
+            - - Scoopers
+            - icons8-shovel-64
+            - - Arrows
+            - icons8-arrow-64
+            - - Thorpes
+            - icons8-american-football-player-64
+            - - Sioux
+              - Redmen
+            - icons8-indian-headdress-64
             - icons8-school-60
           - .png
 ---
