@@ -283,6 +283,7 @@ style:
             - - Miners
               - Gold Diggers
               - Golddiggers
+              - Quarriers
             - icons8-mine-cart-64
             - - Bucks
               - Bucks;Gazelles
@@ -470,6 +471,8 @@ style:
             - icons8-avatar-64
             - - Wizards
             - icons8-wizard-64
+            - - Oilers
+            - icons8-oil-pump-64
             - icons8-school-60
           - .png
 ---
