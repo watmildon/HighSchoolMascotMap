@@ -52,8 +52,7 @@ style:
               - Catamounts
               - Cheetahs
             - icons8-cat-64
-            - - Huskies
-              - Beagles
+            - - Beagles
               - Greyhounds
               - Boxers
               - Hoyas
@@ -61,6 +60,8 @@ style:
               - Spoofhounds
               - Dogs
             - noun-dog-364
+            - - Huskies
+            - noun-siberian-husky-6144002
             - - Eagles
               - Golden Eagles
               - War Eagles
