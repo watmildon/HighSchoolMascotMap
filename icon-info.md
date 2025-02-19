@@ -29,6 +29,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-cheetah-6475549.png - Cheetah by Besticons from Noun Project (CC BY 3.0)
 * noun-jaguar-6475548.png - jaguar by Besticons from Noun Project (CC BY 3.0)
 * noun-puma-3391157.png - puma by Lars Meiertoberens from Noun Project (CC BY 3.0)
+* noun-knight-6567383.png - Knight by Dimitri Lupo from Noun Project (CC BY 3.0)
 * icons8-zebra-60.png - https://icons8.com/
 * icons8-school-60.png - https://icons8.com/
 * icons8-alligator-64.png - https://icons8.com/
