@@ -80,6 +80,7 @@ style:
               - Aigles
               - Bayhawks
               - C-Hawks
+              - T-Birds
             - eagle_14030573
             - - Ravens
             - icons8-raven-64
@@ -131,7 +132,6 @@ style:
             - - Phoenix
               - Phoenixes
               - Firebirds
-              - T-Birds
             - icons8-phoenix-60
             - - Pirates
               - Buccaneers
@@ -474,6 +474,8 @@ style:
             - icons8-wizard-64
             - - Oilers
             - icons8-oil-pump-64
+            - - Governors
+            - icons8-politician-64
             - icons8-school-60
           - .png
 ---
