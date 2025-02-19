@@ -22,6 +22,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-moose-7525270.png - Moose by pramana from Noun Project (CC BY 3.0)
 * noun-black-flag-5471370.png - black flag by geoffreydorne from Noun Project (CC BY 3.0)
 * noun-liberty-bell-4360246.png - Liberty bell by Angelica from Noun Project (CC BY 3.0)
+* noun-kayak-156915.png - Kayak by Nicolas Vicent from Noun Project (CC BY 3.0)
 * icons8-zebra-60.png - https://icons8.com/
 * icons8-school-60.png - https://icons8.com/
 * icons8-alligator-64.png - https://icons8.com/
@@ -117,4 +118,9 @@ Provides an accounting of the license information for image files in the "icons"
 * icons/icons8-raccoon-64.png - https://icons8.com/
 * icons/icons8-stingray-64.png - https://icons8.com/
 * icons/icons8-unicorn-64.png - https://icons8.com/
-
+* icons/icons8-ace-of-spades-64.png - https://icons8.com/
+* icons/icons8-cow-64.png - https://icons8.com/
+* icons/icons8-pilgrim-64.png - https://icons8.com/
+* icons/icons8-star-64.png - https://icons8.com/
+* icons/icons8-witch's-hat-64.png - https://icons8.com/
+* icons/icons8-wind-64.png - https://icons8.com/
