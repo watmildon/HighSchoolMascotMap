@@ -167,6 +167,7 @@ style:
             - icons8-cardinals-64
             - - Russets
               - Spuds
+              - Spudders
             - icons8-potato-64
             - - Bees
               - Wasps
@@ -247,6 +248,7 @@ style:
             - - Hippos
             - icons8-hippo-64
             - - Brahmas
+              - Bantams
             - icons8-chicken-64
             - - Sharks
               - Requins
@@ -430,6 +432,7 @@ style:
             - - Tarpons
               - Marlins
               - Muskies
+              - Chinooks
             - icons8-fish-64
             - - Foxes
               - Silver Foxes
