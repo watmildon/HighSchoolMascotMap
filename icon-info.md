@@ -129,3 +129,4 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-wizard-64.png - https://icons8.com/
 * icons8-oil-pump-64.png - https://icons8.com/
 * icons8-politician-64.png - https://icons8.com/
+* icons8-sheriff-64.png - https://icons8.com/

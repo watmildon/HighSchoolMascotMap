@@ -33,7 +33,7 @@ style:
               - Cubs
               - Golden Bears
               - Kodiaks
-              - Rangers
+              - Hill City Rangers
             - noun-bear-653
             - - Cats
               - Tigers
@@ -400,6 +400,7 @@ style:
               - Mooses
             - noun-moose-7525270
             - - Outlaws
+              - Bandits
             - icons8-bandit-64
             - - Camels
             - icons8-camel-64
@@ -475,7 +476,13 @@ style:
             - - Oilers
             - icons8-oil-pump-64
             - - Governors
+              - Senators
+              - Presidents
+              - Democrats
             - icons8-politician-64
+            - - Rangers
+              - Lawmen
+            - icons8-sheriff-64
             - icons8-school-60
           - .png
 ---
