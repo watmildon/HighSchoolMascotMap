@@ -18,8 +18,8 @@ I would love help sourcing icons and adding them to the repo and map. The curren
 * Generally heavy weight and high fill
 * Suitable license, ex: public domain, or attributed in icon-info.md
 
-Most of the icons currently in use come from [Icon8](https://icons8.com/) and [The Noun Project](https://thenounproject.com/).
+Most of the icons currently in use come from [Icon8](https://icons8.com/) and [The Noun Project](https://thenounproject.com/). The iOS Filled and Glyph Neue styles on icons8 seem to work well.
 
 Once you have a suitable icon, add it to HSMascotMap.ultra under the other icons. The last entry is the defaul school icon.
 
-If you need inspiration on what values still need icons, [TagInfo](https://taginfo.openstreetmap.org/keys/mascot#values) has a full listing of values.
+If you need inspiration on what values still need icons, [TagInfo](https://taginfo.openstreetmap.org/keys/mascot#values) has a full listing of values currently on OpenStreetMap.

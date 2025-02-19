@@ -30,10 +30,11 @@ style:
             - - Bears
               - Bruins
               - Grizzlies
+              - Grizzly
               - Cubs
               - Golden Bears
               - Kodiaks
-              - Rangers
+              - Hill City Rangers
             - noun-bear-653
             - - Cats
               - Tigers
@@ -51,8 +52,7 @@ style:
               - Catamounts
               - Cheetahs
             - icons8-cat-64
-            - - Huskies
-              - Beagles
+            - - Beagles
               - Greyhounds
               - Boxers
               - Hoyas
@@ -60,28 +60,31 @@ style:
               - Spoofhounds
               - Dogs
             - noun-dog-364
+            - - Huskies
+            - noun-siberian-husky-6144002
             - - Eagles
               - Golden Eagles
               - War Eagles
-              - Falcons
-              - Redhawks
+              - Thunderbirds
+              - Soaring Eagles
+              - Black Eagles
+              - Aigles
+              - T-Birds
+            - noun-eagle-7121234
+            - - Redhawks
               - Red Hawks
               - Nighthawks
               - Skyhawks
               - SkyHawks
-              - Thunderbirds
               - Hawks
               - Seahawks
               - Sea Hawks
               - Riverhawks
               - Warhawks
-              - Soaring Eagles
-              - Black Eagles
-              - Aigles
               - Bayhawks
               - C-Hawks
-              - T-Birds
-            - eagle_14030573
+              - Falcons
+            - noun-hawk-6660034
             - - Ravens
             - icons8-raven-64
             - - Lions
@@ -167,6 +170,7 @@ style:
             - icons8-cardinals-64
             - - Russets
               - Spuds
+              - Spudders
             - icons8-potato-64
             - - Bees
               - Wasps
@@ -223,6 +227,7 @@ style:
             - icons8-kangaroo-64
             - - Otters
               - River Otters
+              - Sea Otters
             - icons8-otter-60
             - - Orcas
             - icons8-orca-64
@@ -247,10 +252,12 @@ style:
             - - Hippos
             - icons8-hippo-64
             - - Brahmas
+              - Bantams
             - icons8-chicken-64
             - - Sharks
               - Requins
               - Bullsharks
+              - Blue Sharks
             - icons8-shark-64
             - - Skippers
               - Mariners
@@ -400,6 +407,7 @@ style:
               - Mooses
             - noun-moose-7525270
             - - Outlaws
+              - Bandits
             - icons8-bandit-64
             - - Camels
             - icons8-camel-64
@@ -429,6 +437,7 @@ style:
             - - Tarpons
               - Marlins
               - Muskies
+              - Chinooks
             - icons8-fish-64
             - - Foxes
               - Silver Foxes
@@ -475,7 +484,13 @@ style:
             - - Oilers
             - icons8-oil-pump-64
             - - Governors
+              - Senators
+              - Presidents
+              - Democrats
             - icons8-politician-64
+            - - Rangers
+              - Lawmen
+            - icons8-sheriff-64
             - icons8-school-60
           - .png
 ---
