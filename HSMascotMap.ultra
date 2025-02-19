@@ -238,6 +238,7 @@ style:
             - icons8-shark-64
             - - Skippers
               - Mariners
+              - Sailors
             - icons8-boat-64
             - - Blue Wave
               - Greenwave
@@ -399,6 +400,22 @@ style:
               - Marlins
               - Muskies
             - icons8-fish-64
+            - - Fox
+              - Silver Fox
+            - icons8-fox-64
+            - - Rockies
+            - icons8-mountain-64
+            - - Penguins
+            - icons8-penguin-64
+            - - Pretzels
+            - icons8-pretzels-64
+            - - Raccoons
+            - icons8-raccoon-64
+            - - Stingarees
+              - Stingarays
+            - icons8-stingray-64
+            - - Unicorns
+            - icons8-unicorn-64
             - icons8-school-60
           - .png
 ---
