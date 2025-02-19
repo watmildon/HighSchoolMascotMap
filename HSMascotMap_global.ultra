@@ -203,6 +203,7 @@ style:
               - Axemen
             - icons8-axe-60
             - - Dragons
+              - Blue Dragons
             - icons8-dragon-64
             - - Kangaroos
             - icons8-kangaroo-64
@@ -264,6 +265,7 @@ style:
             - - Miners
               - Gold Diggers
               - Golddiggers
+              - Quarriers
             - icons8-mine-cart-64
             - - Bucks
             - icons8-deer-64
@@ -298,6 +300,7 @@ style:
             - icons8-trident-64
             - - Gauchos
               - Plainsmen
+              - Rough Riders
             - noun-cowboy-615101
             - - Aviators
               - Pilots
@@ -398,6 +401,8 @@ style:
               - Marlins
               - Muskies
             - icons8-fish-64
+              - Patriots
+            - noun-captain-james-jack-statue-59814
             - icons8-school-60
           - .png
 ---
