@@ -21,6 +21,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-bison-5832708.png - Bison by Lars Meiertoberens from Noun Project (CC BY 3.0)
 * noun-moose-7525270.png - Moose by pramana from Noun Project (CC BY 3.0)
 * noun-black-flag-5471370.png - black flag by geoffreydorne from Noun Project (CC BY 3.0)
+* noun-liberty-bell-4360246.png - Liberty bell by Angelica from Noun Project (CC BY 3.0)
 * icons8-zebra-60.png - https://icons8.com/
 * icons8-school-60.png - https://icons8.com/
 * icons8-alligator-64.png - https://icons8.com/
