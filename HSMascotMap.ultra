@@ -43,7 +43,8 @@ style:
             - icons8-cat-64
             - - Tigers
               - Bengals
-            - icons8-year-of-tiger
+              - Tigercats
+            - icons8-year-of-tiger-64
             - - Cheetahs
             - noun-cheetah-6475549
             - - Jaguars
@@ -112,7 +113,8 @@ style:
             - - Crusaders
               - Templars
             - icons8-crusader-60
-            - - Red Devils
+            - - Devils
+              - Red Devils
               - Blue Devils
               - Sundevils
               - Green Devils
