@@ -497,6 +497,8 @@ style:
             - - Rangers
               - Lawmen
             - icons8-sheriff-64
+            - - Athenians
+            - noun-athena-2225790
             - icons8-school-60
           - .png
 ---
