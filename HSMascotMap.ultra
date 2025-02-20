@@ -37,21 +37,28 @@ style:
               - Hill City Rangers
             - noun-bear-653
             - - Cats
-              - Tigers
               - Blackcats
-              - Pumas
-              - Mountain Lions
-              - Jaguars
-              - Panthers
-              - Panthères
-              - Cougars
-              - Bengals
-              - Kougars
               - Bearcats
               - Bearkats
-              - Catamounts
-              - Cheetahs
             - icons8-cat-64
+            - - Tigers
+              - Bengals
+              - Tigercats
+            - icons8-year-of-tiger-64
+            - - Cheetahs
+            - noun-cheetah-6475549
+            - - Jaguars
+              - Panthers
+              - Panthères
+            - noun-jaguar-6475548
+            - - Pumas
+              - Cougars
+              - Mountain Lions
+              - Kougars
+              - Catamounts
+            - noun-puma-3391157
+            - - Sabercats
+            - noun-sabertooth-4903406
             - - Beagles
               - Greyhounds
               - Boxers
@@ -106,7 +113,8 @@ style:
             - - Crusaders
               - Templars
             - icons8-crusader-60
-            - - Red Devils
+            - - Devils
+              - Red Devils
               - Blue Devils
               - Sundevils
               - Green Devils
@@ -197,6 +205,8 @@ style:
               - Crimson Knights
               - Maroon Knights
             - icons8-knight-64
+            - - Lancers
+            - noun-knight-6567383
             - - Jackrabbits
               - Rabbits
               - Angoras
@@ -491,6 +501,8 @@ style:
             - - Rangers
               - Lawmen
             - icons8-sheriff-64
+            - - Athenians
+            - noun-athena-2225790
             - icons8-school-60
           - .png
 ---
