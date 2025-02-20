@@ -14,6 +14,10 @@
             "description": "Determine which icon to use"
         },
         {
+            "key": "mascot:iconography",
+            "description": "Override mascot key where appropriate"
+        },
+        {
             "key": "amenity",
             "value": "school"
         }
