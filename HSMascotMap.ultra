@@ -292,6 +292,7 @@ style:
               - Flashes
             - icons8-lightning-64
             - - Dinos
+              - Raptors
             - icons8-dino-64
             - - Saints
             - icons8-fleur-de-lys-60
@@ -506,8 +507,6 @@ style:
             - noun-athena-2225790
             - - Cossacks
             - icons8-cossack-64
-            - - Raptors
-            - icons8-dinosaur-64
             - - Scotties
             - icons8-yorkshire-terrier-64
             - icons8-school-60
