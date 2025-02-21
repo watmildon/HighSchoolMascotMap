@@ -34,7 +34,7 @@ If you need inspiration on what values still need icons, [TagInfo](https://tagin
 
 The easiest way to find lots and lots of schools that need mascot tags is to query OpenStreetMap using [Overpass](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_API_by_Example). My favorite implementation is [Ultra](https://overpass-ultra.us/). Take the query below, paste it into Ultra, modify it to search your state, hit run.
 
-[JOSM](https://josm.openstreetmap.de/) also has the ability to download data using an Overpass query.
+[JOSM](https://josm.openstreetmap.de/) also has the ability to [download data using an Overpass query](https://josm.openstreetmap.de/wiki/Help/Action/Download).
 
 ```
 [out:xml][timeout:300];
