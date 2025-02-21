@@ -360,6 +360,7 @@ style:
             - - Tremors
             - icons8-earthquake-60
             - - Kavemen
+              - Cavemen
             - icons8-caveman-64
             - - Coyotes
             - noun-coyote-3662387
@@ -445,6 +446,8 @@ style:
               - Redmen
               - Indians
               - Braves
+              - Utes
+              - Moquis
             - icons8-indian-headdress-64
             - - Tarpons
               - Marlins
