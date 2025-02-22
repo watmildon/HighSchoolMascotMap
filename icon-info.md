@@ -33,6 +33,8 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-athena-2225790.png - Athena by parkjisun from Noun Project (CC BY 3.0)
 * noun-sabertooth-4903406.png - Sabertooth by Amethyst Studio from Noun Project (CC BY 3.0)
 * noun-archer-3971196.png - Archer by Becris from Noun Project (CC BY 3.0)
+* noun-paper-7410429.png - Paper by SISWANTORO from Noun Project (CC BY 3.0)
+* noun-top-hat-6147491.png - Top Hat by k a r e e m o v from Noun Project (CC BY 3.0)
 * icons8-zebra-60.png - https://icons8.com/
 * icons8-school-60.png - https://icons8.com/
 * icons8-alligator-64.png - https://icons8.com/

@@ -232,6 +232,7 @@ style:
               - Blue Dragons
               - Red Dragons
               - Green Dragons
+              - Wyverns
             - icons8-dragon-64
             - - Kangaroos
             - icons8-kangaroo-64
@@ -400,6 +401,7 @@ style:
               - Javelinas
             - icons8-pig-64
             - - Sand Lizards
+              - Geckos
             - icons8-gecko-64
             - - Flames
               - Blue Blazes
@@ -516,6 +518,10 @@ style:
             - noun-archer-3971196
             - - Legends
             - icons8-scroll-64
+            - - Papermakers
+            - noun-paper-7410429
+            - - Hatters
+            - noun-top-hat-6147491
             - icons8-school-60
           - .png
 ---
