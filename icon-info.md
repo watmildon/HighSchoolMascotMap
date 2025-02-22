@@ -142,3 +142,4 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-sheriff-64.png - https://icons8.com/
 * icons8-cossack-64.png - https://icons8.com/
 * icons8-yorkshire-terrier-64.png - https://icons8.com/
+* icons8-scroll-64.png - https://icons8.com/
