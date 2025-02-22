@@ -26,7 +26,10 @@ style:
           - concat
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/
           - - match
-            - [ get, mascot ]
+            - - case
+              - [ "has", "mascot:iconography" ]
+              - [ "get", "mascot:iconography" ]
+              - [ "get", "mascot" ]
             - - Bears
               - Bruins
               - Grizzlies
