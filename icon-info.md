@@ -3,7 +3,6 @@ Provides an accounting of the license information for image files in the "icons"
 
 * noun-bear-653.png - Public Domain from https://thenounproject.com/icon/bear-653/
 * noun-dog-364.png - Public Domain from https://thenounproject.com/icon/dog-364/
-* lion - (Icon by G-CAT)[https://www.freepik.com/icon/animal_15006191#fromView=search&page=2&position=74&uuid=ca6e4ddb-31bb-4dee-ad72-fe02c43fe17e]
 * eagle_14030573.png - (Icon by Blue Lantern Artwork)[https://www.freepik.com/icon/eagle_14030573#fromView=search&page=1&position=78&uuid=57d49c08-105e-4f29-ae35-fbaa2d0c64b2]
 * noun-cowboy-615101.png - Cowboy by Luis Prado from Noun Project (CC BY 3.0)
 * noun-griffin-1388150.png - Griffin by Icons Producer from Noun Project (CC BY 3.0)
@@ -32,6 +31,10 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-knight-6567383.png - Knight by Dimitri Lupo from Noun Project (CC BY 3.0)
 * noun-athena-2225790.png - Athena by parkjisun from Noun Project (CC BY 3.0)
 * noun-sabertooth-4903406.png - Sabertooth by Amethyst Studio from Noun Project (CC BY 3.0)
+* noun-archer-3971196.png - Archer by Becris from Noun Project (CC BY 3.0)
+* noun-paper-7410429.png - Paper by SISWANTORO from Noun Project (CC BY 3.0)
+* noun-top-hat-6147491.png - Top Hat by k a r e e m o v from Noun Project (CC BY 3.0)
+* noun-lion-5415959 - Lion by Thales Muller from Noun Project (CC BY 3.0)
 * icons8-zebra-60.png - https://icons8.com/
 * icons8-school-60.png - https://icons8.com/
 * icons8-alligator-64.png - https://icons8.com/
@@ -141,3 +144,5 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-sheriff-64.png - https://icons8.com/
 * icons8-cossack-64.png - https://icons8.com/
 * icons8-yorkshire-terrier-64.png - https://icons8.com/
+* icons8-scroll-64.png - https://icons8.com/
+* icons8-anchor-64.png - https://icons8.com/

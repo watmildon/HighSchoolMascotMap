@@ -26,7 +26,10 @@ style:
           - concat
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/
           - - match
-            - [ get, mascot ]
+            - - case
+              - [ "has", "mascot:iconography" ]
+              - [ "get", "mascot:iconography" ]
+              - [ "get", "mascot" ]
             - - Bears
               - Bruins
               - Grizzlies
@@ -34,7 +37,6 @@ style:
               - Cubs
               - Golden Bears
               - Kodiaks
-              - Hill City Rangers
             - noun-bear-653
             - - Cats
               - Blackcats
@@ -96,7 +98,7 @@ style:
             - icons8-raven-64
             - - Lions
               - Golden Lions
-            - lion
+            - noun-lion-5415959
             - - Zebras
             - icons8-zebra-60
             - - Gators
@@ -232,6 +234,7 @@ style:
               - Blue Dragons
               - Red Dragons
               - Green Dragons
+              - Wyverns
             - icons8-dragon-64
             - - Kangaroos
             - icons8-kangaroo-64
@@ -400,6 +403,7 @@ style:
               - Javelinas
             - icons8-pig-64
             - - Sand Lizards
+              - Geckos
             - icons8-gecko-64
             - - Flames
               - Blue Blazes
@@ -512,6 +516,16 @@ style:
             - icons8-cossack-64
             - - Scotties
             - icons8-yorkshire-terrier-64
+            - - Centaurs
+            - noun-archer-3971196
+            - - Legends
+            - icons8-scroll-64
+            - - Papermakers
+            - noun-paper-7410429
+            - - Hatters
+            - noun-top-hat-6147491
+            - - Lakers
+            - icons8-anchor-64
             - icons8-school-60
           - .png
 ---
