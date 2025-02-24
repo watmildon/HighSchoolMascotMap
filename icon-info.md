@@ -91,7 +91,6 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-shark-64.png - https://icons8.com/
 * icons8-sheriff-64.png - https://icons8.com/
 * icons8-shovel-64.png - https://icons8.com/
-* icons8-spartan-64.png - https://icons8.com/
 * icons8-star-64.png - https://icons8.com/
 * icons8-steam-engine-64.png - https://icons8.com/
 * icons8-stingray-64.png - https://icons8.com/
@@ -143,5 +142,6 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-sabertooth-4903406.png - Sabertooth by Amethyst Studio from Noun Project (CC BY 3.0)
 * noun-scorpion-7144042.png - Scorpion by Leonardo Henrique Martini from from Noun Project (CC BY 3.0)
 * noun-siberian-husky-6144002.png - Siberian Husky by Amanda Yamasaki from Noun Project (CC BY 3.0)
+* noun-spartan-helmet-1732615.png - spartan helmet by Joni Ramadhan from Noun Project (CC BY 3.0)
 * noun-top-hat-6147491.png - Top Hat by k a r e e m o v from Noun Project (CC BY 3.0)
 * noun-wolverine-4704799.png - Wolverine by Amethyst Studio from from Noun Project (CC BY 3.0)
