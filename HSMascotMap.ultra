@@ -244,6 +244,10 @@ style:
               - War Eagles
             - noun-eagle-7121234
 
+						- - Elephants
+							- Elephant
+						- noun-elephant-912737
+
             - - Explorers
             - icons8-binoculars-64
 
@@ -373,6 +377,7 @@ style:
             - icons8-leopard-64
 
             - - Lions
+							- Lion
               - Golden Lions
             - noun-lion-5415959
 
@@ -439,6 +444,10 @@ style:
 
             - - Patriots
             - noun-liberty-bell-4360246
+
+						- - Pelicans
+							- Pelican
+						- noun-pelican-7121255
 
             - - Penguins
             - icons8-penguin-64
