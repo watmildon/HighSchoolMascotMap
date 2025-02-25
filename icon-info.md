@@ -138,6 +138,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-maple-syrup-7241147.png - maple syrup by Supanut Piyakanont from Noun Project (CC BY 3.0)
 * noun-moose-7525270.png - Moose by pramana from Noun Project (CC BY 3.0)
 * noun-paper-7410429.png - Paper by SISWANTORO from Noun Project (CC BY 3.0)
+* noun-peacock-7166331.png - Peacock by Hat-Tech from Noun Project (CC BY 3.0)
 * noun-puma-3391157.png - puma by Lars Meiertoberens from Noun Project (CC BY 3.0)
 * noun-sabertooth-4903406.png - Sabertooth by Amethyst Studio from Noun Project (CC BY 3.0)
 * noun-scorpion-7144042.png - Scorpion by Leonardo Henrique Martini from from Noun Project (CC BY 3.0)
