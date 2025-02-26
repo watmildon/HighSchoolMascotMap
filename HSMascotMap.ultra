@@ -729,25 +729,16 @@ style:
             - - Zeyphers
             - icons8-wind-64
 
-
             - - match
-            - - slice
-              - - get
-                - mascot
-              - 0
-              - 1
-            - I
-            - Letterman_I
-            - B
-            - Letterman_B
-            - C
-            - Letterman_C
+              - [downcase, [slice, [get, mascot], 0, 1]]
+              - [a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z]
+              - [concat, Letterman_, [upcase, [slice, [get, mascot], 0, 1]]]
 
-            - icons8-school-60
+              - icons8-school-60
           - .png
 ---
 [out:json][timeout:800];
-rel(165479);map_to_area->.searchArea;
+rel(148838);map_to_area->.searchArea;
 // determine set of schools
 (
   nwr[mascot][amenity=school](area.searchArea);
