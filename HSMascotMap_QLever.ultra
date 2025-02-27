@@ -41,6 +41,7 @@ style:
 
             - - Alligators
               - Gators
+              - Golden Gators
               - Irrigators
             - icons8-alligator-64
 
@@ -65,12 +66,15 @@ style:
             - icons8-beetle-60
 
             - - Bears
+              - Black Bears
               - Bruins
               - Cubs
               - Kodiaks
               - Golden Bears
               - Grizzlies
               - Grizzly
+              - Lady Bears
+              - Scarlet Bears
             - noun-bear-653
 
             - - Beavers
@@ -199,6 +203,7 @@ style:
 
             - - Devils
               - Blue Devils
+              - Diablos
               - Green Devils
               - Greene Devils
               - Red Devils
@@ -212,10 +217,12 @@ style:
 
             - - Dogs
               - Beagles
+              - Blue Dogs
               - Boxers
               - Devil Dogs
               - Greyhounds
               - Hoyas
+              - Pointers
               - Spoofhounds
             - noun-dog-364
 
@@ -241,6 +248,7 @@ style:
             - - Eagles
               - Aigles
               - Black Eagles
+              - Blue Eagles
               - C-Hawks
               - Golden Eagles
               - Soaring Eagles
@@ -250,12 +258,14 @@ style:
             - noun-eagle-7121234
 
             - - Explorers
+              - Pathfinders
             - icons8-binoculars-64
 
             - - Farmers
             - icons8-field-and-tractor-64
 
             - - Fish
+              - Carp
               - Chinooks
               - Marlins
               - Muskies
@@ -263,6 +273,8 @@ style:
             - icons8-fish-64
 
             - - Flames
+              - Blazers
+              - Blue Blazers
               - Blue Blazes
             - icons8-flames-60
 
@@ -329,9 +341,11 @@ style:
             - - Hurricanes
               - Cyclones
               - Purple Hurricanes
+              - Storm
             - icons8-hurricane-64
 
             - - Huskies
+              - Malamutes
             - noun-siberian-husky-6144002
 
             - - Irish
@@ -351,9 +365,11 @@ style:
               - Black Knights
               - Blue Knights
               - Crimson Knights
+              - Defenders
               - Golden Knights
               - Maroon Knights
               - Raiders
+              - Red Knights
               - Silver Knights
             - icons8-knight-64
 
@@ -369,6 +385,7 @@ style:
             - - Law Enforcement
               - Lawmen
               - Rangers
+              - Troopers
             - icons8-sheriff-64
 
             - - Legends
@@ -409,12 +426,17 @@ style:
             - icons8-mountain-64
 
             - - Native Americans
+              - Apaches
               - Braves
+              - Cherokees
               - Chiefs
+              - Chieftains
               - Choctaw
               - Indians
               - Moquis
+              - Mohigans
               - Redmen
+              - Redskins
               - Sioux
               - Utes
             - icons8-indian-headdress-64
@@ -445,6 +467,10 @@ style:
             - - Patriots
             - noun-liberty-bell-4360246
 
+            - - Peackocks
+              - Peacock
+            - noun-peacock-7166331
+
             - - Penguins
             - icons8-penguin-64
 
@@ -453,6 +479,7 @@ style:
 
             - - Phoenix
               - Firebirds
+              - Phénix
               - Phoenixes
             - icons8-phoenix-60
 
@@ -521,6 +548,8 @@ style:
             - icons8-pig-64
 
             - - Rebels
+              - Lil' Rebels
+              - Red Rebels
             - noun-black-flag-5471370
 
             - - Rhinoceros
@@ -560,6 +589,7 @@ style:
             - - Scots
               - Highlanders
               - Hilanders
+              - Kilties
             - noun-flag-of-scotland-4062186
 
             - - Scotties
@@ -578,6 +608,7 @@ style:
             - icons8-shark-64
 
             - - Skippers
+              - Clippers
               - Mariners
               - Sailors
             - icons8-boat-64
@@ -598,6 +629,8 @@ style:
             - noun-spartan-helmet-1732615
 
             - - Stars
+              - North Stars
+              - Superstars
             - icons8-star-64
 
             - - Steers
@@ -638,6 +671,7 @@ style:
               - Golden Tornadoes
               - Golden Tornados
               - Tornadoes
+              - Whirlies
               - Whirlwinds
             - icons8-tornado-64
 
@@ -656,6 +690,7 @@ style:
 
             - - Vikings
               - Norsemen
+              - Northmen
             - icons8-viking-helmet-64
 
             - - Warriors
@@ -685,6 +720,7 @@ style:
             - noun-wolverine-4704799
 
             - - Wolves
+              - Gray Wolves
               - Greywolves
               - Loboes
               - Lobos
@@ -701,7 +737,12 @@ style:
             - - Zeyphers
             - icons8-wind-64
 
-            - icons8-school-60
+            - - match
+              - [downcase, [slice, [get, mascot], 0, 1]]
+              - [a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z]
+              - [concat, Letterman_, [upcase, [slice, [get, mascot], 0, 1]]]
+
+              - icons8-school-60
           - .png
 ---
 
