@@ -369,13 +369,12 @@ style:
               - Black Knights
               - Blue Knights
               - Crimson Knights
-              - Defenders
               - Golden Knights
               - Maroon Knights
               - Raiders
               - Red Knights
               - Silver Knights
-            - icons8-knight-64
+            - noun-knight-helmet-440140
 
             - - Koalas
             - icons8-koala-64
@@ -612,6 +611,16 @@ style:
               - Requins
             - icons8-shark-64
 
+            - - Ships
+              - Shipbuilders
+              - Whalers
+            - noun-ship-800131
+
+            - - Shields
+              - Defenders
+              - Desert Shields
+            - noun-kite-shield-440133
+
             - - Skippers
               - Clippers
               - Mariners
@@ -697,7 +706,7 @@ style:
             - - Vikings
               - Norsemen
               - Northmen
-            - icons8-viking-helmet-64
+            - noun-viking-helmet-440139
 
             - - Warriors
             - icons8-tomahawk-64
