@@ -1,21 +1,16 @@
 87s
-Abes
 Acorns
-Admirals
 Angels
 Antelopes
 Antlers
 Artesians
 Astros
-Atoms
-Aztecs
 Barons
 Battlin' Billies
 Big Reds
 Black Scots
 Blackscots
 Blizzards
-Blue Demons
 Blue Jackets
 Bluejackets
 Blues
@@ -30,39 +25,29 @@ Buckeyes
 Bulldog
 Bullets
 Bulls
-Burros
-Cadets
 Cavers
 Celtics
 Chimeras
-Colonels
 Colonials
-Commanders
 Conquerors
 Conquistadores
 Conquistadors
 Copper Kings
 Cotton Pickers
-Crimson Tide
 Cyclone
 Dalers
 Darts
 Deacons
-Deer
-Demons
 Dons
 Dragon
-Dutchmen
 Elephants
 Elite
 Engineers
 Falcon
 Fightin' Irish
-Fighting Owls
 Fishermen
 Friars
 Garnets
-Generals
 Goats
 Goliaths and Athenas
 Gremlins
@@ -73,7 +58,6 @@ Ironmen
 Islanders
 Jaguar
 Juggernauts
-Kadets
 King Cubs
 Lady Warriors
 Lambkins
@@ -83,7 +67,6 @@ Loups
 Lyons
 Macaws
 Magic
-Majors
 Marauders
 Marines
 Maroons
@@ -93,7 +76,6 @@ Millers
 Modeltowners
 Mounties
 Muckers
-Mules
 Mustangs;Fillies
 Nanooks
 Obama Stars
@@ -101,7 +83,6 @@ Pacers
 Packers
 Pandas
 Patriotes
-Pelicans
 Punchers
 Quaker
 Quakers
@@ -120,25 +101,19 @@ Roustabouts
 Rustlers
 Sandies
 Saxons
-Silver Hawks
 Slicers
-Soldiers
 Spirit
-Statesmen
 Steelers
-Steelhawks
 Stingers
 Storm
 Stormrays
 Sultans
-Sun Devils
 Tarriers
 Tartars
 Teddy Bears
 Terriers
 The Green Dragon
 Think Flamingo
-Thunderhawks
 Tigers and Jaguars
 Tiny Tigers
 Trappers
@@ -151,7 +126,6 @@ Vigilantes
 Volunteers
 Voyagers
 Voyageurs
-Whalers
 White Tigers
 Wild
 Wolf Pack

@@ -6,6 +6,7 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-american-football-player-64.png - https://icons8.com/
 * icons8-anchor-64.png - https://icons8.com/
 * icons8-arrow-64.png - https://icons8.com/
+* icons8-atom-64 - https://icons8.com/ 
 * icons8-avatar-64.png - https://icons8.com/
 * icons8-axe-60.png - https://icons8.com/
 * icons8-badger-64.png - https://icons8.com/
@@ -26,6 +27,7 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-chicken-64.png - https://icons8.com/
 * icons8-clock-64.png - https://icons8.com/
 * icons8-comet-64.png - https://icons8.com/
+* icons8-conch-shell-64.png - https://icons8.com/
 * icons8-corn-64.png - https://icons8.com/
 * icons8-cossack-64.png - https://icons8.com/
 * icons8-cow-64.png - https://icons8.com/
@@ -140,6 +142,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-abraham-lincoln-5878979.png - Abraham Lincoln by Brad from Noun Project (CC BY 3.0)
 * noun-archer-3971196.png - Archer by Becris from Noun Project (CC BY 3.0)
 * noun-athena-2225790.png - Athena by parkjisun from Noun Project (CC BY 3.0)
+* noun-aztec-pyramid-4486531.png - aztec pyramid by Andi Nur Abdillah rom Noun Project (CC BY 3.0)
 * noun-bear-653.png - Public Domain from https://thenounproject.com/icon/bear-653/
 * noun-bison-5832708.png - Bison by Lars Meiertoberens from Noun Project (CC BY 3.0)
 * noun-black-flag-5471370.png - black flag by geoffreydorne from Noun Project (CC BY 3.0)
@@ -151,6 +154,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-cowboy-615101.png - Cowboy by Luis Prado from Noun Project (CC BY 3.0)
 * noun-coyote-3662387.png - Coyote by Abby from from from Noun Project (CC BY 3.0)
 * noun-dog-364.png - Public Domain from https://thenounproject.com/icon/dog-364/
+* noun-donkey-7033944.png - Donkey by Fauzi Arts from Noun Project (CC BY 3.0)
 * noun-eagle-7121234.png - Eagle by sentya irma from Noun Project (CC BY 3.0)
 * noun-flag-of-scotland-4062186.png - flag of scotland by Tyler Gobberdiel from from Noun Project (CC BY 3.0)
 * noun-giant-4728529.png - giant by agus raharjo from from Noun Project (CC BY 3.0)
@@ -166,6 +170,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-lion-5415959 - Lion by Thales Muller from Noun Project (CC BY 3.0)
 * noun-longhorn-skull-189289.png - Longhorn Skull by Benjamin Harlow from from Noun Project (CC BY 3.0)
 * noun-maple-syrup-7241147.png - maple syrup by Supanut Piyakanont from Noun Project (CC BY 3.0)
+* noun-military-medal-5497159.png - Military medal by VectorsLab from Noun Project (CC BY 3.0)
 * noun-moose-7525270.png - Moose by pramana from Noun Project (CC BY 3.0)
 * noun-paper-7410429.png - Paper by SISWANTORO from Noun Project (CC BY 3.0)
 * noun-peacock-7166331.png - Peacock by Hat-Tech from Noun Project (CC BY 3.0)

@@ -31,6 +31,9 @@ style:
               - [ "get", "mascot:iconography" ]
               - [ "get", "mascot" ]
 
+            - - Abes
+            - noun-abraham-lincoln-5878979
+
             - - Aces
             - icons8-ace-of-spades-64
 
@@ -46,9 +49,15 @@ style:
             - - Athenians
             - noun-athena-2225790
 
+            - - Atoms
+            - icons8-atom-64
+
             - - Aviators
               - Pilots
             - icons8-aviator-64
+
+            - - Aztecs
+            - noun-aztec-pyramid-4486531
 
             - - Badgers
             - icons8-badger-64
@@ -73,6 +82,7 @@ style:
             - noun-bear-653
 
             - - Beavers
+              - Golden Beavers
             - icons8-beaver-64
 
             - - Bees
@@ -94,6 +104,7 @@ style:
               - Condors
               - Golden Cranes
               - Orioles
+              - Pelicans
               - Ricebirds
               - Tanagers
             - icons8-bird-64
@@ -117,6 +128,7 @@ style:
             - noun-bobcat-6475557
 
             - - Bucks
+              - Deer
               - Bucks;Gazelles
             - icons8-deer-64
 
@@ -181,6 +193,9 @@ style:
               - Komets
             - icons8-comet-64
 
+            - - Conches
+            - icons8-conch-shell-64
+
             - - Corn
               - Cornjerkers
               - Huskers
@@ -205,12 +220,15 @@ style:
             - icons8-crusader-60
 
             - - Devils
+              - Blue Demons
               - Blue Devils
+              - Demons
               - Diablos
               - Green Devils
               - Greene Devils
               - Red Devils
               - Sundevils
+              - Sun Devils
             - icons8-devil-64
 
             - - Dinosaurs
@@ -238,6 +256,11 @@ style:
               - Red Dragons
               - Wyverns
             - icons8-dragon-64
+
+            - - Donkeys
+              - Burros
+              - Mules
+            - noun-donkey-7033944
 
             - - Ducks
               - Ganders
@@ -315,8 +338,11 @@ style:
               - Riverhawks
               - Seahawks
               - Sea Hawks
+              - Silver Hawks
               - Skyhawks
               - SkyHawks
+              - Steelhawks
+              - Thunderhawks
               - Warhawks
             - noun-hawk-6660034
 
@@ -459,6 +485,7 @@ style:
             - icons8-otter-60
 
             - - Owls
+              - Fighting Owls
             - icons8-owl-64
 
             - - Papermakers
@@ -510,6 +537,7 @@ style:
               - Governors
               - Presidents
               - Senators
+              - Statesmen
             - icons8-politician-64
 
             - - Potatoes
@@ -612,6 +640,7 @@ style:
             - icons8-shark-64
 
             - - Ships
+              - Dutchmen
               - Shipbuilders
               - Whalers
             - noun-ship-800131
@@ -636,6 +665,17 @@ style:
               - Sidewinders
               - Vipers
             - icons8-snake-64
+
+            - - Soldiers
+              - Admirals
+              - Cadets
+              - Colonels
+              - Commanders
+              - Generals
+              - Kadets
+              - Majors
+              - Soldiers
+            - noun-military-medal-5497159
 
             - - Spartans
               - Centurions
@@ -714,6 +754,7 @@ style:
 
             - - Waves
               - Blue Wave
+              - Crimson Tide
               - Greenwave
               - Waveriders
             - icons8-wave-64
