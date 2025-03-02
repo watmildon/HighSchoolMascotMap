@@ -1,6 +1,5 @@
 87s
 Acorns
-Angels
 Antelopes
 Antlers
 Artesians
@@ -42,7 +41,6 @@ Dons
 Dragon
 Elephants
 Elite
-Engineers
 Falcon
 Fightin' Irish
 Fishermen
@@ -51,7 +49,6 @@ Garnets
 Goats
 Goliaths and Athenas
 Gremlins
-Guardians
 Impalas
 Invaders
 Ironmen
@@ -62,7 +59,6 @@ King Cubs
 Lady Warriors
 Lambkins
 Lion
-Lords
 Loups
 Lyons
 Macaws
@@ -77,26 +73,20 @@ Modeltowners
 Mounties
 Muckers
 Mustangs;Fillies
-Nanooks
 Obama Stars
 Pacers
 Packers
-Pandas
 Patriotes
 Punchers
 Quaker
 Quakers
 Racers
 Rail Cats
-Railsplitters
 Ramblers
 Red Raiders
 Redd Lion
 Rhinos
-Riders
 RiverHakws
-Roughnecks
-Roughriders
 Roustabouts
 Rustlers
 Sandies
@@ -104,7 +94,6 @@ Saxons
 Slicers
 Spirit
 Steelers
-Stingers
 Storm
 Stormrays
 Sultans
@@ -126,7 +115,6 @@ Vigilantes
 Volunteers
 Voyagers
 Voyageurs
-White Tigers
 Wild
 Wolf Pack
 Wolf Pups

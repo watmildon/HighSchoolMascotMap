@@ -32,6 +32,7 @@ style:
               - [ "get", "mascot" ]
 
             - - Abes
+              - Railsplitters
             - noun-abraham-lincoln-5878979
 
             - - Aces
@@ -42,6 +43,9 @@ style:
               - Golden Gators
               - Irrigators
             - icons8-alligator-64
+
+            - - Angels
+            - noun-angel-4039832
 
             - - Arrows
             - icons8-arrow-64
@@ -88,6 +92,7 @@ style:
             - - Bees
               - Bumble Bees
               - Hornets
+              - Stingers
               - Wasps
               - Yellow Jackets
               - Yellowjackets
@@ -283,6 +288,9 @@ style:
               - War Eagles
             - noun-eagle-7121234
 
+            - - Engineers
+            - noun-engineer-5295670
+
             - - Explorers
               - Pathfinders
             - icons8-binoculars-64
@@ -447,6 +455,7 @@ style:
             - icons8-mine-cart-64
 
             - - Moose
+              - Mean Moose
               - Mooses
             - noun-moose-7525270
 
@@ -471,6 +480,7 @@ style:
             - icons8-indian-headdress-64
 
             - - Oilers
+              - Roughnecks
             - icons8-oil-pump-64
 
             - - Olympians
@@ -487,6 +497,9 @@ style:
             - - Owls
               - Fighting Owls
             - icons8-owl-64
+
+            - - Pandas
+            - noun-panda-6873635
 
             - - Papermakers
             - noun-paper-7410429
@@ -531,6 +544,10 @@ style:
               - Golden Bombers
               - Jets
             - icons8-plane-64
+
+            - - Polar Bears
+              - Nanooks
+            - noun-polar-bear-6814672
 
             - - Politicians
               - Democrats
@@ -597,10 +614,11 @@ style:
               - Delta Kings
               - Kings
               - Kingsmen
+              - Lords
               - Monarchs
               - Nobles
               - Regals
-            - icons8-crown-64
+            - noun-crown-7592395
 
             - - Sabercats
             - noun-sabertooth-4903406
@@ -648,6 +666,7 @@ style:
             - - Shields
               - Defenders
               - Desert Shields
+              - Guardians
             - noun-kite-shield-440133
 
             - - Skippers
@@ -763,7 +782,9 @@ style:
               - Gauchos
               - Herders
               - Plainsmen
+              - Riders
               - Rough Riders
+              - Roughriders
             - noun-cowboy-615101
 
             - - Witches
