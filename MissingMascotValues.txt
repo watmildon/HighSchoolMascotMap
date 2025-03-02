@@ -4,16 +4,26 @@ Antelopes
 Antlers
 Artesians
 Astros
+Axolotl
 Barons
+Barracudas
 Battlin' Billies
 Big Reds
+Bisons
+Black Raiders
 Black Scots
 Blackscots
 Blizzards
+Blue Darters
+Blue Dukes
 Blue Jackets
+Blue Streaks
+Blue Thunder
 Bluejackets
+Bluejays
 Blues
 Bobcats;Deer
+Bold Eagles
 Borderites
 Bowmen
 Brahman
@@ -21,104 +31,158 @@ Brave
 Brickies
 Bronchos
 Buckeyes
+Buddies
 Bulldog
 Bullets
 Bulls
+Castle Guards
 Cavers
 Celtics
+Champions
 Chimeras
+Colonial
 Colonials
 Conquerors
 Conquistadores
 Conquistadors
 Copper Kings
 Cotton Pickers
+Crickets
+Criminals
+Crimson Lions
+Curley Wolves
 Cyclone
 Dalers
 Darts
 Deacons
+Dine Warriors
 Dons
-Dragon
+Dorado
+Dukes
+Dust Devils
 Elephants
 Elite
-Falcon
-Fightin' Irish
+Elks
+Evergreens
+Fighting Cardinals
+Fighting Colts
 Fishermen
+Flammes
+Flying Arrows
 Friars
+Friendly Dolphins
 Garnets
+Ghosts
 Goats
 Goliaths and Athenas
+Gophers
+Goslings
+Goslins
 Gremlins
+Guardians
+Hustlin' Hawks
 Impalas
 Invaders
 Ironmen
 Islanders
-Jaguar
 Juggernauts
 King Cubs
-Lady Warriors
 Lambkins
-Lion
+Little Johns
 Loups
+Lumberjacks
 Lyons
 Macaws
 Magic
+Maniacs
 Marauders
 Marines
 Maroons
+Marshmen
 Matadors
 Mauraders
 Millers
 Modeltowners
+Monsoon
 Mounties
 Muckers
 Mustangs;Fillies
+Nordiks
+Norskies
 Obama Stars
+Old Abes
+Oredockers
+Ouragans
 Pacers
 Packers
 Patriotes
+Pegasus
+Pigeon
+Ponies
+Prospectors
+Prowlers
 Punchers
+Purgolders
 Quaker
 Quakers
 Racers
-Rail Cats
 Ramblers
 Red Raiders
+Red Riots
+Red Storm
+Red Tails
+Redbirds
+Redcats
 Redd Lion
+Regents
 Rhinos
 RiverHakws
+Rocks
 Roustabouts
 Rustlers
+Sand Devils
 Sandies
 Saxons
+Sea Pilots
+Shooting Stars
+Silver Eagles
+Silverhawks
 Slicers
 Spirit
+Stags
+Stampede
 Steelers
-Storm
 Stormrays
 Sultans
-Tarriers
-Tartars
+Super Star Sam
 Teddy Bears
 Terriers
+Terrors
 The Green Dragon
+The Phoenix
 Think Flamingo
 Tigers and Jaguars
 Tiny Tigers
+Toros
 Trappers
+Trevians
 Tribe
 Tritons
+Trollers
 Turks
 Tyees
+Vanguards
 Vaqueros
 Vigilantes
+Vols
 Volunteers
 Voyagers
 Voyageurs
-Wild
+Whippets
 Wolf Pack
 Wolf Pups
 Wolfpack
 Wykons
-axolotl
-pigeon
+Yeti
+bobcats
+trojans
