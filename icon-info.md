@@ -161,6 +161,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-celtic-knot-6722441 - Celtic Knot by Jaime Serra from from Noun Project (CC BY 3.0)
 * noun-climbing-4454358 - Climbing by Lars Meiertoberens from from Noun Project (CC BY 3.0)
 * noun-cheetah-6475549 - Cheetah by Besticons from Noun Project (CC BY 3.0)
+* noun-captain-james-jack-statue-59814 - Captain James Jack Statue by Iconic Charlotte from Noun Project (CC BY 3.0)
 * noun-cowboy-615101 - Cowboy by Luis Prado from Noun Project (CC BY 3.0)
 * noun-coyote-3662387 - Coyote by Abby from from from Noun Project (CC BY 3.0)
 * noun-crown-7592395 - Crown by Nursila from from from Noun Project (CC BY 3.0)
