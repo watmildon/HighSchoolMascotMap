@@ -48,6 +48,7 @@ style:
             - noun-angel-4039832
 
             - - Arrows
+              - Flying Arrows
             - icons8-arrow-64
 
             - - Athenians
@@ -67,6 +68,7 @@ style:
             - icons8-badger-64
 
             - - Bandits
+              - Criminals
               - Outlaws
             - icons8-bandit-64
 
@@ -102,6 +104,7 @@ style:
             - icons8-beet-64
 
             - - Berries
+              - Marshmen
             - icons8-blueberry-64
 
             - - Birds
@@ -110,11 +113,14 @@ style:
               - Golden Cranes
               - Orioles
               - Pelicans
+              - Pigeon
               - Ricebirds
+              - Redbirds
               - Tanagers
             - icons8-bird-64
 
             - - Bison
+              - Bisons
               - Buffalo
               - Buffaloes
               - Buffalos
@@ -133,8 +139,9 @@ style:
             - noun-bobcat-6475557
 
             - - Bucks
-              - Deer
               - Bucks;Gazelles
+              - Deer
+              - Stags
             - icons8-deer-64
 
             - - Bulldogs
@@ -143,6 +150,10 @@ style:
 
             - - Bullfrogs
             - icons8-frog-64
+
+            - - Bulls
+              - Toros
+            - icons8-bull-64
 
             - - Camels
             - icons8-camel-64
@@ -154,6 +165,7 @@ style:
               - Bearcats
               - Bearkats
               - Blackcats
+              - Redcats
             - icons8-cat-64
 
             - - Cavaliers
@@ -280,6 +292,7 @@ style:
               - Aigles
               - Black Eagles
               - Blue Eagles
+              - Bold Eagles
               - C-Hawks
               - Golden Eagles
               - Soaring Eagles
@@ -362,6 +375,7 @@ style:
             - icons8-hippo-64
 
             - - Honkers
+              - Goslings
             - icons8-goose-64
 
             - - Horses
@@ -373,13 +387,13 @@ style:
               - Horsemen
               - Mavericks
               - Mustangs
+              - Ponies
               - Stallions
             - icons8-horse-60
 
             - - Hurricanes
               - Cyclones
               - Purple Hurricanes
-              - Storm
             - icons8-hurricane-64
 
             - - Huskies
@@ -442,15 +456,20 @@ style:
 
             - - Loggers
               - Axemen
+              - Lumberjacks
             - icons8-axe-60
 
             - - Longhorns
               - Dogies
             - noun-longhorn-skull-189289
 
+            - - Millers
+            - icons8-flour-64
+
             - - Miners
               - Gold Diggers
               - Golddiggers
+              - Prospectors
               - Quarriers
             - icons8-mine-cart-64
 
@@ -478,6 +497,9 @@ style:
               - Sioux
               - Utes
             - icons8-indian-headdress-64
+
+            - - Norskies
+            - noun-norway-6661068
 
             - - Oilers
               - Roughnecks
@@ -518,6 +540,8 @@ style:
             - icons8-penguin-64
 
             - - Phantoms
+              - Ghosts
+              - Spirit
             - icons8-phantom-64
 
             - - Phoenix
@@ -601,6 +625,7 @@ style:
             - noun-black-flag-5471370
 
             - - Rhinoceros
+              - Rhinos
             - icons8-rhinoceros-64
 
             - - Roadrunners
@@ -611,13 +636,17 @@ style:
             - icons8-rocket-64
 
             - - Royals
+              - Barons
+              - Blue Dukes
               - Delta Kings
+              - Dukes
               - Kings
               - Kingsmen
               - Lords
               - Monarchs
               - Nobles
               - Regals
+              - Regents
             - noun-crown-7592395
 
             - - Sabercats
@@ -693,6 +722,7 @@ style:
               - Generals
               - Kadets
               - Majors
+              - Marines
             - noun-military-medal-5497159
 
             - - Spartans
@@ -713,6 +743,11 @@ style:
               - Stingarees
             - icons8-stingray-64
 
+            - - Storm
+              - Monsoon
+              - Red Storm
+            - noun-storm-7373164
+
             - - Suns
               - Apollos
             - icons8-sun-64
@@ -728,6 +763,7 @@ style:
             - icons8-american-football-player-64
 
             - - Lightning
+              - Blue Thunder
               - Bolts
               - Flashes
               - Thunder
@@ -751,6 +787,7 @@ style:
 
             - - Trees
               - Chaparrals
+              - Evergreens
             - icons8-tree-64
 
             - - Tremors
@@ -785,6 +822,7 @@ style:
               - Riders
               - Rough Riders
               - Roughriders
+              - Vaqueros
             - noun-cowboy-615101
 
             - - Witches
@@ -806,7 +844,13 @@ style:
               - Seawolves
               - Silverwolves
               - Timberwolves
+              - Wolf Pack
+              - Wolf Pups
+              - Wolfpack
             - icons8-wolf-64
+
+            - - Yeti
+            - noun-yeti-6324100
 
             - - Zebras
             - icons8-zebra-60

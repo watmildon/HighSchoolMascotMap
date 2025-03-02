@@ -1,143 +1,153 @@
 # Icon lisence
 Provides an accounting of the license information for image files in the "icons" folder.
-* eagle_14030573 - (Icon by Blue Lantern Artwork)[https://www.freepik.com/icon/eagle_14030573#fromView=search&page=1&position=78&uuid=57d49c08-105e-4f29-ae35-fbaa2d0c64b2]
-* icons8-ace-of-spades-64 - https://icons8.com/
-* icons8-alligator-64 - https://icons8.com/
-* icons8-american-football-player-64 - https://icons8.com/
-* icons8-anchor-64 - https://icons8.com/
-* icons8-arrow-64 - https://icons8.com/
-* icons8-atom-64 - https://icons8.com/ 
-* icons8-avatar-64 - https://icons8.com/
-* icons8-axe-60 - https://icons8.com/
-* icons8-badger-64 - https://icons8.com/
-* icons8-bandit-64 - https://icons8.com/
-* icons8-beaver-64 - https://icons8.com/
-* icons8-bee-64 - https://icons8.com/
-* icons8-beet-64 - https://icons8.com/
-* icons8-beetle-60 - https://icons8.com/
-* icons8-binoculars-64 - https://icons8.com/
-* icons8-bird-64 - https://icons8.com/
-* icons8-blueberry-64 - https://icons8.com/
-* icons8-boat-64 - https://icons8.com/
-* icons8-camel-64 - https://icons8.com/
-* icons8-cardinals-64 - https://icons8.com/
-* icons8-cat-64 - https://icons8.com/
-* icons8-cavalier-64 - https://icons8.com/
-* icons8-caveman-60 - https://icons8.com/
-* icons8-chicken-64 - https://icons8.com/
-* icons8-clock-64 - https://icons8.com/
-* icons8-comet-64 - https://icons8.com/
-* icons8-conch-shell-64 - https://icons8.com/
-* icons8-corn-64 - https://icons8.com/
-* icons8-cossack-64 - https://icons8.com/
-* icons8-cow-64 - https://icons8.com/
-* icons8-cowboy-64 - https://icons8.com/
-* icons8-crusader-60 - https://icons8.com/
-* icons8-deer-64 - https://icons8.com/
-* icons8-devil-64 - https://icons8.com/
-* icons8-dino-64 - https://icons8.com/
-* icons8-dolphin-64 - https://icons8.com/
-* icons8-dragon-64 - https://icons8.com/
-* icons8-duck-64 - https://icons8.com/
-* icons8-dwarf-64 - https://icons8.com/
-* icons8-earthquake-60 - https://icons8.com/
-* icons8-field-and-tractor-64 - https://icons8.com/
-* icons8-fish-64 - https://icons8.com/
-* icons8-flames-60 - https://icons8.com/
-* icons8-fleur-de-lys-60 - https://icons8.com/
-* icons8-ford-model-t-64 - https://icons8.com/
-* icons8-fox-64 - https://icons8.com/
-* icons8-gazelle-64 - https://icons8.com/
-* icons8-gecko-64 - https://icons8.com/
-* icons8-hippo-64 - https://icons8.com/
-* icons8-horse-60 - https://icons8.com/
-* icons8-hurricane-64 - https://icons8.com/
-* icons8-indian-headdress-64 - https://icons8.com/
-* icons8-jay-64 - https://icons8.com/
-* icons8-kangaroo-64 - https://icons8.com/
-* icons8-knight-64 - https://icons8.com/
-* icons8-koala-64 - https://icons8.com/
-* icons8-leopard-64 - https://icons8.com/
-* icons8-lightning-64 - https://icons8.com/
-* icons8-mine-cart-64 - https://icons8.com/
-* icons8-miner-64 - https://icons8.com/
-* icons8-moutain-64 - https://icons8.com/
-* icons8-oil-pump-64 - https://icons8.com/
-* icons8-orca-64 - https://icons8.com/
-* icons8-otter-60 - https://icons8.com/
-* icons8-owl-64 - https://icons8.com/
-* icons8-parrot-64 - https://icons8.com/
-* icons8-penguin-64 - https://icons8.com/
-* icons8-phantom-64 - https://icons8.com/
-* icons8-phoenix-60 - https://icons8.com/
-* icons8-pig-64 - https://icons8.com/
-* icons8-pilgrim-hat-64 - https://icons8.com/
-* icons8-pirate-60 - https://icons8.com/
-* icons8-plane-64 - https://icons8.com/
-* icons8-politician-64 - https://icons8.com/
-* icons8-potato-64 - https://icons8.com/
-* icons8-pretzel-64 - https://icons8.com/
-* icons8-rabbit-64 - https://icons8.com/
-* icons8-raccoon-64 - https://icons8.com/
-* icons8-ram-64 - https://icons8.com/
-* icons8-raven-64 - https://icons8.com/
-* icons8-rhinoceros-64 - https://icons8.com/
-* icons8-roadrunner-64 - https://icons8.com/
-* icons8-rocket-64 - https://icons8.com/
-* icons8-saber-64 - https://icons8.com/
-* icons8-school-60 - https://icons8.com/
-* icons8-scroll-64 - https://icons8.com/
-* icons8-seagull-64 - https://icons8.com/
-* icons8-shamrock-64 - https://icons8.com/
-* icons8-shark-64 - https://icons8.com/
-* icons8-sheriff-64 - https://icons8.com/
-* icons8-shovel-64 - https://icons8.com/
-* icons8-star-64 - https://icons8.com/
-* icons8-steam-engine-64 - https://icons8.com/
-* icons8-stingray-64 - https://icons8.com/
-* icons8-sun-64 - https://icons8.com/
-* icons8-tomahawk-64 - https://icons8.com/
-* icons8-tornado-64 - https://icons8.com/
-* icons8-tree-64 - https://icons8.com/
-* icons8-trident-64 - https://icons8.com/
-* icons8-trojan-horse-60 - https://icons8.com/
-* icons8-unicorn-64 - https://icons8.com/
-* icons8-viking-helmet-64 - https://icons8.com/
-* icons8-wagon-64 - https://icons8.com/
-* icons8-wave-64 - https://icons8.com/
-* icons8-wind-64 - https://icons8.com/
-* icons8-witch's-hat-64 - https://icons8.com/
-* icons8-wizard-64 - https://icons8.com/
-* icons8-wolf-64 - https://icons8.com/
-* icons8-year-of-tiger-64 - https://icons8.com/
-* icons8-yorkshire-terrier-64 - https://icons8.com/
-* icons8-zebra-60 - https://icons8.com/
-* Letterman_A - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_B - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_C - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_D - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_E - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_F - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_G - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_H - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_I - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_J - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_K - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_L - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_M - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_N - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_O - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_P - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_Q - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_R - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_S - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_T - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_U - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_V - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_W - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_X - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_Y - generated by allisonwhilden using VARSITY font from dafont
-* Letterman_Z - generated by allisonwhilden using VARSITY font from dafont
+
+## Icons from [icon8.com](https://icons8.com/)
+
+* icons8-ace-of-spades-64
+* icons8-alligator-64
+* icons8-american-football-player-64
+* icons8-anchor-64
+* icons8-arrow-64
+* icons8-atom-64 
+* icons8-avatar-64
+* icons8-axe-60
+* icons8-badger-64
+* icons8-bandit-64
+* icons8-beaver-64
+* icons8-bee-64
+* icons8-beet-64
+* icons8-beetle-60
+* icons8-binoculars-64
+* icons8-bird-64
+* icons8-blueberry-64
+* icons8-boat-64
+* icons8-bull-64
+* icons8-camel-64
+* icons8-cardinals-64
+* icons8-cat-64
+* icons8-cavalier-64
+* icons8-caveman-60
+* icons8-chicken-64
+* icons8-clock-64
+* icons8-comet-64
+* icons8-conch-shell-64
+* icons8-corn-64
+* icons8-cossack-64
+* icons8-cow-64
+* icons8-cowboy-64
+* icons8-crusader-60
+* icons8-deer-64
+* icons8-devil-64
+* icons8-dino-64
+* icons8-dolphin-64
+* icons8-dragon-64
+* icons8-duck-64
+* icons8-dwarf-64
+* icons8-earthquake-60
+* icons8-field-and-tractor-64
+* icons8-fish-64
+* icons8-flames-60
+* icons8-fleur-de-lys-60
+* icons8-flour-64
+* icons8-ford-model-t-64
+* icons8-fox-64
+* icons8-gazelle-64
+* icons8-gecko-64
+* icons8-hippo-64
+* icons8-horse-60
+* icons8-hurricane-64
+* icons8-indian-headdress-64
+* icons8-jay-64
+* icons8-kangaroo-64
+* icons8-knight-64
+* icons8-koala-64
+* icons8-leopard-64
+* icons8-lightning-64
+* icons8-mine-cart-64
+* icons8-miner-64
+* icons8-moutain-64
+* icons8-oil-pump-64
+* icons8-orca-64
+* icons8-otter-60
+* icons8-owl-64
+* icons8-parrot-64
+* icons8-penguin-64
+* icons8-phantom-64
+* icons8-phoenix-60
+* icons8-pig-64
+* icons8-pilgrim-hat-64
+* icons8-pirate-60
+* icons8-plane-64
+* icons8-politician-64
+* icons8-potato-64
+* icons8-pretzel-64
+* icons8-rabbit-64
+* icons8-raccoon-64
+* icons8-ram-64
+* icons8-raven-64
+* icons8-rhinoceros-64
+* icons8-roadrunner-64
+* icons8-rocket-64
+* icons8-saber-64
+* icons8-school-60
+* icons8-scroll-64
+* icons8-seagull-64
+* icons8-shamrock-64
+* icons8-shark-64
+* icons8-sheriff-64
+* icons8-shovel-64
+* icons8-star-64
+* icons8-steam-engine-64
+* icons8-stingray-64
+* icons8-sun-64
+* icons8-tomahawk-64
+* icons8-tornado-64
+* icons8-tree-64
+* icons8-trident-64
+* icons8-trojan-horse-60
+* icons8-unicorn-64
+* icons8-viking-helmet-64
+* icons8-wagon-64
+* icons8-wave-64
+* icons8-wind-64
+* icons8-witch's-hat-64
+* icons8-wizard-64
+* icons8-wolf-64
+* icons8-year-of-tiger-64
+* icons8-yorkshire-terrier-64
+* icons8-zebra-60
+
+## Icons created by allisonwhilden using VARSITY font from dafont
+
+* Letterman_A
+* Letterman_B
+* Letterman_C
+* Letterman_D
+* Letterman_E
+* Letterman_F
+* Letterman_G
+* Letterman_H
+* Letterman_I
+* Letterman_J
+* Letterman_K
+* Letterman_L
+* Letterman_M
+* Letterman_N
+* Letterman_O
+* Letterman_P
+* Letterman_Q
+* Letterman_R
+* Letterman_S
+* Letterman_T
+* Letterman_U
+* Letterman_V
+* Letterman_W
+* Letterman_X
+* Letterman_Y
+* Letterman_Z
+
+## Icons from The Noun Project
+
 * noun-abraham-lincoln-5878979 - Abraham Lincoln by Brad from Noun Project (CC BY 3.0)
 * noun-angel-4039832 - Angel by IronSV from Noun Project (CC BY 3.0)
 * noun-archer-3971196 - Archer by Becris from Noun Project (CC BY 3.0)
@@ -174,6 +184,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-maple-syrup-7241147 - maple syrup by Supanut Piyakanont from Noun Project (CC BY 3.0)
 * noun-military-medal-5497159 - Military medal by VectorsLab from Noun Project (CC BY 3.0)
 * noun-moose-7525270 - Moose by pramana from Noun Project (CC BY 3.0)
+* noun-norway-6661068 - Norway by Mulham from Noun Project (CC BY 3.0)
 * noun-paper-7410429 - Paper by SISWANTORO from Noun Project (CC BY 3.0)
 * noun-panda-6873635 - Panda by jisangbong from Noun Project (CC BY 3.0)
 * noun-peacock-7166331 - Peacock by Hat-Tech from Noun Project (CC BY 3.0)
@@ -186,4 +197,5 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-spartan-helmet-1732615 - spartan helmet by Joni Ramadhan from Noun Project (CC BY 3.0)
 * noun-top-hat-6147491 - Top Hat by k a r e e m o v from Noun Project (CC BY 3.0)
 * noun-viking-helmet-440139 - Viking helmet by parkjisun from Noun Project (CC BY 3.0)
+* noun-yeti-6324100 - Yeti by CC0hort from Noun Project (CC BY 3.0)
 * noun-wolverine-4704799 - Wolverine by Amethyst Studio from from Noun Project (CC BY 3.0)
