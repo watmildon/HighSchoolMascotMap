@@ -1,9 +1,14 @@
 ---
+title: MascotMap
+description: Map of school mascots powered by OSM.
+type: sparql
+server: https://qlever.cs.uni-freiburg.de/api/osm-planet
 options:
   hash: m
+  zoom: -0.1
+  center: [0, 30]
   attributionControl:
     customAttribution: '<a href=".">Ultra</a> | <a href="https://github.com/watmildon/HighSchoolMascotMap">Github</a> | <a href="https://github.com/watmildon/HighSchoolMascotMap/blob/main/icon-info.md">Icons</a>'
-  bounds: [ -124.848974, 24.396308, -66.885444, 49.384358 ]
 controls:
   - type: GeolocateControl
     options:
@@ -31,10 +36,6 @@ style:
               - [ "get", "mascot:iconography" ]
               - [ "get", "mascot" ]
 
-            - - Abes
-              - Railsplitters
-            - noun-abraham-lincoln-5878979
-
             - - Aces
             - icons8-ace-of-spades-64
 
@@ -44,33 +45,21 @@ style:
               - Irrigators
             - icons8-alligator-64
 
-            - - Angels
-            - noun-angel-4039832
-
             - - Arrows
-              - Flying Arrows
             - icons8-arrow-64
 
             - - Athenians
             - noun-athena-2225790
 
-            - - Atoms
-            - icons8-atom-64
-
             - - Aviators
               - Pilots
             - icons8-aviator-64
-
-            - - Aztecs
-            - noun-aztec-pyramid-4486531
 
             - - Badgers
             - icons8-badger-64
 
             - - Bandits
-              - Criminals
               - Outlaws
-              - Vigilantes
             - icons8-bandit-64
 
             - - Beetles
@@ -89,13 +78,11 @@ style:
             - noun-bear-653
 
             - - Beavers
-              - Golden Beavers
             - icons8-beaver-64
 
             - - Bees
               - Bumble Bees
               - Hornets
-              - Stingers
               - Wasps
               - Yellow Jackets
               - Yellowjackets
@@ -105,25 +92,18 @@ style:
             - icons8-beet-64
 
             - - Berries
-              - Marshmen
             - icons8-blueberry-64
 
             - - Birds
               - Alouettes
-              - Bluejays
               - Condors
               - Golden Cranes
-              - Macaws
               - Orioles
-              - Pelicans
-              - Pigeon
               - Ricebirds
-              - Redbirds
               - Tanagers
             - icons8-bird-64
 
             - - Bison
-              - Bisons
               - Buffalo
               - Buffaloes
               - Buffalos
@@ -143,8 +123,6 @@ style:
 
             - - Bucks
               - Bucks;Gazelles
-              - Deer
-              - Stags
             - icons8-deer-64
 
             - - Bulldogs
@@ -154,22 +132,16 @@ style:
             - - Bullfrogs
             - icons8-frog-64
 
-            - - Bulls
-              - Toros
-            - icons8-bull-64
-
             - - Camels
             - icons8-camel-64
 
             - - Cardinals
-              - Fighting Cardinals
             - icons8-cardinals-64
 
             - - Cats
               - Bearcats
               - Bearkats
               - Blackcats
-              - Redcats
             - icons8-cat-64
 
             - - Cavaliers
@@ -196,30 +168,15 @@ style:
               - Brahmas
             - icons8-chicken-64
 
-            - - Climbers
-              - Foothillers
-              - Highclimbers
-              - Hillers
-              - Hilltoppers
-              - Mountaineers
-            - noun-climbing-4454358
-
             - - Clockers
             - icons8-clock-64
 
             - - Cobblers
             - icons8-avatar-64
 
-            - - Colonials
-            - noun-captain-james-jack-statue-59814
-
             - - Comets
               - Komets
-              - Shooting Stars
             - icons8-comet-64
-
-            - - Conchs
-            - icons8-conch-shell-64
 
             - - Corn
               - Cornjerkers
@@ -245,15 +202,12 @@ style:
             - icons8-crusader-60
 
             - - Devils
-              - Blue Demons
               - Blue Devils
-              - Demons
               - Diablos
               - Green Devils
               - Greene Devils
               - Red Devils
               - Sundevils
-              - Sun Devils
             - icons8-devil-64
 
             - - Dinosaurs
@@ -270,11 +224,9 @@ style:
               - Hoyas
               - Pointers
               - Spoofhounds
-              - Whippets
             - noun-dog-364
 
             - - Dolphins
-              - Friendly Dolphins
             - icons8-dolphin-64
 
             - - Dragons
@@ -283,11 +235,6 @@ style:
               - Red Dragons
               - Wyverns
             - icons8-dragon-64
-
-            - - Donkeys
-              - Burros
-              - Mules
-            - noun-donkey-7033944
 
             - - Ducks
               - Ganders
@@ -302,18 +249,13 @@ style:
               - Aigles
               - Black Eagles
               - Blue Eagles
-              - Bold Eagles
               - C-Hawks
               - Golden Eagles
-              - Silver Eagles
               - Soaring Eagles
               - T-Birds
               - Thunderbirds
               - War Eagles
             - noun-eagle-7121234
-
-            - - Engineers
-            - noun-engineer-5295670
 
             - - Explorers
               - Pathfinders
@@ -361,7 +303,6 @@ style:
 
             - - Hawks
               - Bayhawks
-              - Black Hawks
               - Blackhawks
               - Falcons
               - Nighthawks
@@ -370,11 +311,8 @@ style:
               - Riverhawks
               - Seahawks
               - Sea Hawks
-              - Silver Hawks
               - Skyhawks
               - SkyHawks
-              - Steelhawks
-              - Thunderhawks
               - Warhawks
             - noun-hawk-6660034
 
@@ -386,7 +324,6 @@ style:
             - icons8-hippo-64
 
             - - Honkers
-              - Goslings
             - icons8-goose-64
 
             - - Horses
@@ -395,17 +332,16 @@ style:
               - Broncs
               - Chargers
               - Colts
-              - Fighting Colts
               - Horsemen
               - Mavericks
               - Mustangs
-              - Ponies
               - Stallions
             - icons8-horse-60
 
             - - Hurricanes
               - Cyclones
               - Purple Hurricanes
+              - Storm
             - icons8-hurricane-64
 
             - - Huskies
@@ -427,15 +363,15 @@ style:
 
             - - Knights
               - Black Knights
-              - Black Raiders
               - Blue Knights
               - Crimson Knights
+              - Defenders
               - Golden Knights
               - Maroon Knights
               - Raiders
               - Red Knights
               - Silver Knights
-            - noun-knight-helmet-440140
+            - icons8-knight-64
 
             - - Koalas
             - icons8-koala-64
@@ -459,7 +395,6 @@ style:
             - icons8-leopard-64
 
             - - Lions
-              - Crimson Lions
               - Golden Lions
             - noun-lion-5415959
 
@@ -470,25 +405,19 @@ style:
 
             - - Loggers
               - Axemen
-              - Lumberjacks
             - icons8-axe-60
 
             - - Longhorns
               - Dogies
             - noun-longhorn-skull-189289
 
-            - - Millers
-            - icons8-flour-64
-
             - - Miners
               - Gold Diggers
               - Golddiggers
-              - Prospectors
               - Quarriers
             - icons8-mine-cart-64
 
             - - Moose
-              - Mean Moose
               - Mooses
             - noun-moose-7525270
 
@@ -512,11 +441,7 @@ style:
               - Utes
             - icons8-indian-headdress-64
 
-            - - Norskies
-            - noun-norway-6661068
-
             - - Oilers
-              - Roughnecks
             - icons8-oil-pump-64
 
             - - Olympians
@@ -531,11 +456,7 @@ style:
             - icons8-otter-60
 
             - - Owls
-              - Fighting Owls
             - icons8-owl-64
-
-            - - Pandas
-            - noun-panda-6873635
 
             - - Papermakers
             - noun-paper-7410429
@@ -554,8 +475,6 @@ style:
             - icons8-penguin-64
 
             - - Phantoms
-              - Ghosts
-              - Spirit
             - icons8-phantom-64
 
             - - Phoenix
@@ -583,16 +502,11 @@ style:
               - Jets
             - icons8-plane-64
 
-            - - Polar Bears
-              - Nanooks
-            - noun-polar-bear-6814672
-
             - - Politicians
               - Democrats
               - Governors
               - Presidents
               - Senators
-              - Statesmen
             - icons8-politician-64
 
             - - Potatoes
@@ -603,11 +517,6 @@ style:
 
             - - Pretzels
             - icons8-pretzels-64
-
-            - - Priests
-              - Deacons
-              - Friars
-            - noun-priest-6904676
 
             - - Pumas
               - Catamounts
@@ -644,7 +553,6 @@ style:
             - noun-black-flag-5471370
 
             - - Rhinoceros
-              - Rhinos
             - icons8-rhinoceros-64
 
             - - Roadrunners
@@ -655,18 +563,12 @@ style:
             - icons8-rocket-64
 
             - - Royals
-              - Barons
-              - Blue Dukes
               - Delta Kings
-              - Dukes
-              - Kings
               - Kingsmen
-              - Lords
               - Monarchs
               - Nobles
               - Regals
-              - Regents
-            - noun-crown-7592395
+            - icons8-crown-64
 
             - - Sabercats
             - noun-sabertooth-4903406
@@ -705,18 +607,6 @@ style:
               - Requins
             - icons8-shark-64
 
-            - - Ships
-              - Dutchmen
-              - Shipbuilders
-              - Whalers
-            - noun-ship-800131
-
-            - - Shields
-              - Defenders
-              - Desert Shields
-              - Guardians
-            - noun-kite-shield-440133
-
             - - Skippers
               - Clippers
               - Mariners
@@ -729,20 +619,8 @@ style:
               - King Cobras
               - Rattlers
               - Rattles
-              - Sidewinders
               - Vipers
             - icons8-snake-64
-
-            - - Soldiers
-              - Admirals
-              - Cadets
-              - Colonels
-              - Commanders
-              - Generals
-              - Kadets
-              - Majors
-              - Marines
-            - noun-military-medal-5497159
 
             - - Spartans
               - Centurions
@@ -762,11 +640,6 @@ style:
               - Stingarees
             - icons8-stingray-64
 
-            - - Storm
-              - Monsoon
-              - Red Storm
-            - noun-storm-7373164
-
             - - Suns
               - Apollos
             - icons8-sun-64
@@ -782,7 +655,6 @@ style:
             - icons8-american-football-player-64
 
             - - Lightning
-              - Blue Thunder
               - Bolts
               - Flashes
               - Thunder
@@ -793,7 +665,6 @@ style:
             - - Tigers
               - Bengals
               - Tigercats
-              - White Tigers
             - icons8-year-of-tiger-64
 
             - - Tornados
@@ -806,7 +677,6 @@ style:
 
             - - Trees
               - Chaparrals
-              - Evergreens
             - icons8-tree-64
 
             - - Tremors
@@ -821,14 +691,13 @@ style:
             - - Vikings
               - Norsemen
               - Northmen
-            - noun-viking-helmet-440139
+            - icons8-viking-helmet-64
 
             - - Warriors
             - icons8-tomahawk-64
 
             - - Waves
               - Blue Wave
-              - Crimson Tide
               - Greenwave
               - Waveriders
             - icons8-wave-64
@@ -838,10 +707,7 @@ style:
               - Gauchos
               - Herders
               - Plainsmen
-              - Riders
               - Rough Riders
-              - Roughriders
-              - Vaqueros
             - noun-cowboy-615101
 
             - - Witches
@@ -863,13 +729,7 @@ style:
               - Seawolves
               - Silverwolves
               - Timberwolves
-              - Wolf Pack
-              - Wolf Pups
-              - Wolfpack
             - icons8-wolf-64
-
-            - - Yeti
-            - noun-yeti-6324100
 
             - - Zebras
             - icons8-zebra-60
@@ -885,11 +745,83 @@ style:
               - icons8-school-60
           - .png
 ---
-[out:json][timeout:800];
-rel(148838);map_to_area->.searchArea;
-// determine set of schools
-(
-  nwr[mascot][amenity=school](area.searchArea);
-);
 
-out center;
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX osmkey: <https://www.openstreetmap.org/wiki/Key:>
+SELECT * WHERE {
+  ?osm_id osmkey:amenity "school".
+  ?osm_id osmkey:mascot ?mascot.
+  ?osm_id geo:hasCentroid/geo:asWKT ?centroid .
+  OPTIONAL {
+    ?osm_id osmkey:addr:city ?addr_city .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:addr:housenumber ?addr_housenumber .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:addr:postcode ?addr_postcode .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:addr:state ?addr_state .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:addr:street ?addr_street .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:addr:unit ?addr_unit .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:alt_name ?alt_name .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:contact:phone ?contact_phone .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:gnis:feature_id ?gnis_feature_id .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:grades ?grades .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:kindergarten ?kindergarten .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:mascot:iconography ?mascot_iconography .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:mascot:iconography:wikidata ?mascot_iconography_wikidata .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:name ?name .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:note:mascot ?note_mascot .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:old_name ?old_name .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:operator ?operator .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:operator:type ?operator_type .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:operator:wikidata ?operator_wikidata .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:phone ?phone .    
+  }
+  OPTIONAL {
+    ?osm_id osmkey:preschool ?preschool .    
+  }
+  OPTIONAL {
+    ?osm_id osmkey:ref:nces ?ref_nces .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:wikidata ?wikidata .
+  }
+  OPTIONAL {
+    ?osm_id osmkey:wikipedia ?wikipedia .
+  }
+}
