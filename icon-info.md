@@ -167,8 +167,9 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-crown-7592395 - Crown by Nursila from from from Noun Project (CC BY 3.0)
 * noun-dog-364 - Public Domain from https://thenounproject.com/icon/dog-364/
 * noun-donkey-7033944 - Donkey by Fauzi Arts from Noun Project (CC BY 3.0)
-* noun-engineer-5295670 - engineer by Amethyst Studio from Noun Project (CC BY 3.0)
 * noun-eagle-7121234 - Eagle by sentya irma from Noun Project (CC BY 3.0)
+* noun-elk-714220 - elk by Nina Ho Design from Noun Project (CC BY 3.0)
+* noun-engineer-5295670 - engineer by Amethyst Studio from Noun Project (CC BY 3.0)
 * noun-flag-of-scotland-4062186 - flag of scotland by Tyler Gobberdiel from from Noun Project (CC BY 3.0)
 * noun-giant-4728529 - giant by agus raharjo from from Noun Project (CC BY 3.0)
 * noun-griffin-1388150 - Griffin by Icons Producer from Noun Project (CC BY 3.0)
