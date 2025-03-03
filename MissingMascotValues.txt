@@ -8,7 +8,6 @@ Axolotl
 Barracudas
 Battlin' Billies
 Big Reds
-Black Raiders
 Black Scots
 Blackscots
 Blizzards
@@ -16,7 +15,6 @@ Blue Darters
 Blue Jackets
 Blue Streaks
 Bluejackets
-Bluejays
 Blues
 Bobcats;Deer
 Borderites
@@ -40,12 +38,10 @@ Conquistadors
 Copper Kings
 Cotton Pickers
 Crickets
-Crimson Lions
 Curley Wolves
 Cyclone
 Dalers
 Darts
-Deacons
 Dine Warriors
 Dons
 Dorado
@@ -53,12 +49,8 @@ Dust Devils
 Elephants
 Elite
 Elks
-Fighting Cardinals
-Fighting Colts
 Fishermen
 Flammes
-Friars
-Friendly Dolphins
 Garnets
 Goats
 Goliaths and Athenas
@@ -76,7 +68,6 @@ Lambkins
 Little Johns
 Loups
 Lyons
-Macaws
 Magic
 Maniacs
 Marauders
@@ -103,7 +94,6 @@ Quaker
 Quakers
 Racers
 Ramblers
-Red Raiders
 Red Riots
 Red Tails
 Redd Lion
@@ -115,15 +105,12 @@ Sand Devils
 Sandies
 Saxons
 Sea Pilots
-Shooting Stars
-Silver Eagles
 Silverhawks
 Slicers
 Stampede
 Steelers
 Stormrays
 Sultans
-Super Star Sam
 Teddy Bears
 Terriers
 Terrors
@@ -140,10 +127,8 @@ Trollers
 Turks
 Tyees
 Vanguards
-Vigilantes
 Vols
 Volunteers
 Voyagers
 Voyageurs
-Whippets
 Wykons

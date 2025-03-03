@@ -70,6 +70,7 @@ style:
             - - Bandits
               - Criminals
               - Outlaws
+              - Vigilantes
             - icons8-bandit-64
 
             - - Beetles
@@ -109,8 +110,10 @@ style:
 
             - - Birds
               - Alouettes
+              - Bluejays
               - Condors
               - Golden Cranes
+              - Macaws
               - Orioles
               - Pelicans
               - Pigeon
@@ -159,6 +162,7 @@ style:
             - icons8-camel-64
 
             - - Cardinals
+              - Fighting Cardinals
             - icons8-cardinals-64
 
             - - Cats
@@ -211,6 +215,7 @@ style:
 
             - - Comets
               - Komets
+              - Shooting Stars
             - icons8-comet-64
 
             - - Conchs
@@ -265,9 +270,11 @@ style:
               - Hoyas
               - Pointers
               - Spoofhounds
+              - Whippets
             - noun-dog-364
 
             - - Dolphins
+              - Friendly Dolphins
             - icons8-dolphin-64
 
             - - Dragons
@@ -298,6 +305,7 @@ style:
               - Bold Eagles
               - C-Hawks
               - Golden Eagles
+              - Silver Eagles
               - Soaring Eagles
               - T-Birds
               - Thunderbirds
@@ -387,6 +395,7 @@ style:
               - Broncs
               - Chargers
               - Colts
+              - Fighting Colts
               - Horsemen
               - Mavericks
               - Mustangs
@@ -418,6 +427,7 @@ style:
 
             - - Knights
               - Black Knights
+              - Black Raiders
               - Blue Knights
               - Crimson Knights
               - Golden Knights
@@ -449,6 +459,7 @@ style:
             - icons8-leopard-64
 
             - - Lions
+              - Crimson Lions
               - Golden Lions
             - noun-lion-5415959
 
@@ -592,6 +603,11 @@ style:
 
             - - Pretzels
             - icons8-pretzels-64
+
+            - - Priests
+              - Deacons
+              - Friars
+            - noun-priest-6904676
 
             - - Pumas
               - Catamounts
