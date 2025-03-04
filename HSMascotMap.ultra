@@ -139,6 +139,7 @@ style:
               - Lynx
               - Wildcats
               - Wildkats
+              - WiLdKats
             - noun-bobcat-6475557
 
             - - Bucks
@@ -149,6 +150,7 @@ style:
 
             - - Bulldogs
               - Bullpups
+              - Watchdogs
             - noun-bulldog-7196519
 
             - - Bullfrogs
@@ -238,6 +240,7 @@ style:
             - icons8-cossack-64
 
             - - Coyotes
+              - Kiotes
             - noun-coyote-3662387
 
             - - Crusaders
@@ -260,6 +263,9 @@ style:
               - Dinos
               - Raptors
             - icons8-dino-64
+
+            - - Divers
+            - icons8-diver-64
 
             - - Dogs
               - Beagles
@@ -310,6 +316,7 @@ style:
               - T-Birds
               - Thunderbirds
               - War Eagles
+              - Wambdi
             - noun-eagle-7121234
 
             - - Elks
@@ -507,6 +514,7 @@ style:
               - Chiefs
               - Chieftains
               - Choctaw
+              - Hunkpapa
               - Indians
               - Moquis
               - Mohigans
@@ -561,6 +569,9 @@ style:
               - Ghosts
               - Spirit
             - icons8-phantom-64
+
+            - - Pheasants
+            - noun-pheasant-7166338
 
             - - Phoenix
               - Firebirds
