@@ -191,6 +191,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-paper-7410429 - Paper by SISWANTORO from Noun Project (CC BY 3.0)
 * noun-panda-6873635 - Panda by jisangbong from Noun Project (CC BY 3.0)
 * noun-peacock-7166331 - Peacock by Hat-Tech from Noun Project (CC BY 3.0)
+* noun-pheasant-7166338 - Pheasant by Hat-Tech from Noun Project (CC BY 3.0)
 * noun-polar-bear-6814672 - polar bear by SBTS from Noun Project (CC BY 3.0)
 * noun-priest-6904676 - Priest by Metami Septiana from Noun Project (CC BY 3.0)
 * noun-puma-3391157 - puma by Lars Meiertoberens from Noun Project (CC BY 3.0)
