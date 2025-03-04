@@ -39,6 +39,7 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-deer-64
 * icons8-devil-64
 * icons8-dino-64
+* icons8-diver-64
 * icons8-dolphin-64
 * icons8-dragon-64
 * icons8-duck-64
