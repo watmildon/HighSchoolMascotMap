@@ -1,22 +1,19 @@
 87s
-Abes
 Acorns
-Admirals
-Angels
 Antelopes
 Antlers
 Artesians
 Astros
-Atoms
-Aztecs
-Barons
+Axolotl
+Barracudas
 Battlin' Billies
 Big Reds
 Black Scots
 Blackscots
 Blizzards
-Blue Demons
+Blue Darters
 Blue Jackets
+Blue Streaks
 Bluejackets
 Blues
 Bobcats;Deer
@@ -27,139 +24,111 @@ Brave
 Brickies
 Bronchos
 Buckeyes
+Buddies
 Bulldog
 Bullets
-Bulls
-Burros
-Cadets
+Castle Guards
 Cavers
 Celtics
+Champions
 Chimeras
-Colonels
-Colonials
-Commanders
 Conquerors
 Conquistadores
 Conquistadors
 Copper Kings
 Cotton Pickers
-Crimson Tide
+Crickets
+Curley Wolves
 Cyclone
 Dalers
 Darts
-Deacons
-Deer
-Defenders
-Demons
-Desert Shields
+Dine Warriors
 Dons
-Dragon
-Dutchmen
+Dorado
+Dust Devils
 Elephants
 Elite
-Engineers
-Falcon
-Fightin' Irish
-Fighting Owls
+Elks
 Fishermen
-Friars
+Flammes
 Garnets
-Generals
 Goats
 Goliaths and Athenas
+Gophers
 Gremlins
 Guardians
+Hustlin' Hawks
 Impalas
 Invaders
 Ironmen
 Islanders
-Jaguar
 Juggernauts
-Kadets
 King Cubs
-Lady Warriors
 Lambkins
-Lion
-Lords
+Little Johns
 Loups
 Lyons
-Macaws
 Magic
-Majors
+Maniacs
 Marauders
-Marines
 Maroons
 Matadors
 Mauraders
-Millers
 Modeltowners
 Mounties
 Muckers
-Mules
 Mustangs;Fillies
-Nanooks
+Nordiks
 Obama Stars
+Old Abes
+Oredockers
+Ouragans
 Pacers
 Packers
-Pandas
 Patriotes
-Pelicans
+Pegasus
+Prowlers
 Punchers
+Purgolders
 Quaker
 Quakers
 Racers
-Rail Cats
-Railsplitters
 Ramblers
-Red Raiders
+Red Riots
+Red Tails
 Redd Lion
-Rhinos
-Riders
 RiverHakws
-Roughnecks
-Roughriders
+Rocks
 Roustabouts
 Rustlers
+Sand Devils
 Sandies
 Saxons
-Shipbuilders
-Silver Hawks
+Sea Pilots
+Silverhawks
 Slicers
-Soldiers
-Spirit
-Statesmen
+Stampede
 Steelers
-Steelhawks
-Stingers
-Storm
 Stormrays
 Sultans
-Sun Devils
-Tarriers
-Tartars
 Teddy Bears
 Terriers
+Terrors
 The Green Dragon
+The Phoenix
 Think Flamingo
-Thunderhawks
 Tigers and Jaguars
 Tiny Tigers
 Trappers
+Trevians
 Tribe
 Tritons
+Trollers
 Turks
 Tyees
-Vaqueros
-Vigilantes
+Vanguards
+Vols
 Volunteers
 Voyagers
 Voyageurs
-Whalers
-White Tigers
-Wild
-Wolf Pack
-Wolf Pups
-Wolfpack
 Wykons
-axolotl
-pigeon
