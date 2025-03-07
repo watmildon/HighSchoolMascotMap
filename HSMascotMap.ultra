@@ -70,6 +70,7 @@ style:
               - Grizzly
               - Lady Bears
               - Scarlet Bears
+              - Crimson Bears
             - noun-bear-653
 
             - - Beavers
@@ -118,6 +119,7 @@ style:
 
             - - Bucks
               - Bucks;Gazelles
+              - Antlers
             - icons8-deer-64
 
             - - Bulldogs
@@ -147,6 +149,7 @@ style:
             - icons8-caveman-64
 
             - - Celts
+              - Celtics
             - noun-celtic-knot-6722441
 
             - - Centaurs
@@ -188,6 +191,7 @@ style:
             - icons8-corn-64
 
             - - Cowboys
+              - Cowgirls
               - Buckaroos
               - Scouts
               - Texans
@@ -286,6 +290,7 @@ style:
 
             - - Foxes
               - Silver Foxes
+              - Red Foxes
             - icons8-fox-64
 
             - - Geckos
@@ -373,6 +378,7 @@ style:
               - Golden Knights
               - Maroon Knights
               - Raiders
+              - Red Raiders
               - Red Knights
               - Silver Knights
             - icons8-knight-64
@@ -496,6 +502,7 @@ style:
 
             - - Pirates
               - Buccaneers
+              - Peglegs
             - icons8-pirate-60
 
             - - Planes
@@ -728,6 +735,7 @@ style:
 
             - - Wolves
               - Gray Wolves
+              - Curley Wolves
               - Greywolves
               - Loboes
               - Lobos
@@ -735,6 +743,7 @@ style:
               - Red Wolves
               - Seawolves
               - Silverwolves
+              - ThunderWolves
               - Timberwolves
             - icons8-wolf-64
 
