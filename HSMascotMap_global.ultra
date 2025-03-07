@@ -45,6 +45,9 @@ style:
             - - Athenians
             - noun-athena-2225790
 
+            - - Atoms
+            - icons8-atom-64
+
             - - Aviators
               - Pilots
             - icons8-aviator-64
@@ -77,6 +80,7 @@ style:
             - - Bees
               - Bumble Bees
               - Hornets
+              - Stingers
               - Wasps
               - Yellow Jackets
               - Yellowjackets
@@ -270,6 +274,7 @@ style:
               - Blazers
               - Blue Blazers
               - Blue Blazes
+              - Flammes
             - icons8-flames-60
 
             - - Fords
@@ -327,6 +332,7 @@ style:
               - Chargers
               - Colts
               - Horsemen
+              - Kolts
               - Mavericks
               - Mustangs
               - Stallions
@@ -336,6 +342,7 @@ style:
               - Cyclones
               - Purple Hurricanes
               - Storm
+              - Ouragans
             - icons8-hurricane-64
 
             - - Huskies
@@ -464,6 +471,7 @@ style:
             - icons8-parrot-64
 
             - - Patriots
+              - Patriotes
             - noun-liberty-bell-4360246
 
             - - Peackocks
@@ -567,7 +575,7 @@ style:
               - Monarchs
               - Nobles
               - Regals
-            - icons8-crown-64
+            - noun-crown-7592395
 
             - - Sabercats
             - noun-sabertooth-4903406
@@ -723,6 +731,7 @@ style:
               - Greywolves
               - Loboes
               - Lobos
+              - Loups
               - Reds
               - Red Wolves
               - Seawolves

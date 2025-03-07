@@ -348,6 +348,7 @@ style:
               - Blazers
               - Blue Blazers
               - Blue Blazes
+              - Flammes
             - icons8-flames-60
 
             - - Fords
@@ -412,6 +413,7 @@ style:
               - Colts
               - Fighting Colts
               - Horsemen
+              - Kolts
               - Mavericks
               - Mustangs
               - Ponies
@@ -421,6 +423,7 @@ style:
 
             - - Hurricanes
               - Cyclones
+              - Ouragans
               - Purple Hurricanes
             - icons8-hurricane-64
 
@@ -562,6 +565,7 @@ style:
             - icons8-parrot-64
 
             - - Patriots
+              - Patriotes
             - noun-liberty-bell-4360246
 
             - - Peackocks
@@ -876,11 +880,12 @@ style:
             - noun-wolverine-4704799
 
             - - Wolves
-              - Gray Wolves
               - Curley Wolves
+              - Gray Wolves
               - Greywolves
               - Loboes
               - Lobos
+              - Loups
               - Reds
               - Red Wolves
               - Seawolves
