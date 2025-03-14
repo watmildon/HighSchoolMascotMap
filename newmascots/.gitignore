@@ -1,0 +1,25 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget/
+
+# Generated Files
+*.exe
+*.dll
+*.pdb
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+~$*
