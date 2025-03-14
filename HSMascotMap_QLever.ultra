@@ -14,8 +14,7 @@ controls:
     options:
       positionOptions:
         enableHighAccuracy: true
-      trackUserLocation: true
-style:
+      trackUserLocation: truestyle:
   extends: https://styles.trailsta.sh/protomaps-light.json
   layers:
     - type: circle
@@ -918,9 +917,7 @@ style:
 
               - icons8-school-60
           - .png
----
-
-PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+---PREFIX geo: <http://www.opengis.net/ont/geosparql#>
 PREFIX osmkey: <https://www.openstreetmap.org/wiki/Key:>
 SELECT * WHERE {
   ?osm_id osmkey:amenity "school".
