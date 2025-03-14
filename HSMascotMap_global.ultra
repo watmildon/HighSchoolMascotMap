@@ -911,7 +911,8 @@ controls:
 
               - icons8-school-60
           - .png
----[out:json][timeout:800];
+---
+[out:json][timeout:800];
 // determine set of schools
 (
   nwr[mascot][amenity=school];
