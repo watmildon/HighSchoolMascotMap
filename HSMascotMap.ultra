@@ -9,7 +9,8 @@ controls:
     options:
       positionOptions:
         enableHighAccuracy: true
-      trackUserLocation: truestyle:
+      trackUserLocation: true
+style:
   extends: https://styles.trailsta.sh/protomaps-light.json
   layers:
     - type: circle
@@ -912,7 +913,8 @@ controls:
 
               - icons8-school-60
           - .png
----[out:json][timeout:800];
+---
+[out:json][timeout:800];
 rel(148838);map_to_area->.searchArea;
 // determine set of schools
 (
