@@ -1,0 +1,36 @@
+name: Generate Styles
+
+on:
+  push:
+    paths:
+      - Preamble_Global.ultra
+      - Preamble_QLever.ultra
+      - Preamble_US.ultra
+      - Query_Global.ultra
+      - Query_QLever.ultra
+      - Query_US.ultra
+      - Style.ultra
+
+jobs:
+  combine:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Generate styles files from components
+      run: |
+        cat Preamble_US.ultra Style.ultra Query_US.ultra > HSMascotMap.ultra
+        cat Preamble_Global.ultra Style.ultra Query_Global.ultra > HSMascotMap_global.ultra
+        cat Preamble_QLever.ultra Style.ultra Query_QLever.ultra > HSMascotMap_QLever.ultra
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add HSMascotMap.ultra
+        git add HSMascotMap_global.ultra
+        git add HSMascotMap_QLever.ultra
+        git commit -m "Update style files"
+        git push

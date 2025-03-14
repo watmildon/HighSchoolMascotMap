@@ -1,0 +1,8 @@
+[out:json][timeout:800];
+rel(148838);map_to_area->.searchArea;
+// determine set of schools
+(
+  nwr[mascot][amenity=school](area.searchArea);
+);
+
+out center;

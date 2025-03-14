@@ -1,0 +1,17 @@
+---
+title: MascotMap
+description: Map of school mascots powered by OSM.
+type: sparql
+server: https://qlever.cs.uni-freiburg.de/api/osm-planet
+options:
+  hash: m
+  zoom: -0.1
+  center: [0, 30]
+  attributionControl:
+    customAttribution: '<a href=".">Ultra</a> | <a href="https://github.com/watmildon/HighSchoolMascotMap">Github</a> | <a href="https://github.com/watmildon/HighSchoolMascotMap/blob/main/icon-info.md">Icons</a>'
+controls:
+  - type: GeolocateControl
+    options:
+      positionOptions:
+        enableHighAccuracy: true
+      trackUserLocation: true

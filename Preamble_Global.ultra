@@ -1,0 +1,11 @@
+---
+options:
+  hash: m
+  attributionControl:
+    customAttribution: '<a href=".">Ultra</a> | <a href="https://github.com/watmildon/HighSchoolMascotMap">Github</a> | <a href="https://github.com/watmildon/HighSchoolMascotMap/blob/main/icon-info.md">Icons</a>'
+controls:
+  - type: GeolocateControl
+    options:
+      positionOptions:
+        enableHighAccuracy: true
+      trackUserLocation: true
