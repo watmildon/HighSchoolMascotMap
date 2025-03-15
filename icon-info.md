@@ -4,6 +4,7 @@ Provides an accounting of the license information for image files in the "icons"
 ## Icons from [icon8.com](https://icons8.com/)
 
 * icons8-ace-of-spades-64
+* icons8-acorn-64
 * icons8-alligator-64
 * icons8-american-football-player-64
 * icons8-anchor-64
@@ -151,6 +152,7 @@ Provides an accounting of the license information for image files in the "icons"
 
 * noun-abraham-lincoln-5878979 - Abraham Lincoln by Brad from Noun Project (CC BY 3.0)
 * noun-angel-4039832 - Angel by IronSV from Noun Project (CC BY 3.0)
+* noun-antelope-931009 - Antelope by parkjisun from Noun Project (CC BY 3.0)
 * noun-archer-3971196 - Archer by Becris from Noun Project (CC BY 3.0)
 * noun-athena-2225790 - Athena by parkjisun from Noun Project (CC BY 3.0)
 * noun-aztec-pyramid-4486531 - aztec pyramid by Andi Nur Abdillah rom Noun Project (CC BY 3.0)
@@ -177,6 +179,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-hawk-6660034 - hawk by visual language from Noun Project (CC BY 3.0)
 * noun-heron-7121230 - Heron by sentya irma from Noun Project (CC BY 3.0)
 * noun-jaguar-6475548 - jaguar by Besticons from Noun Project (CC BY 3.0)
+* noun-jester-women-5434956 - jester women by Ayub Irawan from Noun Project (CC BY 3.0)
 * noun-kayak-156915 - Kayak by Nicolas Vicent from Noun Project (CC BY 3.0)
 * noun-kite-shield-440133 - Kite Shield by parkjisun from Noun Project (CC BY 3.0)
 * noun-knight-6567383 - Knight by Dimitri Lupo from Noun Project (CC BY 3.0)
@@ -185,6 +188,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-lion-5415959 - Lion by Thales Muller from Noun Project (CC BY 3.0)
 * noun-longhorn-skull-189289 - Longhorn Skull by Benjamin Harlow from from Noun Project (CC BY 3.0)
 * noun-maple-syrup-7241147 - maple syrup by Supanut Piyakanont from Noun Project (CC BY 3.0)
+* noun-marlin-7060421 - Marlin by visual language from Noun Project (CC BY 3.0)
 * noun-military-medal-5497159 - Military medal by VectorsLab from Noun Project (CC BY 3.0)
 * noun-moose-7525270 - Moose by pramana from Noun Project (CC BY 3.0)
 * noun-norway-6661068 - Norway by Mulham from Noun Project (CC BY 3.0)
@@ -195,6 +199,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-polar-bear-6814672 - polar bear by SBTS from Noun Project (CC BY 3.0)
 * noun-priest-6904676 - Priest by Metami Septiana from Noun Project (CC BY 3.0)
 * noun-puma-3391157 - puma by Lars Meiertoberens from Noun Project (CC BY 3.0)
+* noun-rock-lobster-7060494 - rock lobster by visual language from Noun Project (CC BY 3.0)
 * noun-sabertooth-4903406 - Sabertooth by Amethyst Studio from Noun Project (CC BY 3.0)
 * noun-scorpion-7144042 - Scorpion by Leonardo Henrique Martini from from Noun Project (CC BY 3.0)
 * noun-ship-800131 - Ship by mungang kim from from Noun Project (CC BY 3.0)
