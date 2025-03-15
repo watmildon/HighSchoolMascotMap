@@ -12,29 +12,7 @@ on:
       - Style.ultra
 
 jobs:
-  combine:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Generate styles files from components
-      run: |
-        cat Preamble_US.ultra Style.ultra Query_US.ultra > HSMascotMap.ultra
-        cat Preamble_Global.ultra Style.ultra Query_Global.ultra > HSMascotMap_global.ultra
-        cat Preamble_QLever.ultra Style.ultra Query_QLever.ultra > HSMascotMap_QLever.ultra
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add HSMascotMap.ultra
-        git add HSMascotMap_global.ultra
-        git add HSMascotMap_QLever.ultra
-        git commit -m "Update style files"
-        
-  generate-newmascots-file:
+  generate-styles-and-newmascots:
     runs-on: ubuntu-latest
 
     permissions:
@@ -68,10 +46,20 @@ jobs:
           exit 1
         fi
 
-    - name: Commit and push changes
+    - name: Concat style files
       run: |
+        cat Preamble_US.ultra Style.ultra Query_US.ultra > HSMascotMap.ultra
+        cat Preamble_Global.ultra Style.ultra Query_Global.ultra > HSMascotMap_global.ultra
+        cat Preamble_QLever.ultra Style.ultra Query_QLever.ultra > HSMascotMap_QLever.ultra
+
+    - name: Commit and push changes
+      run: |        
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add HSMascotMap.ultra
+        git add HSMascotMap_global.ultra
+        git add HSMascotMap_QLever.ultra
+        git commit -m "Update style files"
         git add NewMascots.txt
-        git diff-index --quiet HEAD || git commit -m "Update NewMascots.txt"
+        git commit -m "Update NewMascots.txt"
         git push
