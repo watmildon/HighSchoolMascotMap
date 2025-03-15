@@ -13,7 +13,7 @@ All map information comes from [OpenStreetMap](https://www.openstreetmap.org/). 
 * [mascot](https://wiki.openstreetmap.org/wiki/Key:mascot)
 * [mascot:iconography](https://wiki.openstreetmap.org/wiki/Key:mascot:iconography)
 
-If you know the mascot for a local school, please feel free to add it to the database!
+If you know the mascot for a local school, please add it to the database!
 
 I am also running a set of [MapRoulette](https://maproulette.org/) tasks that help coordinate and organize mapping of this type. You can find them in the [HighSchoolTagging project](https://maproulette.org/browse/projects/59042).
 
@@ -26,9 +26,9 @@ I would love help sourcing icons and adding them to the repo and map. The curren
 
 Most of the icons currently in use come from [Icon8](https://icons8.com/) and [The Noun Project](https://thenounproject.com/). The iOS Filled and Glyph Neue styles on icons8 seem to work well.
 
-Once you have a suitable icon, add it to HSMascotMap.ultra under the other icons. The last entry is the defaul school icon.
+Once you have a suitable icon, add it to Style.ultra where it belongs alphabetically. The last entry is the default school icon. Do not forget to add an appropriate entry into icon-info.md.
 
-If you need inspiration on what values still need icons, [TagInfo](https://taginfo.openstreetmap.org/keys/mascot#values) has a full listing of values currently on OpenStreetMap.
+If you need inspiration on what values still need icons, NewMascots.txt should list any mascots seen on [TagInfo](https://taginfo.openstreetmap.org/keys/mascot#values) that are not currently in the style file. This file is update every time there is a commit to Style.ultra so there is no need to edit it.
 
 # Mapping tips and resources
 ## Overpass
