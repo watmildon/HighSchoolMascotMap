@@ -1,4 +1,4 @@
-name: Build and Run C# Program
+name:  Generate NewMascots file
 
 on:
   push:
