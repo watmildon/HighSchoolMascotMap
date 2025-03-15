@@ -294,8 +294,6 @@ controls:
               - Blue Dogs
               - Boxers
               - Devil Dogs
-              - Grayhounds
-              - Greyhounds
               - Hoyas
               - Pointers
               - Spoofhounds
@@ -345,6 +343,7 @@ controls:
             - noun-eagle-7121234
 
             - - Elks
+              - Golden Elks
             - noun-elk-714220
 
             - - Engineers
@@ -359,6 +358,7 @@ controls:
             - icons8-field-and-tractor-64
 
             - - Fish
+              - Barracudas
               - Carp
               - Chinooks
               - King Salmon
@@ -390,6 +390,10 @@ controls:
             - - Giants
               - Titans
             - noun-giant-4728529
+
+            - - Greyhounds
+              - Grayhounds
+            - noun-dog-6190322
 
             - - Griffins
               - Griffons
@@ -546,6 +550,7 @@ controls:
             - icons8-flour-64
 
             - - Miners
+              - Coalers
               - Gold Diggers
               - Golddiggers
               - Prospectors

@@ -5,7 +5,6 @@ Artesians
 Astros
 Avalanche
 Axolotl
-Barracudas
 Battlin' Billies
 Belugas
 Benjie
@@ -44,7 +43,6 @@ Castle Guards
 Cavers
 Champions
 Chimeras
-Coalers
 Commandos
 Conquerors
 Conquistadores
@@ -73,7 +71,6 @@ Garnets
 Gila Monsters
 Goats
 Goldburgs
-Golden Elks
 Goliaths and Athenas
 Gophers
 Gorillas
