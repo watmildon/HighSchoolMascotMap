@@ -52,6 +52,7 @@ style:
             - icons8-arrow-64
 
             - - Athenians
+              - Lady Warriors
             - noun-athena-2225790
 
             - - Atoms
@@ -70,6 +71,7 @@ style:
             - - Bandits
               - Criminals
               - Outlaws
+              - Rustlers
               - Vigilantes
             - icons8-bandit-64
 
@@ -77,6 +79,7 @@ style:
             - icons8-beetle-60
 
             - - Bears
+              - Bearkits
               - Black Bears
               - Bruins
               - Cubs
@@ -84,6 +87,7 @@ style:
               - Golden Bears
               - Grizzlies
               - Grizzly
+              - Grizzly Bears
               - Lady Bears
               - Scarlet Bears
               - Crimson Bears
@@ -113,9 +117,12 @@ style:
               - Alouettes
               - Bluejays
               - Condors
+              - Fighting Orioles
               - Golden Cranes
+              - Kondors
               - Macaws
               - Orioles
+              - Ospreys
               - Pelicans
               - Pigeon
               - Ricebirds
@@ -139,6 +146,7 @@ style:
             - - Bobcats
               - Lynx
               - Wildcats
+              - Wildcatz
               - Wildkats
               - WiLdKats
             - noun-bobcat-6475557
@@ -152,6 +160,7 @@ style:
 
             - - Bulldogs
               - Bullpups
+              - Lil' Bulldogs
               - Watchdogs
             - noun-bulldog-7196519
 
@@ -219,7 +228,9 @@ style:
             - noun-captain-james-jack-statue-59814
 
             - - Comets
+              - Blue Comets
               - Komets
+              - Northstars
               - Shooting Stars
             - icons8-comet-64
 
@@ -244,6 +255,7 @@ style:
             - icons8-cossack-64
 
             - - Coyotes
+              - Coyote Pups
               - Kiotes
             - noun-coyote-3662387
 
@@ -256,6 +268,7 @@ style:
               - Blue Devils
               - Demons
               - Diablos
+              - Dust Devils
               - Green Devils
               - Greene Devils
               - Red Devils
@@ -276,6 +289,7 @@ style:
               - Blue Dogs
               - Boxers
               - Devil Dogs
+              - Grayhounds
               - Greyhounds
               - Hoyas
               - Pointers
@@ -291,6 +305,7 @@ style:
               - Blue Dragons
               - Green Dragons
               - Red Dragons
+              - Sea Dragons
               - Wyverns
             - icons8-dragon-64
 
@@ -315,6 +330,7 @@ style:
               - Bold Eagles
               - C-Hawks
               - Golden Eagles
+              - Screaming Eagles
               - Silver Eagles
               - Soaring Eagles
               - T-Birds
@@ -334,13 +350,17 @@ style:
             - icons8-binoculars-64
 
             - - Farmers
+              - Harvesters
             - icons8-field-and-tractor-64
 
             - - Fish
               - Carp
               - Chinooks
+              - King Salmon
+              - Koi
               - Marlins
               - Muskies
+              - Salmon
               - Tarpons
             - icons8-fish-64
 
@@ -380,13 +400,17 @@ style:
               - Black Hawks
               - Blackhawks
               - Falcons
+              - Golden Hawks
+              - Hustlin' Hawks
               - Nighthawks
               - Redhawks
               - Red Hawks
               - Riverhawks
+              - RiverHakws
               - Seahawks
               - Sea Hawks
               - Silver Hawks
+              - Silverhawks
               - Skyhawks
               - SkyHawks
               - Steelhawks
@@ -419,6 +443,7 @@ style:
               - Ponies
               - Pintos
               - Stallions
+              - Warhorses
             - icons8-horse-60
 
             - - Hurricanes
@@ -432,6 +457,7 @@ style:
             - noun-siberian-husky-6144002
 
             - - Irish
+              - Fightin' Irish
               - Fighting Irish
               - Shamrocks
             - icons8-shamrock-64
@@ -481,11 +507,15 @@ style:
             - - Lions
               - Crimson Lions
               - Golden Lions
+              - Redd Lions
             - noun-lion-5415959
 
             - - Locomotives
               - Moguls
               - Rail Cat
+              - Rail Cats
+              - Railroaders
+              - Rails
             - icons8-steam-engine-64
 
             - - Loggers
@@ -538,12 +568,16 @@ style:
 
             - - Oilers
               - Roughnecks
+              - Wildcatters
             - icons8-oil-pump-64
 
             - - Olympians
+              - Olympiens
+              - Torchbearers
             - icons8-olympic-torch-64
 
             - - Orcas
+              - Killer Whales
             - icons8-orca-64
 
             - - Otters
@@ -577,6 +611,7 @@ style:
 
             - - Phantoms
               - Ghosts
+              - Grey Ghosts
               - Spirit
             - icons8-phantom-64
 
@@ -636,6 +671,7 @@ style:
             - noun-priest-6904676
 
             - - Pumas
+              - Blue Cougar
               - Catamounts
               - Cougars
               - Kougars
@@ -702,6 +738,7 @@ style:
             - icons8-saber-weapon-64
 
             - - Saints
+              - Fighting Saints
             - icons8-fleur-de-lys-60
 
             - - Scoopers
@@ -753,10 +790,12 @@ style:
               - Cobras
               - Diamondbacks
               - King Cobras
+              - Kobras
               - Rattlers
               - Rattles
               - Sidewinders
               - Vipers
+              - Vipères
             - icons8-snake-64
 
             - - Soldiers
@@ -777,6 +816,8 @@ style:
             - noun-spartan-helmet-1732615
 
             - - Stars
+              - All Stars
+              - Allstars
               - North Stars
               - Superstars
             - icons8-star-64
@@ -799,6 +840,8 @@ style:
 
             - - Swordsmen
               - Gladiators
+              - Golden Warriors
+              - Warriors
             - icons8-gladiator-64
 
             - - Syrup Makers
@@ -817,10 +860,14 @@ style:
             - icons8-lightning-64
 
             - - Tigers
+              - Bengal Tigers
               - Bengals
               - Tigercats
               - White Tigers
             - icons8-year-of-tiger-64
+
+            - - Tomahawks
+            - icons8-tomahawk-64
 
             - - Tornados
               - Golden Tornadoes
@@ -849,13 +896,13 @@ style:
               - Northmen
             - noun-viking-helmet-440139
 
-            - - Warriors
-            - icons8-tomahawk-64
-
             - - Waves
               - Blue Wave
+              - Breakers
               - Crimson Tide
+              - Green Wave
               - Greenwave
+              - Purple Waves
               - Waveriders
             - icons8-wave-64
 
