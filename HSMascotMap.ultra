@@ -38,6 +38,9 @@ style:
             - - Aces
             - icons8-ace-of-spades-64
 
+            - - Acorns
+            - icons8-acorn-64
+
             - - Alligators
               - Gators
               - Golden Gators
@@ -46,6 +49,10 @@ style:
 
             - - Angels
             - noun-angel-4039832
+
+            - - Antelopes
+              - Lopes
+            - noun-antelope-931009
 
             - - Arrows
               - Flying Arrows
@@ -358,7 +365,6 @@ style:
               - Chinooks
               - King Salmon
               - Koi
-              - Marlins
               - Muskies
               - Salmon
               - Tarpons
@@ -467,6 +473,10 @@ style:
               - Panthers
             - noun-jaguar-6475548
 
+            - - Jokers
+              - Jesters
+            - noun-jester-women-5434956
+
             - - Kangaroos
             - icons8-kangaroo-64
 
@@ -510,6 +520,10 @@ style:
               - Redd Lions
             - noun-lion-5415959
 
+            - - Lobsters
+              - Rock Lobsters
+            - noun-rock-lobster-7060494
+
             - - Locomotives
               - Moguls
               - Rail Cat
@@ -526,6 +540,9 @@ style:
             - - Longhorns
               - Dogies
             - noun-longhorn-skull-189289
+
+            - - Marlins
+            - noun-marlin-7060421
 
             - - Millers
             - icons8-flour-64
