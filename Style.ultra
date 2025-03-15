@@ -284,8 +284,6 @@ style:
               - Blue Dogs
               - Boxers
               - Devil Dogs
-              - Grayhounds
-              - Greyhounds
               - Hoyas
               - Pointers
               - Spoofhounds
@@ -380,6 +378,10 @@ style:
             - - Giants
               - Titans
             - noun-giant-4728529
+
+            - - Greyhounds
+              - Grayhounds
+            - noun-dog-6190322
 
             - - Griffins
               - Griffons

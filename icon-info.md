@@ -169,6 +169,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-coyote-3662387 - Coyote by Abby from from from Noun Project (CC BY 3.0)
 * noun-crown-7592395 - Crown by Nursila from from from Noun Project (CC BY 3.0)
 * noun-dog-364 - Public Domain from https://thenounproject.com/icon/dog-364/
+* noun-dog-6190322 - Dog by 1Q74 from Noun Project (CC BY 3.0)
 * noun-donkey-7033944 - Donkey by Fauzi Arts from Noun Project (CC BY 3.0)
 * noun-eagle-7121234 - Eagle by sentya irma from Noun Project (CC BY 3.0)
 * noun-elk-714220 - elk by Nina Ho Design from Noun Project (CC BY 3.0)
