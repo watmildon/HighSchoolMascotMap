@@ -10,6 +10,9 @@ on:
       - Query_QLever.ultra
       - Query_US.ultra
       - Style.ultra
+  schedule:
+    - cron: '0 0 * * 0' # Triggers every Sunday at midnight (UTC)
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   generate-styles-and-newmascots:
