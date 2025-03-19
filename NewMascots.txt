@@ -165,7 +165,6 @@ Stormrays
 String
 Sultans
 Super Star Sam
-Swans
 T-Bolts
 Talismen
 Talons
