@@ -16,12 +16,15 @@ Blizzards
 Blue Darters
 Blue Devil
 Blue Flame
+Blue Hawks
 Blue Jackets
 Blue Raiders
 Blue Streaks
 Bluejackets
 Blues
 Bobcats;Deer
+Bobkittens
+Boilers
 Borderites
 Bowmen
 Brahman
@@ -43,6 +46,7 @@ Castle Guards
 Cavers
 Champions
 Chimeras
+Chokers
 Commandos
 Conquerors
 Conquistadores
@@ -57,6 +61,7 @@ Cruisers
 Cyclone
 Dalers
 Darts
+Dateliners
 Dine Warriors
 Dodgers
 Dons
@@ -64,6 +69,7 @@ Dorado
 Elephants
 Elite
 Exporters
+Fillies;Mustangs
 Fishermen
 Flash
 Frogs
@@ -81,7 +87,6 @@ Hyacks
 Hyaks
 Impalas
 Invaders
-Irish Guard
 Ironmen
 Islanders
 Jerseys
@@ -93,8 +98,12 @@ Junior Blues
 Kays
 Kewpies
 King Cubs
+Kiwi
+Kākā
+Kōtuku
 Lambkins
 Little Johns
+Loggers;Loggerettes
 Lumberjack;Lumberjill
 Lyons
 Magic
@@ -133,12 +142,15 @@ Racers
 Rainmakers
 Ramblers
 Rangers;Penguins
+Reapers
 Red Riots
 Red Tails
+Renegades
 Rocks
 Roustabouts
 Sabercat
 Sachems
+Salamanders
 Sand Devils
 Sandies
 Savages
@@ -146,25 +158,32 @@ Saxons
 Sea Pilots
 Seals
 Shield
+Shockers
 Slicers
 Sonics
 Stampede
 Stanners
+Steamers
 Steelers
 Steelmen
+Stingrays
 Stormrays
 String
 Sultans
 Super Star Sam
+Swans
+T-Bolts
 Talismen
+Talons
 Tarriers
+Tartans
 Tartars
 Teddy Bears
 Terriers
 Terrors
 The Green Dragon
-The Phoenix
 Think Flamingo
+Tides
 Tigers and Jaguars
 Tilly the Tiger
 Tiny Tigers
@@ -174,24 +193,27 @@ Totems
 Towhees
 Tractors
 Trappers
+Tree
 Trevians
 Tribe
 Tritons
 Trollers
 Turks
 Tyees
+Tūī
+Vandals
 Vanguards
+Vikings;Titans
 Vols
 Volunteers
 Voyagers
 Voyageurs
 Wamps
+Whales
 Wheelers
 Whundas
 Wild
 Wykons
 Zephyrs
-hornet
-rams
 salmon
-tiger
+vikings

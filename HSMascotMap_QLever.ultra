@@ -14,7 +14,8 @@ controls:
     options:
       positionOptions:
         enableHighAccuracy: true
-      trackUserLocation: truestyle:
+      trackUserLocation: true
+      style:
   extends: https://styles.trailsta.sh/protomaps-light.json
   layers:
     - type: circle
@@ -473,6 +474,7 @@ controls:
             - - Irish
               - Fightin' Irish
               - Fighting Irish
+              - Irish Guard
               - Shamrocks
             - icons8-shamrock-64
 
