@@ -98,9 +98,7 @@ Junior Blues
 Kays
 Kewpies
 King Cubs
-Kiwi
 Kākā
-Kōtuku
 Lambkins
 Little Johns
 Loggers;Loggerettes
@@ -126,7 +124,6 @@ Packers
 Padres
 Panther
 Patriot
-Pegasus
 Polars
 Porcupines
 Porters
@@ -150,13 +147,11 @@ Rocks
 Roustabouts
 Sabercat
 Sachems
-Salamanders
 Sand Devils
 Sandies
 Savages
 Saxons
 Sea Pilots
-Seals
 Shield
 Shockers
 Slicers
@@ -166,7 +161,6 @@ Stanners
 Steamers
 Steelers
 Steelmen
-Stingrays
 Stormrays
 String
 Sultans
@@ -193,14 +187,12 @@ Totems
 Towhees
 Tractors
 Trappers
-Tree
 Trevians
 Tribe
 Tritons
 Trollers
 Turks
 Tyees
-Tūī
 Vandals
 Vanguards
 Vikings;Titans
@@ -209,7 +201,6 @@ Volunteers
 Voyagers
 Voyageurs
 Wamps
-Whales
 Wheelers
 Whundas
 Wild
