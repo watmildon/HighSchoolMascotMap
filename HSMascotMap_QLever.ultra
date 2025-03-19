@@ -132,7 +132,6 @@ controls:
               - Fighting Orioles
               - Golden Cranes
               - Kondors
-              - Macaws
               - Orioles
               - Ospreys
               - Pelicans
@@ -140,6 +139,7 @@ controls:
               - Ricebirds
               - Redbirds
               - Tanagers
+              - Tūī
             - icons8-bird-64
 
             - - Bison
@@ -349,6 +349,10 @@ controls:
               - Wambdi
             - noun-eagle-7121234
 
+            - - Egrets
+              - Kōtuku
+            - noun-egret-4453450
+
             - - Elks
               - Golden Elks
             - noun-elk-714220
@@ -391,6 +395,7 @@ controls:
             - icons8-fox-64
 
             - - Geckos
+              - Salamanders
               - Sand Lizards
             - icons8-gecko-64
 
@@ -490,6 +495,9 @@ controls:
             - - Kangaroos
             - icons8-kangaroo-64
 
+            - - Kiwi
+            - noun-kiwi-bird-4453464
+
             - - Knights
               - Black Knights
               - Black Raiders
@@ -550,6 +558,9 @@ controls:
             - - Longhorns
               - Dogies
             - noun-longhorn-skull-189289
+
+            - - Macaws
+            - noun-macaw-4453451
 
             - - Marlins
             - noun-marlin-7060421
@@ -624,6 +635,7 @@ controls:
             - noun-paper-7410429
 
             - - Parrots
+              - Kākā 
             - icons8-parrot-64
 
             - - Patriots
@@ -633,6 +645,9 @@ controls:
             - - Peackocks
               - Peacock
             - noun-peacock-7166331
+
+            - - Pegasus
+            - noun-pegasus-5099555
 
             - - Penguins
             - icons8-penguin-64
@@ -790,6 +805,9 @@ controls:
             - - Sea Kings
             - icons8-trident-64
 
+            - - Seals
+            - icons8-seal-64
+
             - - Sharks
               - Blue Sharks
               - Bullsharks
@@ -853,7 +871,7 @@ controls:
             - - Steers
             - icons8-cow-64
 
-            - - Stingarays
+            - - Stingrays
               - Stingarees
             - icons8-stingray-64
 
@@ -906,6 +924,7 @@ controls:
             - icons8-tornado-64
 
             - - Trees
+              - Tree
               - Chaparrals
               - Evergreens
             - icons8-tree-64
@@ -944,6 +963,9 @@ controls:
               - Roughriders
               - Vaqueros
             - noun-cowboy-615101
+
+            - - Whales
+            - icons8-whale-64
 
             - - Witches
             - icons8-witch's-hat-64
