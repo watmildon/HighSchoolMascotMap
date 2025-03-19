@@ -94,6 +94,7 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-school-60
 * icons8-scroll-64
 * icons8-seagull-64
+* icons8-seal-64
 * icons8-shamrock-64
 * icons8-shark-64
 * icons8-sheriff-64
@@ -111,6 +112,7 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-viking-helmet-64
 * icons8-wagon-64
 * icons8-wave-64
+* icons8-whale-64
 * icons8-wind-64
 * icons8-witch's-hat-64
 * icons8-wizard-64
@@ -172,6 +174,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-dog-6190322 - Dog by 1Q74 from Noun Project (CC BY 3.0)
 * noun-donkey-7033944 - Donkey by Fauzi Arts from Noun Project (CC BY 3.0)
 * noun-eagle-7121234 - Eagle by sentya irma from Noun Project (CC BY 3.0)
+* noun-egret-4453450 - egret by Lars Meiertoberens from Noun Project (CC BY 3.0)
 * noun-elk-714220 - elk by Nina Ho Design from Noun Project (CC BY 3.0)
 * noun-engineer-5295670 - engineer by Amethyst Studio from Noun Project (CC BY 3.0)
 * noun-flag-of-scotland-4062186 - flag of scotland by Tyler Gobberdiel from from Noun Project (CC BY 3.0)
@@ -183,6 +186,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-jester-women-5434956 - jester women by Ayub Irawan from Noun Project (CC BY 3.0)
 * noun-kayak-156915 - Kayak by Nicolas Vicent from Noun Project (CC BY 3.0)
 * noun-kite-shield-440133 - Kite Shield by parkjisun from Noun Project (CC BY 3.0)
+* noun-kiwi-bird-4453464 - kiwi by Lars Meiertoberens from Noun Project (CC BY 3.0)
 * noun-knight-6567383 - Knight by Dimitri Lupo from Noun Project (CC BY 3.0)
 * noun-knight-helmet-440140 - Knight helmet by parkjisun from Noun Project (CC BY 3.0)
 * noun-liberty-bell-4360246 - Liberty bell by Angelica from Noun Project (CC BY 3.0)
@@ -196,6 +200,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-paper-7410429 - Paper by SISWANTORO from Noun Project (CC BY 3.0)
 * noun-panda-6873635 - Panda by jisangbong from Noun Project (CC BY 3.0)
 * noun-peacock-7166331 - Peacock by Hat-Tech from Noun Project (CC BY 3.0)
+* noun-pegasus-5099555 - Pegasus by Amethyst Studio from Noun Project (CC BY 3.0)
 * noun-pheasant-7166338 - Pheasant by Hat-Tech from Noun Project (CC BY 3.0)
 * noun-polar-bear-6814672 - polar bear by SBTS from Noun Project (CC BY 3.0)
 * noun-priest-6904676 - Priest by Metami Septiana from Noun Project (CC BY 3.0)
