@@ -211,6 +211,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-ship-800131 - Ship by mungang kim from from Noun Project (CC BY 3.0)
 * noun-siberian-husky-6144002 - Siberian Husky by Amanda Yamasaki from Noun Project (CC BY 3.0)
 * noun-spartan-helmet-1732615 - spartan helmet by Joni Ramadhan from Noun Project (CC BY 3.0)
+* noun-swan-7119467 - Swan by yogi rista from Noun Project (CC BY 3.0)
 * noun-top-hat-6147491 - Top Hat by k a r e e m o v from Noun Project (CC BY 3.0)
 * noun-viking-helmet-440139 - Viking helmet by parkjisun from Noun Project (CC BY 3.0)
 * noun-yeti-6324100 - Yeti by CC0hort from Noun Project (CC BY 3.0)
