@@ -2,7 +2,7 @@
 // determine set of schools
 (
   nwr[mascot][amenity=school];
-  nwr[mascot][amenity=university](area.searchArea);
+  nwr[mascot][amenity=university];
 );
 
 out center;
