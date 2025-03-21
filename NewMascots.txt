@@ -91,6 +91,7 @@ Ironmen
 Islanders
 Jerseys
 Jimmies
+Judges
 Juggernauts
 Jugglers
 Junior Bills
@@ -181,6 +182,7 @@ Tigers and Jaguars
 Tilly the Tiger
 Tiny Tigers
 Titan
+Tomcats
 Toreadors
 Totems
 Towhees
@@ -200,6 +202,7 @@ Volunteers
 Voyagers
 Voyageurs
 Wamps
+Weevils
 Wheelers
 Whundas
 Wild
