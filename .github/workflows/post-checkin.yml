@@ -54,6 +54,7 @@ jobs:
         cat Preamble_US.ultra Style.ultra Query_US.ultra > HSMascotMap.ultra
         cat Preamble_Global.ultra Style.ultra Query_Global.ultra > HSMascotMap_global.ultra
         cat Preamble_QLever.ultra Style.ultra Query_QLever.ultra > HSMascotMap_QLever.ultra
+        cat Preamble_Global.ultra Style.ultra Query_University_Global.ultra > HSMascotMap_university_global.ultra
 
     - name: Commit and push changes
       run: |        
@@ -62,6 +63,7 @@ jobs:
         git add HSMascotMap.ultra
         git add HSMascotMap_global.ultra
         git add HSMascotMap_QLever.ultra
+        git add HSMascotMap_university_global.ultra
         git commit -m "Update style files"
         git add NewMascots.txt
         git commit -m "Update NewMascots.txt"
