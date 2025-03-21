@@ -60,11 +60,5 @@ jobs:
       run: |        
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add HSMascotMap.ultra
-        git add HSMascotMap_global.ultra
-        git add HSMascotMap_QLever.ultra
-        git add HSMascotMap_university_global.ultra
-        git commit -m "Update style files"
-        git add NewMascots.txt
-        git commit -m "Update NewMascots.txt"
-        git push
+        git add -A && git commit -m "Update files" || echo "No changes to commit"
+        git push || echo "No changes to push"
