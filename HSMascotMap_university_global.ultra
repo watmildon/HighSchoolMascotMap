@@ -1011,7 +1011,7 @@ style:
 [out:json][timeout:800];
 // determine set of schools
 (
-  nwr[mascot][amenity=university](area.searchArea);
+  nwr[mascot][amenity=university];
 );
 
 out center;
