@@ -139,6 +139,7 @@ Quakers
 Racers
 Rainmakers
 Ramblers
+Rams;Lady Rams
 Rangers;Penguins
 Reapers
 Red Riots
@@ -150,6 +151,7 @@ Sabercat
 Sachems
 Sand Devils
 Sandies
+Sandies;Sandiettes
 Savages
 Saxons
 Sea Pilots
