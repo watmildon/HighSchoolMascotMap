@@ -20,10 +20,12 @@ Blue Hawks
 Blue Jackets
 Blue Raiders
 Blue Streaks
+Bluebirds
 Bluejackets
 Blues
 Bobcats;Deer
 Bobkittens
+Boilermakers
 Boilers
 Borderites
 Bowmen
@@ -33,6 +35,7 @@ Brahmas;Brahmarettes
 Brave
 Brickies
 Bronchos
+Broncos;Fillies
 Buckeyes
 Buddies
 Buglers
@@ -53,6 +56,7 @@ Conquistadores
 Conquistadors
 Copper Kings
 Copperheads
+Corsairs
 Cosmos
 Cotton Pickers
 Cowboys;Cowgirls
@@ -69,6 +73,7 @@ Dorado
 Elephants
 Elite
 Exporters
+Fighting Bees
 Fillies;Mustangs
 Fishermen
 Flash
@@ -96,6 +101,8 @@ Juggernauts
 Jugglers
 Junior Bills
 Junior Blues
+Justices
+Kahoks
 Kays
 Kewpies
 King Cubs
@@ -125,6 +132,7 @@ Packers
 Padres
 Panther
 Patriot
+Pharaohs
 Polars
 Porcupines
 Porters
@@ -149,6 +157,7 @@ Rocks
 Roustabouts
 Sabercat
 Sachems
+Sages
 Sand Devils
 Sandies
 Sandies;Sandiettes
@@ -167,6 +176,7 @@ Steelmen
 Stormrays
 String
 Sultans
+SunDevils
 Super Star Sam
 T-Bolts
 Talismen
@@ -183,6 +193,7 @@ Tides
 Tigers and Jaguars
 Tilly the Tiger
 Tiny Tigers
+Tiny Titans
 Titan
 Tomcats
 Toreadors
@@ -208,7 +219,9 @@ Weevils
 Wheelers
 Whundas
 Wild
+Wildkits
 Wykons
+Yellow Jackets;Honeybees
 Zephyrs
 salmon
 vikings
