@@ -70,6 +70,8 @@ Dine Warriors
 Dodgers
 Dons
 Dorado
+Dots
+Eagle
 Elephants
 Elite
 Exporters
@@ -164,10 +166,12 @@ Sandies;Sandiettes
 Savages
 Saxons
 Sea Pilots
+Sequoits
 Shield
 Shockers
 Slicers
 Sonics
+Spiders
 Stampede
 Stanners
 Steamers
