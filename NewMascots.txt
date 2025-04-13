@@ -50,6 +50,7 @@ Cavers
 Champions
 Chimeras
 Chokers
+Coal Miners
 Commandos
 Conquerors
 Conquistadores
@@ -79,6 +80,7 @@ Fighting Bees
 Fillies;Mustangs
 Fishermen
 Flash
+Foxberry
 Frogs
 Garnets
 Gila Monsters
@@ -224,6 +226,7 @@ Wheelers
 Whundas
 Wild
 Wildkits
+Woody the Bear
 Wykons
 Yellow Jackets;Honeybees
 Zephyrs
