@@ -1,6 +1,7 @@
 87s
 Aggies
 Argonauts
+Artesians
 Axolotl
 Battlin' Billies
 Benjie
@@ -9,6 +10,7 @@ Big Reds
 Black Scots
 Blackscots
 Blue Darters
+Blue Devil
 Blue Jackets
 Blue Streaks
 Bluejackets
@@ -18,7 +20,6 @@ Brahman
 Brahmans
 Brahmas;Brahmarettes
 Brave
-Brickies
 Bronchos
 Broncos;Fillies
 Buckeyes
@@ -105,6 +106,7 @@ Red Riots
 Red Tails
 Renegades
 Rocks
+Sabercat
 Sachems
 Sages
 Sandies;Sandiettes
@@ -118,6 +120,7 @@ Steelmen
 Stormrays
 String
 Sultans
+SunDevils
 Super Star Sam
 T-Bolts
 Talismen
