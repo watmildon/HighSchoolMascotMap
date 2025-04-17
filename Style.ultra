@@ -39,14 +39,17 @@ style:
             - noun-angel-4039832
 
             - - Antelopes
+              - Impalas
               - Lopes
             - noun-antelope-931009
 
             - - Arrows
               - Flying Arrows
+              - Bowmen
             - icons8-arrow-64
 
             - - Athenians
+              - Goliaths and Athenas
               - Lady Warriors
             - noun-athena-2225790
 
@@ -64,19 +67,23 @@ style:
             - icons8-badger-64
 
             - - Bandits
+              - Buglers
               - Criminals
               - Outlaws
               - Rustlers
+              - Vandals
               - Vigilantes
             - icons8-bandit-64
 
             - - Beetles
+              - Weevils
             - icons8-beetle-60
 
             - - Bears
               - Bearkits
               - Black Bears
               - Bruins
+              - Crimson Bears
               - Cubs
               - Kodiaks
               - Golden Bears
@@ -85,15 +92,18 @@ style:
               - Grizzly Bears
               - Lady Bears
               - Scarlet Bears
-              - Crimson Bears
+              - Teddy Bears
             - noun-bear-653
 
             - - Beavers
               - Golden Beavers
+              - Gophers
+              - Trappers
             - icons8-beaver-64
 
             - - Bees
               - Bumble Bees
+              - Fighting Bees
               - Hornets
               - Stingers
               - Wasps
@@ -113,6 +123,7 @@ style:
               - Bluejays
               - Condors
               - Fighting Orioles
+              - Flamingos
               - Golden Cranes
               - Kondors
               - Orioles
@@ -139,11 +150,13 @@ style:
             - icons8-jay-64
 
             - - Bobcats
+              - Bobkittens
               - Lynx
               - Wildcats
               - Wildcatz
               - Wildkats
               - WiLdKats
+              - Wildkits
             - noun-bobcat-6475557
 
             - - Bucks
@@ -160,6 +173,7 @@ style:
             - noun-bulldog-7196519
 
             - - Bullfrogs
+              - Frogs
             - icons8-frog-64
 
             - - Bulls
@@ -177,7 +191,9 @@ style:
               - Bearcats
               - Bearkats
               - Blackcats
+              - Purgolders
               - Redcats
+              - Tomcats
             - icons8-cat-64
 
             - - Cavaliers
@@ -267,6 +283,7 @@ style:
               - Green Devils
               - Greene Devils
               - Red Devils
+              - Sand Devils
               - Sundevils
               - Sun Devils
             - icons8-devil-64
@@ -341,6 +358,8 @@ style:
             - noun-elk-714220
 
             - - Engineers
+              - Boilermakers
+              - Builders
             - noun-engineer-5295670
 
             - - Explorers
@@ -349,6 +368,7 @@ style:
 
             - - Farmers
               - Harvesters
+              - Tractors
             - icons8-field-and-tractor-64
 
             - - Fish
@@ -366,6 +386,7 @@ style:
               - Blazers
               - Blue Blazers
               - Blue Blazes
+              - Blue Flame
               - Flammes
             - icons8-flames-60
 
@@ -384,6 +405,7 @@ style:
 
             - - Giants
               - Titans
+              - Tiny Titans
             - noun-giant-4728529
 
             - - Greyhounds
@@ -402,6 +424,7 @@ style:
               - Bayhawks
               - Black Hawks
               - Blackhawks
+              - Blue Hawks
               - Falcons
               - Golden Hawks
               - Hustlin' Hawks
@@ -469,6 +492,7 @@ style:
             - - Jaguars
               - Panthères
               - Panthers
+              - Prowlers
             - noun-jaguar-6475548
 
             - - Jokers
@@ -485,6 +509,7 @@ style:
               - Black Knights
               - Black Raiders
               - Blue Knights
+              - Blue Raiders
               - Crimson Knights
               - Golden Knights
               - Maroon Knights
@@ -518,6 +543,7 @@ style:
             - - Lions
               - Crimson Lions
               - Golden Lions
+              - Pride
               - Redd Lions
             - noun-lion-5415959
 
@@ -526,6 +552,7 @@ style:
             - noun-rock-lobster-7060494
 
             - - Locomotives
+              - Boilers
               - Moguls
               - Rail Cat
               - Rail Cats
@@ -552,6 +579,7 @@ style:
             - icons8-flour-64
 
             - - Miners
+              - Coal Miners
               - Coalers
               - Gold Diggers
               - Golddiggers
@@ -590,6 +618,7 @@ style:
 
             - - Oilers
               - Roughnecks
+              - Roustabouts
               - Wildcatters
             - icons8-oil-pump-64
 
@@ -659,6 +688,7 @@ style:
 
             - - Pirates
               - Buccaneers
+              - Corsairs
               - Peglegs
             - icons8-pirate-60
 
@@ -714,6 +744,7 @@ style:
 
             - - Rams
               - Bighorns
+              - Lambkins
             - icons8-ram-64
 
             - - Rapids
@@ -740,6 +771,8 @@ style:
             - icons8-roadrunner-64
 
             - - Rockets
+              - Astros
+              - Cosmos
             - icons8-rocket-64
 
             - - Royals
@@ -786,6 +819,7 @@ style:
             - icons8-seagull-64
 
             - - Sea Kings
+              - Tritons
             - icons8-trident-64
 
             - - Seals
@@ -811,6 +845,7 @@ style:
 
             - - Skippers
               - Clippers
+              - Fishermen
               - Mariners
               - Sailors
             - icons8-boat-64
@@ -871,6 +906,7 @@ style:
             - noun-swan-7119467
 
             - - Swordsmen
+              - Castle Guards
               - Gladiators
               - Golden Warriors
               - Warriors
@@ -895,6 +931,7 @@ style:
               - Bengal Tigers
               - Bengals
               - Tigercats
+              - Tiny Tigers
               - White Tigers
             - icons8-year-of-tiger-64
 
@@ -936,6 +973,7 @@ style:
               - Green Wave
               - Greenwave
               - Purple Waves
+              - Tides
               - Waveriders
             - icons8-wave-64
 
@@ -951,6 +989,7 @@ style:
             - noun-cowboy-615101
 
             - - Whales
+              - Belugas
             - icons8-whale-64
 
             - - Witches
@@ -960,6 +999,7 @@ style:
             - icons8-wizard-64
 
             - - Wolverines
+              - Qavviks
             - noun-wolverine-4704799
 
             - - Wolves
