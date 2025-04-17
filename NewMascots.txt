@@ -1,26 +1,19 @@
 87s
 Aggies
 Argonauts
-Artesians
-Avalanche
 Axolotl
 Battlin' Billies
-Belugas
 Benjie
 Big Blue
 Big Reds
 Black Scots
 Blackscots
-Blizzards
 Blue Darters
-Blue Devil
 Blue Jackets
 Blue Streaks
-Bluebirds
 Bluejackets
 Blues
 Bobcats;Deer
-Borderites
 Brahman
 Brahmans
 Brahmas;Brahmarettes
@@ -30,13 +23,8 @@ Bronchos
 Broncos;Fillies
 Buckeyes
 Buddies
-Bullets
 Caballeros
-Campers
-Canadiens
 Caravan
-Cavers
-Champions
 Chimeras
 Chokers
 Commandos
@@ -44,7 +32,6 @@ Conquerors
 Conquistadores
 Conquistadors
 Copper Kings
-Copperheads
 Cotton Pickers
 Cowboys;Cowgirls
 Crickets
@@ -52,24 +39,16 @@ Cruisers
 Cyclone
 Dalers
 Darts
-Dateliners
 Dine Warriors
 Dodgers
 Dons
-Dorado
-Dots
 Eagle
-Elephants
-Elite
 Exporters
 Fillies;Mustangs
 Flash
 Foxberry
-Garnets
 Gila Monsters
-Goats
 Goldburgs
-Gorillas
 Gremlins
 Harpooners;Harpoonerettes
 Hillbillies
@@ -77,15 +56,12 @@ Hyacks
 Hyaks
 Invaders
 Ironmen
-Islanders
 Jerseys
 Jimmies
-Judges
 Juggernauts
 Jugglers
 Junior Bills
 Junior Blues
-Justices
 Kahoks
 Kays
 Kewpies
@@ -99,10 +75,8 @@ Magic
 Maniacs
 Marauders
 Maroons
-Matadors
 Mauraders
 Modeltowners
-Mounties
 Muckers
 Mustangs;Fillies
 Navi
@@ -115,7 +89,6 @@ Packers
 Padres
 Panther
 Patriot
-Pharaohs
 Polars
 Porcupines
 Porters
@@ -124,7 +97,6 @@ Punchers
 Quaker
 Quakers
 Racers
-Rainmakers
 Ramblers
 Rams;Lady Rams
 Rangers;Penguins
@@ -133,30 +105,19 @@ Red Riots
 Red Tails
 Renegades
 Rocks
-Sabercat
 Sachems
 Sages
-Sandies
 Sandies;Sandiettes
 Savages
 Saxons
-Sea Pilots
-Seahorses
 Sequoits
-Shield
-Shockers
 Slicers
-Sonics
-Spiders
-Stampede
 Stanners
-Steamers
 Steelers
 Steelmen
 Stormrays
 String
 Sultans
-SunDevils
 Super Star Sam
 T-Bolts
 Talismen
@@ -164,14 +125,12 @@ Talons
 Tarriers
 Tartans
 Tartars
-Terriers
 Terrors
 The Green Dragon
 Think Flamingo
 Tigers and Jaguars
 Tilly the Tiger
 Titan
-Toreadors
 Totems
 Towhees
 Trevians
@@ -192,6 +151,5 @@ Wild
 Woody the Bear
 Wykons
 Yellow Jackets;Honeybees
-Zephyrs
 salmon
 vikings

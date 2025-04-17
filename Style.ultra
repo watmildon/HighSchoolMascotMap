@@ -48,6 +48,9 @@ style:
               - Bowmen
             - icons8-arrow-64
 
+            - - Artisians
+            - icons8-art-64
+
             - - Athenians
               - Goliaths and Athenas
               - Lady Warriors
@@ -55,6 +58,9 @@ style:
 
             - - Atoms
             - icons8-atom-64
+
+            - - Avalanche
+            - icons8-avalanche-64
 
             - - Aviators
               - Pilots
@@ -120,6 +126,7 @@ style:
 
             - - Birds
               - Alouettes
+              - Bluebirds
               - Bluejays
               - Condors
               - Fighting Orioles
@@ -146,6 +153,9 @@ style:
               - White Buffalo
             - noun-bison-5832708
 
+            - - Blizzards
+            - icons8-snowflake-64
+
             - - Blue Jays
             - icons8-jay-64
 
@@ -158,6 +168,13 @@ style:
               - WiLdKats
               - Wildkits
             - noun-bobcat-6475557
+
+            - - Borderites
+              - Dateliners
+            - icons8-globe-64
+
+            - - Brickies
+            - icons8-brick-wall-64
 
             - - Bucks
               - Antlers
@@ -180,8 +197,18 @@ style:
               - Toros
             - icons8-bull-64
 
+            - - Bullets
+            - icons8-bullet-64
+
             - - Camels
             - icons8-camel-64
+
+            - - Campers
+            - icons8-camp-64
+
+            - - Canadiens
+              - Mounties
+            - icons8-maple-leaf-64
 
             - - Cardinals
               - Fighting Cardinals
@@ -203,12 +230,19 @@ style:
               - Kavemen
             - icons8-caveman-64
 
+            - - Cavers
+            - icons8-cave-64
+
             - - Celts
               - Celtics
             - noun-celtic-knot-6722441
 
             - - Centaurs
             - noun-archer-3971196
+
+            - - Champions
+              - Elite
+            - icons8-trophy-64
 
             - - Cheesemakers
             - icons8-cheese-64
@@ -304,10 +338,12 @@ style:
               - Hoyas
               - Pointers
               - Spoofhounds
+              - Terriers
               - Whippets
             - noun-dog-364
 
             - - Dolphins
+              - Dorado
               - Friendly Dolphins
             - icons8-dolphin-64
 
@@ -323,6 +359,9 @@ style:
               - Burros
               - Mules
             - noun-donkey-7033944
+
+            - - Dots
+            - icons8-dots-64
 
             - - Ducks
               - Ganders
@@ -352,6 +391,9 @@ style:
             - - Egrets
               - Kōtuku
             - noun-egret-4453450
+
+            - - Elephants
+            - icons8-elephant-64
 
             - - Elks
               - Golden Elks
@@ -398,6 +440,9 @@ style:
               - Red Foxes
             - icons8-fox-64
 
+            - - Garnets
+            - icons8-gem-64
+
             - - Geckos
               - Salamanders
               - Sand Lizards
@@ -407,6 +452,12 @@ style:
               - Titans
               - Tiny Titans
             - noun-giant-4728529
+
+            - - Goats
+            - icons8-goat-64
+
+            - - Gorillas
+            - icons8-gorilla-64
 
             - - Greyhounds
               - Grayhounds
@@ -469,6 +520,7 @@ style:
               - Ponies
               - Pintos
               - Stallions
+              - Stampede
               - Warhorses
             - icons8-horse-60
 
@@ -481,6 +533,9 @@ style:
             - - Huskies
               - Malamutes
             - noun-siberian-husky-6144002
+
+            - - Islanders
+            - icons8-island-64
 
             - - Irish
               - Fightin' Irish
@@ -498,6 +553,10 @@ style:
             - - Jokers
               - Jesters
             - noun-jester-women-5434956
+
+            - - Judges
+              - Justices
+            - icons8-gavel-64
 
             - - Kangaroos
             - icons8-kangaroo-64
@@ -558,6 +617,7 @@ style:
               - Rail Cats
               - Railroaders
               - Rails
+              - Steamers
             - icons8-steam-engine-64
 
             - - Loggers
@@ -574,6 +634,10 @@ style:
 
             - - Marlins
             - noun-marlin-7060421
+
+            - - Matadors
+              - Toreadors
+            - icons8-matador-64
 
             - - Millers
             - icons8-flour-64
@@ -670,6 +734,9 @@ style:
               - Spirit
             - icons8-phantom-64
 
+            - - Pharaohs
+            - icons8-pharaoh-64
+
             - - Pheasants
             - noun-pheasant-7166338
 
@@ -698,6 +765,7 @@ style:
               - Flyers
               - Golden Bombers
               - Jets
+              - Sonics
             - icons8-plane-64
 
             - - Polar Bears
@@ -822,6 +890,9 @@ style:
               - Tritons
             - icons8-trident-64
 
+            - - Seahorses
+            - icons8-seahorse-64
+
             - - Seals
             - icons8-seal-64
 
@@ -841,6 +912,7 @@ style:
               - Defenders
               - Desert Shields
               - Guardians
+              - Shield
             - noun-kite-shield-440133
 
             - - Skippers
@@ -848,10 +920,12 @@ style:
               - Fishermen
               - Mariners
               - Sailors
+              - Sea Pilots
             - icons8-boat-64
 
             - - Snakes
               - Cobras
+              - Copperheads
               - Diamondbacks
               - King Cobras
               - Kobras
@@ -879,6 +953,9 @@ style:
               - Sentinels
             - noun-spartan-helmet-1732615
 
+            - - Spiders
+            - icons8-spider-64
+
             - - Stars
               - All Stars
               - Allstars
@@ -895,6 +972,7 @@ style:
 
             - - Storm
               - Monsoon
+              - Rainmakers
               - Red Storm
             - noun-storm-7373164
 
@@ -922,6 +1000,7 @@ style:
               - Blue Thunder
               - Bolts
               - Flashes
+              - Shockers
               - Thunder
               - Thunderbolts
               - Thunders
@@ -941,6 +1020,7 @@ style:
             - - Tornados
               - Golden Tornadoes
               - Golden Tornados
+              - Sandies
               - Tornadoes
               - Whirlies
               - Whirlwinds
@@ -1026,7 +1106,7 @@ style:
             - - Zebras
             - icons8-zebra-60
 
-            - - Zeyphers
+            - - Zephyrs
             - icons8-wind-64
 
             - - match
