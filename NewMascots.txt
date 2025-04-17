@@ -2,7 +2,6 @@
 Aggies
 Argonauts
 Artesians
-Astros
 Avalanche
 Axolotl
 Battlin' Billies
@@ -15,20 +14,13 @@ Blackscots
 Blizzards
 Blue Darters
 Blue Devil
-Blue Flame
-Blue Hawks
 Blue Jackets
-Blue Raiders
 Blue Streaks
 Bluebirds
 Bluejackets
 Blues
 Bobcats;Deer
-Bobkittens
-Boilermakers
-Boilers
 Borderites
-Bowmen
 Brahman
 Brahmans
 Brahmas;Brahmarettes
@@ -38,27 +30,21 @@ Bronchos
 Broncos;Fillies
 Buckeyes
 Buddies
-Buglers
-Builders
 Bullets
 Caballeros
 Campers
 Canadiens
 Caravan
-Castle Guards
 Cavers
 Champions
 Chimeras
 Chokers
-Coal Miners
 Commandos
 Conquerors
 Conquistadores
 Conquistadors
 Copper Kings
 Copperheads
-Corsairs
-Cosmos
 Cotton Pickers
 Cowboys;Cowgirls
 Crickets
@@ -76,25 +62,19 @@ Eagle
 Elephants
 Elite
 Exporters
-Fighting Bees
 Fillies;Mustangs
-Fishermen
 Flash
 Foxberry
-Frogs
 Garnets
 Gila Monsters
 Goats
 Goldburgs
-Goliaths and Athenas
-Gophers
 Gorillas
 Gremlins
 Harpooners;Harpoonerettes
 Hillbillies
 Hyacks
 Hyaks
-Impalas
 Invaders
 Ironmen
 Islanders
@@ -111,7 +91,6 @@ Kays
 Kewpies
 King Cubs
 Kākā
-Lambkins
 Little Johns
 Loggers;Loggerettes
 Lumberjack;Lumberjill
@@ -141,11 +120,7 @@ Polars
 Porcupines
 Porters
 Potters
-Pride
-Prowlers
 Punchers
-Purgolders
-Qavviks
 Quaker
 Quakers
 Racers
@@ -158,16 +133,15 @@ Red Riots
 Red Tails
 Renegades
 Rocks
-Roustabouts
 Sabercat
 Sachems
 Sages
-Sand Devils
 Sandies
 Sandies;Sandiettes
 Savages
 Saxons
 Sea Pilots
+Seahorses
 Sequoits
 Shield
 Shockers
@@ -190,30 +164,21 @@ Talons
 Tarriers
 Tartans
 Tartars
-Teddy Bears
 Terriers
 Terrors
 The Green Dragon
 Think Flamingo
-Tides
 Tigers and Jaguars
 Tilly the Tiger
-Tiny Tigers
-Tiny Titans
 Titan
-Tomcats
 Toreadors
 Totems
 Towhees
-Tractors
-Trappers
 Trevians
 Tribe
-Tritons
 Trollers
 Turks
 Tyees
-Vandals
 Vanguards
 Vikings;Titans
 Vols
@@ -221,11 +186,9 @@ Volunteers
 Voyagers
 Voyageurs
 Wamps
-Weevils
 Wheelers
 Whundas
 Wild
-Wildkits
 Woody the Bear
 Wykons
 Yellow Jackets;Honeybees
