@@ -11,6 +11,7 @@ Black Scots
 Blackscots
 Blue Darters
 Blue Devil
+Blue Hoses
 Blue Jackets
 Blue Streaks
 Bluejackets
@@ -37,17 +38,15 @@ Cotton Pickers
 Cowboys;Cowgirls
 Crickets
 Cruisers
-Cyclone
 Dalers
 Darts
-Dine Warriors
 Dodgers
 Dons
-Eagle
 Exporters
 Fillies;Mustangs
 Flash
 Foxberry
+Gamecocks
 Gila Monsters
 Goldburgs
 Gremlins
@@ -68,6 +67,7 @@ Kays
 Kewpies
 King Cubs
 Kākā
+Leathernecks
 Little Johns
 Loggers;Loggerettes
 Lumberjack;Lumberjill
@@ -88,8 +88,7 @@ Oredockers
 Pacers
 Packers
 Padres
-Panther
-Patriot
+Paladins
 Polars
 Porcupines
 Porters
@@ -106,7 +105,6 @@ Red Riots
 Red Tails
 Renegades
 Rocks
-Sabercat
 Sachems
 Sages
 Sandies;Sandiettes
@@ -120,7 +118,6 @@ Steelmen
 Stormrays
 String
 Sultans
-SunDevils
 Super Star Sam
 T-Bolts
 Talismen
@@ -133,7 +130,6 @@ The Green Dragon
 Think Flamingo
 Tigers and Jaguars
 Tilly the Tiger
-Titan
 Totems
 Towhees
 Trevians
@@ -141,6 +137,7 @@ Tribe
 Trollers
 Turks
 Tyees
+Valkyries
 Vanguards
 Vikings;Titans
 Vols
