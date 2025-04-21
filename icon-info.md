@@ -202,6 +202,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-griffin-1388150 - Griffin by Icons Producer from Noun Project (CC BY 3.0)
 * noun-hawk-6660034 - hawk by visual language from Noun Project (CC BY 3.0)
 * noun-heron-7121230 - Heron by sentya irma from Noun Project (CC BY 3.0)
+* noun-invaders-813348 - Flag by Oksana Latysheva from Noun Project (CC BY 3.0)
 * noun-jaguar-6475548 - jaguar by Besticons from Noun Project (CC BY 3.0)
 * noun-jester-women-5434956 - jester women by Ayub Irawan from Noun Project (CC BY 3.0)
 * noun-kayak-156915 - Kayak by Nicolas Vicent from Noun Project (CC BY 3.0)
