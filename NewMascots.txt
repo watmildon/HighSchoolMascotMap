@@ -29,10 +29,6 @@ Caballeros
 Caravan
 Chimeras
 Chokers
-Commandos
-Conquerors
-Conquistadores
-Conquistadors
 Copper Kings
 Cotton Pickers
 Cowboys;Cowgirls
@@ -54,7 +50,6 @@ Harpooners;Harpoonerettes
 Hillbillies
 Hyacks
 Hyaks
-Invaders
 Ironmen
 Jerseys
 Jimmies
@@ -74,7 +69,6 @@ Lumberjack;Lumberjill
 Lyons
 Magic
 Maniacs
-Marauders
 Maroons
 Mauraders
 Modeltowners

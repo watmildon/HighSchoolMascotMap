@@ -545,6 +545,13 @@ style:
               - Malamutes
             - noun-siberian-husky-6144002
 
+            - - Invaders
+              - Conquerors
+              - Conquistadores
+              - Conquistadors
+              - Marauders
+            - noun-invaders-813348
+
             - - Islanders
             - icons8-island-64
 
@@ -952,6 +959,7 @@ style:
               - Cadets
               - Colonels
               - Commanders
+              - Commandos
               - Generals
               - Kadets
               - Majors
