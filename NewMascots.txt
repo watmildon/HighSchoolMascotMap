@@ -29,6 +29,7 @@ Caballeros
 Caravan
 Chimeras
 Chokers
+Cocky
 Copper Kings
 Cotton Pickers
 Cowboys;Cowgirls
@@ -42,7 +43,6 @@ Exporters
 Fillies;Mustangs
 Flash
 Foxberry
-Gamecocks
 Gila Monsters
 Goldburgs
 Gremlins
@@ -70,7 +70,6 @@ Lyons
 Magic
 Maniacs
 Maroons
-Mauraders
 Modeltowners
 Muckers
 Mustangs;Fillies
