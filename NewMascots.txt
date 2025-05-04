@@ -37,6 +37,7 @@ Crickets
 Cruisers
 Dalers
 Darts
+Devildogs
 Dodgers
 Dons
 Exporters
@@ -70,6 +71,8 @@ Lyons
 Magic
 Maniacs
 Maroons
+Minutemen
+Missiles
 Modeltowners
 Muckers
 Mustangs;Fillies
@@ -144,5 +147,14 @@ Wild
 Woody the Bear
 Wykons
 Yellow Jackets;Honeybees
+atoms
+bobcats
+chargers
+eagle
+hornets
+phoenix
+rams
 salmon
+stallions
+titans
 vikings
