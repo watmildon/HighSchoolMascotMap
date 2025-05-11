@@ -25,6 +25,7 @@ Bronchos
 Broncos;Fillies
 Buckeyes
 Buddies
+Bullgogs
 Caballeros
 Caravan
 Chimeras
@@ -48,10 +49,12 @@ Gila Monsters
 Goldburgs
 Gremlins
 Harpooners;Harpoonerettes
+Hedgehogs
 Hillbillies
 Hyacks
 Hyaks
 Ironmen
+Jayhawks
 Jerseys
 Jimmies
 Juggernauts
