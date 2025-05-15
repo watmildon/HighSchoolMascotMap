@@ -177,8 +177,9 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-antelope-931009 - Antelope by parkjisun from Noun Project (CC BY 3.0)
 * noun-archer-3971196 - Archer by Becris from Noun Project (CC BY 3.0)
 * noun-athena-2225790 - Athena by parkjisun from Noun Project (CC BY 3.0)
-* noun-aztec-pyramid-4486531 - aztec pyramid by Andi Nur Abdillah rom Noun Project (CC BY 3.0)
-* noun-bear-653 - Public Domain from https://thenounproject.com/icon/bear-653/
+* noun-aztec-pyramid-4486531 - aztec pyramid by Andi Nur Abdillah from Noun Project (CC BY 3.0)
+* noun-barracuda-7060430 - Barracuda by visual language from Noun Project (CC BY 3.0)
+* noun-bear-653 - Public Domain from Noun Project
 * noun-bison-5832708 - Bison by Lars Meiertoberens from Noun Project (CC BY 3.0)
 * noun-black-flag-5471370 - black flag by geoffreydorne from Noun Project (CC BY 3.0)
 * noun-bobcat-6475557 - Bobcat by Besticons from Noun Project (CC BY 3.0)
@@ -210,6 +211,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-kiwi-bird-4453464 - kiwi by Lars Meiertoberens from Noun Project (CC BY 3.0)
 * noun-knight-6567383 - Knight by Dimitri Lupo from Noun Project (CC BY 3.0)
 * noun-knight-helmet-440140 - Knight helmet by parkjisun from Noun Project (CC BY 3.0)
+* noun-koi-fish-3890830 - Koi fish by Kevin from Noun Project (CC BY 3.0)
 * noun-liberty-bell-4360246 - Liberty bell by Angelica from Noun Project (CC BY 3.0)
 * noun-lion-5415959 - Lion by Thales Muller from Noun Project (CC BY 3.0)
 * noun-longhorn-skull-189289 - Longhorn Skull by Benjamin Harlow from from Noun Project (CC BY 3.0)
@@ -228,6 +230,7 @@ Provides an accounting of the license information for image files in the "icons"
 * noun-puma-3391157 - puma by Lars Meiertoberens from Noun Project (CC BY 3.0)
 * noun-rock-lobster-7060494 - rock lobster by visual language from Noun Project (CC BY 3.0)
 * noun-sabertooth-4903406 - Sabertooth by Amethyst Studio from Noun Project (CC BY 3.0)
+* noun-salmon-1660330 - Salmon by Rfourtytwo from Noun Project (CC BY 3.0)
 * noun-scorpion-7144042 - Scorpion by Leonardo Henrique Martini from from Noun Project (CC BY 3.0)
 * noun-ship-800131 - Ship by mungang kim from from Noun Project (CC BY 3.0)
 * noun-siberian-husky-6144002 - Siberian Husky by Amanda Yamasaki from Noun Project (CC BY 3.0)
