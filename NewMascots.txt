@@ -14,6 +14,7 @@ Blue Devil
 Blue Hoses
 Blue Jackets
 Blue Streaks
+Blue Whales
 Bluejackets
 Blues
 Bobcats;Deer
@@ -25,10 +26,14 @@ Bronchos
 Broncos;Fillies
 Buckeyes
 Buddies
+Bulldog Pups
 Bullgogs
 Caballeros
+Captains
 Caravan
+Challengers
 Chimeras
+Chipmunks
 Chokers
 Cocky
 Copper Kings
@@ -41,6 +46,7 @@ Darts
 Devildogs
 Dodgers
 Dons
+Dragonflies
 Exporters
 Fillies;Mustangs
 Flash
@@ -61,6 +67,8 @@ Juggernauts
 Jugglers
 Junior Bills
 Junior Blues
+Junior Huskies
+Junior Seahawks
 Kahoks
 Kays
 Kewpies
@@ -73,6 +81,8 @@ Lumberjack;Lumberjill
 Lyons
 Magic
 Maniacs
+Marmots
+Maroon
 Maroons
 Minutemen
 Missiles
@@ -88,6 +98,7 @@ Pacers
 Packers
 Padres
 Paladins
+Peace Cranes
 Polars
 Porcupines
 Porters
@@ -111,12 +122,15 @@ Savages
 Saxons
 Sequoits
 Slicers
+Springers
+Squirrels
 Stanners
 Steelers
 Steelmen
 Stormrays
 String
 Sultans
+Sun Dragons
 Super Star Sam
 T-Bolts
 Talismen
@@ -148,6 +162,7 @@ Wheelers
 Whundas
 Wild
 Woody the Bear
+Wreckers
 Wykons
 Yellow Jackets;Honeybees
 eagle
