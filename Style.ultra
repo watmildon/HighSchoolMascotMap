@@ -364,7 +364,6 @@ style:
             - icons8-dots-64
 
             - - Ducks
-              - Ganders
             - icons8-duck-64
 
             - - Dwarfs
@@ -503,6 +502,7 @@ style:
             - icons8-hippo-64
 
             - - Honkers
+              - Ganders
               - Goslings
             - icons8-goose-64
 

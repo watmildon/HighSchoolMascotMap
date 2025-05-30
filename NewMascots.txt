@@ -9,11 +9,13 @@ Big Blue
 Big Reds
 Black Scots
 Blackscots
+Blazer Bees
 Blue Darters
 Blue Devil
 Blue Hoses
 Blue Jackets
 Blue Streaks
+Blue Tornado
 Blue Whales
 Bluejackets
 Blues
@@ -40,6 +42,7 @@ Copper Kings
 Cotton Pickers
 Cowboys;Cowgirls
 Crickets
+Crimson Wave
 Cruisers
 Dalers
 Darts
@@ -50,6 +53,7 @@ Dragonflies
 Exporters
 Fillies;Mustangs
 Flash
+Flying Flucos
 Foxberry
 Gila Monsters
 Goldburgs
@@ -83,6 +87,7 @@ Magic
 Maniacs
 Marmots
 Maroon
+Maroon Tide
 Maroons
 Minutemen
 Missiles
@@ -115,6 +120,7 @@ Red Riots
 Red Tails
 Renegades
 Rocks
+Rockstars
 Sachems
 Sages
 Sandies;Sandiettes
@@ -122,6 +128,8 @@ Savages
 Saxons
 Sequoits
 Slicers
+Snow Leopards
+Soaring Hawks
 Springers
 Squirrels
 Stanners
@@ -158,6 +166,7 @@ Volunteers
 Voyagers
 Voyageurs
 Wamps
+Wave
 Wheelers
 Whundas
 Wild
