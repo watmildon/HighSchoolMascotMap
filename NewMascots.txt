@@ -174,5 +174,10 @@ Woody the Bear
 Wreckers
 Wykons
 Yellow Jackets;Honeybees
+cardinal
 eagle
+general
+owl
+pointer
 salmon
+viking
