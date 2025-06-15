@@ -58,6 +58,7 @@ Foxberry
 Gila Monsters
 Goldburgs
 Gremlins
+Hardrockers
 Harpooners;Harpoonerettes
 Hedgehogs
 Hillbillies
@@ -201,6 +202,7 @@ pointer
 salmon
 siberian husky
 tigers
+timberwolf
 viking
 vikings
 wolverines
