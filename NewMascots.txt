@@ -183,7 +183,6 @@ Yellow Jackets;Honeybees
 bear
 bears
 broncos
-bulldog
 bulldogs
 cardinal
 cardinals
@@ -209,5 +208,6 @@ tigers
 timberwolf
 viking
 vikings
+wolverine
 wolverines
 wolves
