@@ -1,5 +1,6 @@
 87s
 Aggies
+Archie the Lion;Monarchs
 Argonauts
 Artesians
 Axolotl
@@ -54,6 +55,7 @@ Dons
 Dragonflies
 Exporters
 Fillies;Mustangs
+Flacons
 Flash
 Flying Flucos
 Foxberry
@@ -82,6 +84,7 @@ Kewpies
 King Cubs
 Kākā
 Leathernecks
+Lions;Socrates the Lion
 Little Johns
 Loggers;Loggerettes
 Lumberjack;Lumberjill
@@ -92,10 +95,13 @@ Marmots
 Maroon
 Maroon Tide
 Maroons
+Matador
+Middies
 Minutemen
 Missiles
 Modeltowners
 Muckers
+Mustang
 Mustangs;Fillies
 Navi
 Nordiks
@@ -107,6 +113,8 @@ Packers
 Padres
 Paladins
 Peace Cranes
+Peacocks
+Pioneers;Dusty the Pioneer
 Polars
 Porcupines
 Porters
@@ -188,27 +196,36 @@ bulldogs
 cardinal
 cardinals
 cobra
+demons
 eagle
 eagles
 general
 hawks
 hornets
 huskies
+indians
 jaguars
 judges
 knights
 lightning
+lions
+longhorns
 millers
 owl
 panthers
 patriots
+pioneers
 pointer
+roughers
+sabercats
 salmon
+savages
 siberian husky
 tigers
 timberwolf
 viking
 vikings
+wildcats
 wolverine
 wolverines
 wolves
