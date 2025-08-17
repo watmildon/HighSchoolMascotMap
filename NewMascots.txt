@@ -3,6 +3,7 @@ Aggies
 Archie the Lion;Monarchs
 Argonauts
 Artesians
+Astronauts
 Axolotl
 Battlin' Billies
 Bear
@@ -212,6 +213,7 @@ lions
 longhorns
 millers
 owl
+pacers
 panthers
 patriots
 pioneers
