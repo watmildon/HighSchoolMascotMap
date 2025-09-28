@@ -117,7 +117,9 @@ Padres
 Paladins
 Peace Cranes
 Peacocks
+Pied Pipers
 Pioneers;Dusty the Pioneer
+Pirates;Lady Pirates
 Polars
 Porcupines
 Porters
@@ -199,6 +201,7 @@ bulldogs
 cardinal
 cardinals
 cobra
+cobras
 demons
 eagle
 eagles
