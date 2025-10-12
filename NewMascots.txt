@@ -72,6 +72,7 @@ Hillbillies
 Hyacks
 Hyaks
 Ironmen
+Jackets
 Jayhawks
 Jerseys
 Jimmies
@@ -87,6 +88,7 @@ Kewpies
 King Cubs
 Kākā
 Leathernecks
+Lions;Lady Lions
 Lions;Socrates the Lion
 Little Johns
 Loggers;Loggerettes
@@ -111,6 +113,7 @@ Nordiks
 Obama Stars
 Old Abes
 Oredockers
+Owls;Lady Owls
 Pacers
 Packers
 Padres
@@ -142,6 +145,7 @@ Sages
 Sandies;Sandiettes
 Savages
 Saxons
+Sea King
 Sequoits
 Slicers
 Snow Leopards
