@@ -93,6 +93,9 @@ style:
               - Vigilantes
             - icons8-bandit-64
 
+            - - Barracudas
+            - noun-barracuda-7060430
+
             - - Beetles
               - Weevils
             - icons8-beetle-60
@@ -425,13 +428,7 @@ style:
             - icons8-field-and-tractor-64
 
             - - Fish
-              - Barracudas
-              - Carp
-              - Chinooks
-              - King Salmon
-              - Koi
               - Muskies
-              - Salmon
               - Tarpons
             - icons8-fish-64
 
@@ -599,6 +596,10 @@ style:
 
             - - Koalas
             - icons8-koala-64
+
+            - - Koi
+              - Carp
+            - noun-koi-fish-3890830
 
             - - Lakers
             - icons8-anchor-64
@@ -886,6 +887,11 @@ style:
             - - Saints
               - Fighting Saints
             - icons8-fleur-de-lys-60
+
+            - - Salmon
+              - Chinooks
+              - King Salmon
+            - noun-salmon-1660330
 
             - - Scoopers
             - icons8-shovel-64

@@ -94,6 +94,7 @@ Lions;Lady Lions
 Lions;Socrates the Lion
 Little Johns
 Loggers;Loggerettes
+Longhorn
 Lumberjack;Lumberjill
 Lyons
 Magic
