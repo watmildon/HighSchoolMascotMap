@@ -1,19 +1,26 @@
 87s
 Aggies
+Archie the Lion;Monarchs
 Argonauts
 Artesians
+Astronauts
 Axolotl
 Battlin' Billies
+Bear
 Benjie
 Big Blue
 Big Reds
 Black Scots
 Blackscots
+Blazer Bees
+Blue Aces
 Blue Darters
 Blue Devil
 Blue Hoses
 Blue Jackets
 Blue Streaks
+Blue Tornado
+Blue Whales
 Bluejackets
 Blues
 Bobcats;Deer
@@ -25,35 +32,49 @@ Bronchos
 Broncos;Fillies
 Buckeyes
 Buddies
+Bulldog Pups
 Bullgogs
+Buzzy the Hornet
 Caballeros
+Captains
 Caravan
+Challengers
 Chimeras
+Chipmunks
 Chokers
 Cocky
+Comanches
 Copper Kings
 Cotton Pickers
 Cowboys;Cowgirls
 Crickets
+Crimson Wave
 Cruisers
+Cubs;Cubettes
 Dalers
 Darts
 Devildogs
 Dodgers
 Dons
+Dragonflies
 Exporters
 Fillies;Mustangs
+Flacons
 Flash
+Flying Flucos
 Foxberry
+Gales
 Gila Monsters
 Goldburgs
 Gremlins
+Hardrockers
 Harpooners;Harpoonerettes
 Hedgehogs
 Hillbillies
 Hyacks
 Hyaks
 Ironmen
+Jackets
 Jayhawks
 Jerseys
 Jimmies
@@ -61,33 +82,50 @@ Juggernauts
 Jugglers
 Junior Bills
 Junior Blues
+Junior Huskies
+Junior Seahawks
 Kahoks
 Kays
 Kewpies
 King Cubs
 Kākā
 Leathernecks
+Lions;Lady Lions
+Lions;Socrates the Lion
 Little Johns
 Loggers;Loggerettes
 Lumberjack;Lumberjill
 Lyons
 Magic
 Maniacs
+Marmots
+Maroon
+Maroon Tide
 Maroons
+Matador
+Middies
 Minutemen
 Missiles
 Modeltowners
 Muckers
+Mustang
 Mustangs;Fillies
+Mustangs;Lady Mustangs
 Navi
 Nordiks
 Obama Stars
 Old Abes
 Oredockers
+Owls;Lady Owls
 Pacers
 Packers
 Padres
 Paladins
+Peace Cranes
+Peacocks
+Pied Pipers
+Pioneers;Dusty the Pioneer
+Pirates;Lady Pirates
 Polars
 Porcupines
 Porters
@@ -104,19 +142,27 @@ Red Riots
 Red Tails
 Renegades
 Rocks
+Rockstars
 Sachems
 Sages
 Sandies;Sandiettes
 Savages
 Saxons
+Sea King
 Sequoits
 Slicers
+Snow Leopards
+Soaring Hawks
+Springers
+Spy Ponders
+Squirrels
 Stanners
 Steelers
 Steelmen
 Stormrays
 String
 Sultans
+Sun Dragons
 Super Star Sam
 T-Bolts
 Talismen
@@ -129,6 +175,7 @@ The Green Dragon
 Think Flamingo
 Tigers and Jaguars
 Tilly the Tiger
+Tommy the Trojan
 Totems
 Towhees
 Trevians
@@ -144,20 +191,56 @@ Volunteers
 Voyagers
 Voyageurs
 Wamps
+Wampus Cats
+Wave
 Wheelers
+Whippet
 Whundas
 Wild
 Woody the Bear
+Wreckers
 Wykons
 Yellow Jackets;Honeybees
-atoms
-bobcats
-chargers
+Yellowhammers
+bear
+bears
+broncos
+bulldogs
+cardinal
+cardinals
+cobra
+cobras
+demons
 eagle
+eagles
+general
+hawks
 hornets
-phoenix
-rams
+huskies
+indians
+jaguars
+judges
+knights
+lightning
+lions
+longhorns
+millers
+owl
+pacers
+panthers
+patriots
+pioneers
+pointer
+roughers
+sabercats
 salmon
-stallions
-titans
+savages
+siberian husky
+tigers
+timberwolf
+viking
 vikings
+wildcats
+wolverine
+wolverines
+wolves
