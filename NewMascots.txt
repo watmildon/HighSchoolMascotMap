@@ -17,6 +17,7 @@ Blazer Bees
 Blue Aces
 Blue Darters
 Blue Devil
+Blue Devils;Lady Devils
 Blue Hoses
 Blue Jackets
 Blue Streaks
@@ -58,6 +59,7 @@ Devildogs
 Dodgers
 Dons
 Dragonflies
+Electrics
 Exporters
 Fillies;Mustangs
 Flacons
@@ -173,6 +175,7 @@ Tarriers
 Tartans
 Tartars
 Terrors
+Testudo
 The Green Dragon
 Think Flamingo
 Tigers and Jaguars
@@ -206,6 +209,7 @@ Yellow Jackets;Honeybees
 Yellowhammers
 bear
 bears
+bobcat
 broncos
 bulldogs
 cardinal
