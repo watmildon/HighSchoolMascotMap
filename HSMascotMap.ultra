@@ -207,10 +207,6 @@ style:
               - Lil' Bulldogs
               - Watchdogs
             - noun-bulldog-7196519
-            
-            - - Bullfighters
-              - Matadors
-            - noun-bullfighter-9541
 
             - - Bullfrogs
               - Frogs
@@ -681,7 +677,7 @@ style:
 
             - - Matadors
               - Toreadors
-            - icons8-matador-64
+            - noun-bullfighter-9541
 
             - - Millers
             - icons8-flour-64
