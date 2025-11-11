@@ -80,7 +80,6 @@ Provides an accounting of the license information for image files in the "icons"
 * icons8-leopard-64
 * icons8-lightning-64
 * icons8-maple-leaf-64
-* icons8-matador-64
 * icons8-mine-cart-64
 * icons8-miner-64
 * icons8-moutain-64
