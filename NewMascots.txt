@@ -27,16 +27,12 @@ Bullgogs
 Buzzy the Hornet
 Caballeros
 Caravan
-Challengers
 Chimeras
-Chipmunks
-Chokers
 Cocky
 Comanches
 Copper Kings
 Cotton Pickers
 Cowboys;Cowgirls
-Crickets
 Cruisers
 Cubs;Cubettes
 Dalers
@@ -44,7 +40,6 @@ Darts
 Devildogs
 Dodgers
 Dons
-Dragonflies
 Exporters
 Fillies;Mustangs
 Flacons
@@ -55,7 +50,6 @@ Gales
 Gila Monsters
 Goldburgs
 Gremlins
-Hardrockers
 Harpooners;Harpoonerettes
 Hedgehogs
 Hillbillies
@@ -106,13 +100,9 @@ Pacers
 Packers
 Padres
 Paladins
-Peace Cranes
-Peacocks
-Pied Pipers
 Pioneers;Dusty the Pioneer
 Pirates;Lady Pirates
 Polars
-Porcupines
 Porters
 Potters
 Punchers
@@ -127,7 +117,6 @@ Red Riots
 Red Tails
 Renegades
 Rocks
-Rockstars
 Sachems
 Sages
 Sandies;Sandiettes
@@ -136,10 +125,8 @@ Saxons
 Sea King
 Sequoits
 Slicers
-Snow Leopards
 Springers
 Spy Ponders
-Squirrels
 Stanners
 Steelers
 Steelmen
@@ -160,7 +147,6 @@ Think Flamingo
 Tigers and Jaguars
 Tilly the Tiger
 Tommy the Trojan
-Totems
 Towhees
 Trevians
 Tribe
@@ -176,7 +162,6 @@ Voyagers
 Voyageurs
 Wamps
 Wampus Cats
-Wheelers
 Whippet
 Whundas
 Wild
