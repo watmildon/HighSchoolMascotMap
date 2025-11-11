@@ -36,6 +36,7 @@ style:
             - noun-abraham-lincoln-5878979
 
             - - Aces
+              - Blue Aces
             - icons8-ace-of-spades-64
 
             - - Acorns
@@ -61,6 +62,7 @@ style:
             - icons8-arrow-64
 
             - - Artisians
+              - Artesians
             - icons8-art-64
 
             - - Athenians
@@ -123,6 +125,7 @@ style:
             - icons8-beaver-64
 
             - - Bees
+              - Blazer Bees
               - Bumble Bees
               - Fighting Bees
               - Hornets
@@ -199,6 +202,7 @@ style:
             - icons8-deer-64
 
             - - Bulldogs
+              - Bulldog Pups
               - Bullpups
               - Lil' Bulldogs
               - Watchdogs
@@ -367,6 +371,7 @@ style:
               - Green Dragons
               - Red Dragons
               - Sea Dragons
+              - Sun Dragons
               - Wyverns
             - icons8-dragon-64
 
@@ -423,6 +428,7 @@ style:
             - icons8-binoculars-64
 
             - - Farmers
+              - Aggies
               - Harvesters
               - Tractors
             - icons8-field-and-tractor-64
@@ -487,6 +493,7 @@ style:
               - Falcons
               - Golden Hawks
               - Hustlin' Hawks
+              - Junior Seahawks
               - Nighthawks
               - Redhawks
               - Red Hawks
@@ -498,6 +505,7 @@ style:
               - Silverhawks
               - Skyhawks
               - SkyHawks
+              - Soaring Hawks
               - Steelhawks
               - Thunderhawks
               - Warhawks
@@ -540,6 +548,7 @@ style:
             - icons8-hurricane-64
 
             - - Huskies
+              - Junior Huskies
               - Malamutes
             - noun-siberian-husky-6144002
 
@@ -859,12 +868,15 @@ style:
             - icons8-roadrunner-64
 
             - - Rockets
+              - Astronauts
               - Astros
               - Cosmos
+              - Missiles
             - icons8-rocket-64
 
             - - Royals
               - Barons
+              - Barrons
               - Blue Dukes
               - Delta Kings
               - Dukes
@@ -900,6 +912,8 @@ style:
             - noun-scorpion-7144042
 
             - - Scots
+              - Black Scots
+              - Blackscots
               - Highlanders
               - Hilanders
               - Kilties
@@ -941,6 +955,7 @@ style:
             - noun-kite-shield-440133
 
             - - Skippers
+              - Argonauts
               - Clippers
               - Fishermen
               - Mariners
@@ -964,6 +979,7 @@ style:
             - - Soldiers
               - Admirals
               - Cadets
+              - Captains
               - Colonels
               - Commanders
               - Commandos
@@ -1025,6 +1041,7 @@ style:
             - - Lightning
               - Blue Thunder
               - Bolts
+              - Electrics
               - Flashes
               - Shockers
               - Thunder
@@ -1044,6 +1061,7 @@ style:
             - icons8-tomahawk-64
 
             - - Tornados
+              - Blue Tornado
               - Golden Tornadoes
               - Golden Tornados
               - Sandies
@@ -1076,10 +1094,13 @@ style:
               - Blue Wave
               - Breakers
               - Crimson Tide
+              - Crimson Wave
               - Green Wave
               - Greenwave
+              - Maroon Tide
               - Purple Waves
               - Tides
+              - Wave
               - Waveriders
             - icons8-wave-64
 
@@ -1096,6 +1117,7 @@ style:
 
             - - Whales
               - Belugas
+              - Blue Whales
             - icons8-whale-64
 
             - - Witches
