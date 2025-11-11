@@ -1,28 +1,17 @@
 87s
-Aggies
 Archie the Lion;Monarchs
-Argonauts
-Artesians
-Astronauts
 Axolotl
-Barrons
 Battlin' Billies
 Bear
 Benjie
 Big Blue
 Big Reds
-Black Scots
-Blackscots
-Blazer Bees
-Blue Aces
 Blue Darters
 Blue Devil
 Blue Devils;Lady Devils
 Blue Hoses
 Blue Jackets
 Blue Streaks
-Blue Tornado
-Blue Whales
 Bluejackets
 Blues
 Bobcats;Deer
@@ -34,11 +23,9 @@ Bronchos
 Broncos;Fillies
 Buckeyes
 Buddies
-Bulldog Pups
 Bullgogs
 Buzzy the Hornet
 Caballeros
-Captains
 Caravan
 Challengers
 Chimeras
@@ -50,7 +37,6 @@ Copper Kings
 Cotton Pickers
 Cowboys;Cowgirls
 Crickets
-Crimson Wave
 Cruisers
 Cubs;Cubettes
 Dalers
@@ -59,7 +45,6 @@ Devildogs
 Dodgers
 Dons
 Dragonflies
-Electrics
 Exporters
 Fillies;Mustangs
 Flacons
@@ -85,8 +70,6 @@ Juggernauts
 Jugglers
 Junior Bills
 Junior Blues
-Junior Huskies
-Junior Seahawks
 Kahoks
 Kays
 Kewpies
@@ -104,12 +87,10 @@ Magic
 Maniacs
 Marmots
 Maroon
-Maroon Tide
 Maroons
 Matador
 Middies
 Minutemen
-Missiles
 Modeltowners
 Muckers
 Mustang
@@ -156,7 +137,6 @@ Sea King
 Sequoits
 Slicers
 Snow Leopards
-Soaring Hawks
 Springers
 Spy Ponders
 Squirrels
@@ -166,7 +146,6 @@ Steelmen
 Stormrays
 String
 Sultans
-Sun Dragons
 Super Star Sam
 T-Bolts
 Talismen
@@ -197,7 +176,6 @@ Voyagers
 Voyageurs
 Wamps
 Wampus Cats
-Wave
 Wheelers
 Whippet
 Whundas
