@@ -212,6 +212,10 @@ controls:
               - Lil' Bulldogs
               - Watchdogs
             - noun-bulldog-7196519
+            
+            - - Bullfighters
+              - Matadors
+            - noun-bullfighter-9541
 
             - - Bullfrogs
               - Frogs
@@ -279,6 +283,9 @@ controls:
               - Brahmas
             - icons8-chicken-64
 
+            - - Chipmunks
+            - noun-chipmunk-4132773
+
             - - Climbers
               - Foothillers
               - Highclimbers
@@ -327,6 +334,9 @@ controls:
               - Coyote Pups
               - Kiotes
             - noun-coyote-3662387
+
+            - - Crickets
+            - noun-cricket-1975340
 
             - - Crusaders
               - Templars
@@ -387,6 +397,9 @@ controls:
 
             - - Dots
             - icons8-dots-64
+
+            - - Dragonflies
+            - noun-dragonfly-1975339
 
             - - Ducks
             - icons8-duck-64
@@ -631,6 +644,7 @@ controls:
             - icons8-scroll-64
 
             - - Leopards
+              - Snow Leopards
             - icons8-leopard-64
 
             - - Lions
@@ -656,6 +670,7 @@ controls:
 
             - - Loggers
               - Axemen
+              - Chokers
               - Lumberjacks
             - icons8-axe-60
 
@@ -752,9 +767,12 @@ controls:
               - Patriotes
             - noun-liberty-bell-4360246
 
-            - - Peackocks
+            - - Peace Cranes
+            - noun-origami-crane-107231
+
+            - - Peacocks
               - Peacock
-            - noun-peacock-7166331
+            - noun-peacock-8134651
 
             - - Pegasus
             - noun-pegasus-5099555
@@ -779,6 +797,9 @@ controls:
               - Phénix
               - Phoenixes
             - icons8-phoenix-60
+
+            - - Pied Pipers
+            - noun-pied-piper-2199126
 
             - - Pilgrims
             - icons8-pilgrim-hat-64
@@ -813,6 +834,9 @@ controls:
               - Senators
               - Statesmen
             - icons8-politician-64
+
+            - - Porcupines
+            - noun-porcupine-4901121
 
             - - Potatoes
               - Russets
@@ -873,11 +897,14 @@ controls:
             - icons8-roadrunner-64
 
             - - Rockets
-              - Astronauts
               - Astros
               - Cosmos
               - Missiles
             - icons8-rocket-64
+
+            - - Rockstars
+              - Hardrockers
+            - noun-electric-guitar-7939886
 
             - - Royals
               - Barons
@@ -959,6 +986,11 @@ controls:
               - Shield
             - noun-kite-shield-440133
 
+            - - Shuttles
+              - Astronauts
+              - Challengers
+            - noun-space-shuttle-7935139
+
             - - Skippers
               - Argonauts
               - Clippers
@@ -980,6 +1012,9 @@ controls:
               - Vipers
               - Vipères
             - icons8-snake-64
+
+            - - Squirrels
+            - noun-squirrel-8141310
 
             - - Soldiers
               - Admirals
@@ -1075,6 +1110,9 @@ controls:
               - Whirlwinds
             - icons8-tornado-64
 
+            - - Totems
+            - noun-totem-4721829
+
             - - Trees
               - Tree
               - Chaparrals
@@ -1124,6 +1162,9 @@ controls:
               - Belugas
               - Blue Whales
             - icons8-whale-64
+
+            - - Wheelers
+            - noun-wagon-wheel-4497127
 
             - - Witches
             - icons8-witch's-hat-64
