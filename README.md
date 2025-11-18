@@ -43,7 +43,7 @@ The easiest way to find lots and lots of schools that need mascot tags is to que
 // This is the relation id for Washington State. It sets the geographic bound for the query.
 // Replace id with the one for your state found on the wiki at
 // https://wiki.openstreetmap.org/wiki/United_States/State_boundary_relations
-rel(165479);map_to_area->->.a;
+rel(165479);map_to_area->.a;
 (
     nwr["amenity"="school"][name~"High School"][!mascot](area.a);
 );
