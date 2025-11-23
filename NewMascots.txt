@@ -1,9 +1,13 @@
 87s
 Archie the Lion;Monarchs
 Axolotl
+Bald Eagles
 Battlin' Billies
+Beacons
 Benjie
 Big Blue
+Big Green
+Big Red
 Big Reds
 Blue Darters
 Blue Devil
@@ -26,7 +30,9 @@ Buddies
 Buzzy the Hornet
 Caballeros
 Caravan
+Chanticleers
 Chimeras
+Chippewas
 Cocky
 Comanches
 Copper Kings
@@ -71,6 +77,7 @@ Kākā
 Leathernecks
 Lions;Lady Lions
 Lions;Socrates the Lion
+Little Green
 Little Johns
 Loggers;Loggerettes
 Lumberjack;Lumberjill
@@ -83,7 +90,9 @@ Maroon Tigers
 Maroons
 Middies
 Minutemen
+Minutemen;Minutewomen
 Modeltowners
+Mohawks
 Muckers
 Mustangs;Fillies
 Mustangs;Lady Mustangs
@@ -96,6 +105,8 @@ Owls;Lady Owls
 Packers
 Padres
 Paladins
+Panthers; Patriots
+Penmen
 Pioneers;Dusty the Pioneer
 Pirates;Lady Pirates
 Pointer
@@ -113,13 +124,19 @@ Reapers
 Red Riots
 Red Tails
 Renegades
+River Hawks
 Rocks
 Roughers
 Sages
 Sandies;Sandiettes
+Sandites
 Savages
 Saxons
+Scarlet Knights
+Scarlet Raiders
+Scarlet Raptors
 Sea King
+Seminoles
 Sequoits
 Siberian Husky
 Slicers
