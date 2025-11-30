@@ -1,3 +1,4 @@
+76ers
 87s
 Archie the Lion;Monarchs
 Axolotl
@@ -27,6 +28,7 @@ Bronchos
 Broncos;Fillies
 Buckeyes
 Buddies
+Bulldog
 Buzzy the Hornet
 Caballeros
 Caravan
@@ -55,8 +57,10 @@ Gila Monsters
 Goldburgs
 Gremlins
 Harpooners;Harpoonerettes
+Haybalers
 Hedgehogs
 Hillbillies
+Hokies
 Hyacks
 Hyaks
 Ironmen
@@ -74,6 +78,7 @@ Kays
 Kewpies
 King Cubs
 Kākā
+Lakes
 Leathernecks
 Lions;Lady Lions
 Lions;Socrates the Lion
@@ -98,6 +103,7 @@ Mustangs;Fillies
 Mustangs;Lady Mustangs
 Navi
 Nordiks
+Oakmont Viking
 Obama Stars
 Old Abes
 Oredockers
@@ -105,6 +111,7 @@ Owls;Lady Owls
 Packers
 Padres
 Paladins
+Panther
 Panthers; Patriots
 Penmen
 Pioneers;Dusty the Pioneer
@@ -117,16 +124,23 @@ Punchers
 Quaker
 Quakers
 Racers
+Raging Rhino
+Raider
 Ramblers
 Rams;Lady Rams
 Rangers;Penguins
 Reapers
 Red Riots
+Red Tail Hawks
 Red Tails
 Renegades
 River Hawks
+Riverhawk
+Rocklin Thunder
 Rocks
+Roseville Tiger
 Roughers
+Royal Scots
 Sages
 Sandies;Sandiettes
 Sandites
@@ -162,12 +176,14 @@ Think Flamingo
 Tigers and Jaguars
 Tilly the Tiger
 Tommy the Trojan
+Toreadores
 Towhees
 Trevians
 Tribe
 Trollers
 Turks
 Tyees
+Valiants
 Valkyries
 Vanguards
 Vikings;Titans
@@ -180,6 +196,8 @@ Wampus Cats
 Whippet
 Whundas
 Wild
+Wildcat
+Wolf
 Woody the Bear
 Wreckers
 Wykons
