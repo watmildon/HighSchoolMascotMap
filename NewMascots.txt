@@ -1,10 +1,14 @@
+76ers
 87s
 Archie the Lion;Monarchs
 Axolotl
+Bald Eagles
 Battlin' Billies
-Bear
+Beacons
 Benjie
 Big Blue
+Big Green
+Big Red
 Big Reds
 Blue Darters
 Blue Devil
@@ -14,6 +18,7 @@ Blue Jackets
 Blue Streaks
 Bluejackets
 Blues
+Bobcat
 Bobcats;Deer
 Brahman
 Brahmans
@@ -23,11 +28,13 @@ Bronchos
 Broncos;Fillies
 Buckeyes
 Buddies
-Bullgogs
+Bulldog
 Buzzy the Hornet
 Caballeros
 Caravan
+Chanticleers
 Chimeras
+Chippewas
 Cocky
 Comanches
 Copper Kings
@@ -42,7 +49,6 @@ Dodgers
 Dons
 Exporters
 Fillies;Mustangs
-Flacons
 Flash
 Flying Flucos
 Foxberry
@@ -51,8 +57,10 @@ Gila Monsters
 Goldburgs
 Gremlins
 Harpooners;Harpoonerettes
+Haybalers
 Hedgehogs
 Hillbillies
+Hokies
 Hyacks
 Hyaks
 Ironmen
@@ -65,43 +73,50 @@ Jugglers
 Junior Bills
 Junior Blues
 Kahoks
+Kardinals
 Kays
 Kewpies
 King Cubs
 Kākā
+Lakes
 Leathernecks
 Lions;Lady Lions
 Lions;Socrates the Lion
+Little Green
 Little Johns
 Loggers;Loggerettes
-Longhorn
 Lumberjack;Lumberjill
 Lyons
 Magic
 Maniacs
 Marmots
 Maroon
+Maroon Tigers
 Maroons
-Matador
 Middies
 Minutemen
+Minutemen;Minutewomen
 Modeltowners
+Mohawks
 Muckers
-Mustang
 Mustangs;Fillies
 Mustangs;Lady Mustangs
 Navi
 Nordiks
+Oakmont Viking
 Obama Stars
 Old Abes
 Oredockers
 Owls;Lady Owls
-Pacers
 Packers
 Padres
 Paladins
+Panther
+Panthers; Patriots
+Penmen
 Pioneers;Dusty the Pioneer
 Pirates;Lady Pirates
+Pointer
 Polars
 Porters
 Potters
@@ -109,21 +124,35 @@ Punchers
 Quaker
 Quakers
 Racers
+Raging Rhino
+Raider
 Ramblers
 Rams;Lady Rams
 Rangers;Penguins
 Reapers
 Red Riots
+Red Tail Hawks
 Red Tails
 Renegades
+River Hawks
+Riverhawk
+Rocklin Thunder
 Rocks
-Sachems
+Roseville Tiger
+Roughers
+Royal Scots
 Sages
 Sandies;Sandiettes
+Sandites
 Savages
 Saxons
+Scarlet Knights
+Scarlet Raiders
+Scarlet Raptors
 Sea King
+Seminoles
 Sequoits
+Siberian Husky
 Slicers
 Springers
 Spy Ponders
@@ -147,12 +176,14 @@ Think Flamingo
 Tigers and Jaguars
 Tilly the Tiger
 Tommy the Trojan
+Toreadores
 Towhees
 Trevians
 Tribe
 Trollers
 Turks
 Tyees
+Valiants
 Valkyries
 Vanguards
 Vikings;Titans
@@ -165,51 +196,12 @@ Wampus Cats
 Whippet
 Whundas
 Wild
+Wildcat
+Wolf
 Woody the Bear
 Wreckers
 Wykons
 Yellow Jackets;Honeybees
 Yellowhammers
-bear
-bears
-bobcat
-broncos
-bulldogs
-cardinal
-cardinals
-cobra
 cobras
-demons
-eagle
-eagles
-general
-hawks
-hornets
-huskies
-indians
-jaguars
-judges
-knights
-lightning
-lions
-longhorns
-millers
-owl
-pacers
-panthers
-patriots
-pioneers
-pointer
-roughers
-sabercats
 salmon
-savages
-siberian husky
-tigers
-timberwolf
-viking
-vikings
-wildcats
-wolverine
-wolverines
-wolves

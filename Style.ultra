@@ -133,6 +133,7 @@ style:
 
             - - Birds
               - Alouettes
+              - Blackbirds
               - Bluebirds
               - Bluejays
               - Condors
@@ -168,6 +169,7 @@ style:
 
             - - Bobcats
               - Bobkittens
+              - Hillcats
               - Lynx
               - Wildcats
               - Wildcatz
@@ -532,6 +534,7 @@ style:
               - Kolts
               - Mavericks
               - Mustangs
+              - Pacers
               - Ponies
               - Pintos
               - Stallions
@@ -702,6 +705,7 @@ style:
               - Mohigans
               - Redmen
               - Redskins
+              - Sachems
               - Sioux
               - Utes
             - icons8-indian-headdress-64
@@ -986,6 +990,7 @@ style:
               - Diamondbacks
               - King Cobras
               - Kobras
+              - Pythons
               - Rattlers
               - Rattles
               - Sidewinders
@@ -1122,6 +1127,7 @@ style:
               - Greenwave
               - Maroon Tide
               - Purple Waves
+              - Riptides
               - Tides
               - Wave
               - Waveriders

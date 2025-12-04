@@ -143,6 +143,7 @@ style:
 
             - - Birds
               - Alouettes
+              - Blackbirds
               - Bluebirds
               - Bluejays
               - Condors
@@ -178,6 +179,7 @@ style:
 
             - - Bobcats
               - Bobkittens
+              - Hillcats
               - Lynx
               - Wildcats
               - Wildcatz
@@ -206,10 +208,6 @@ style:
               - Lil' Bulldogs
               - Watchdogs
             - noun-bulldog-7196519
-            
-            - - Bullfighters
-              - Matadors
-            - noun-bullfighter-9541
 
             - - Bullfrogs
               - Frogs
@@ -546,6 +544,7 @@ style:
               - Kolts
               - Mavericks
               - Mustangs
+              - Pacers
               - Ponies
               - Pintos
               - Stallions
@@ -680,7 +679,7 @@ style:
 
             - - Matadors
               - Toreadors
-            - icons8-matador-64
+            - noun-bullfighter-9541
 
             - - Millers
             - icons8-flour-64
@@ -716,6 +715,7 @@ style:
               - Mohigans
               - Redmen
               - Redskins
+              - Sachems
               - Sioux
               - Utes
             - icons8-indian-headdress-64
@@ -1000,6 +1000,7 @@ style:
               - Diamondbacks
               - King Cobras
               - Kobras
+              - Pythons
               - Rattlers
               - Rattles
               - Sidewinders
@@ -1136,6 +1137,7 @@ style:
               - Greenwave
               - Maroon Tide
               - Purple Waves
+              - Riptides
               - Tides
               - Wave
               - Waveriders
