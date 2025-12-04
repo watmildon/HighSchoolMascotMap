@@ -28,6 +28,7 @@ Bronchos
 Broncos;Fillies
 Buckeyes
 Buddies
+Builldogs
 Bulldog
 Buzzy the Hornet
 Caballeros
@@ -35,7 +36,6 @@ Caravan
 Chanticleers
 Chimeras
 Chippewas
-Cocky
 Comanches
 Copper Kings
 Cotton Pickers
@@ -53,6 +53,7 @@ Flash
 Flying Flucos
 Foxberry
 Gales
+Gamecocks
 Gila Monsters
 Goldburgs
 Gremlins
@@ -60,6 +61,7 @@ Harpooners;Harpoonerettes
 Haybalers
 Hedgehogs
 Hillbillies
+Hillmen
 Hokies
 Hyacks
 Hyaks
@@ -133,7 +135,6 @@ Reapers
 Red Riots
 Red Tail Hawks
 Red Tails
-Renegades
 River Hawks
 Riverhawk
 Rocklin Thunder
@@ -144,6 +145,8 @@ Royal Scots
 Sages
 Sandies;Sandiettes
 Sandites
+Sandpipers
+Sasquatch
 Savages
 Saxons
 Scarlet Knights
@@ -154,6 +157,7 @@ Seminoles
 Sequoits
 Siberian Husky
 Slicers
+Sparrowhawks
 Springers
 Spy Ponders
 Stanners
@@ -183,6 +187,7 @@ Tribe
 Trollers
 Turks
 Tyees
+Ugly Eagles
 Valiants
 Valkyries
 Vanguards
