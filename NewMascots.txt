@@ -3,6 +3,7 @@
 Archie the Lion;Monarchs
 Axolotl
 Bald Eagles
+Basset Hounds
 Battlin' Billies
 Beacons
 Benjie
@@ -47,6 +48,7 @@ Darts
 Devildogs
 Dodgers
 Dons
+Elements
 Exporters
 Fillies;Mustangs
 Flash
@@ -66,6 +68,7 @@ Hokies
 Hyacks
 Hyaks
 Ironmen
+Jack Rabbits
 Jackets
 Jayhawks
 Jerseys
@@ -77,6 +80,7 @@ Junior Blues
 Kahoks
 Kardinals
 Kays
+Kestrels
 Kewpies
 King Cubs
 Kākā
@@ -90,6 +94,7 @@ Loggers;Loggerettes
 Lumberjack;Lumberjill
 Lyons
 Magic
+Mammoths
 Maniacs
 Marmots
 Maroon
@@ -152,6 +157,7 @@ Saxons
 Scarlet Knights
 Scarlet Raiders
 Scarlet Raptors
+Screamin' Eagles
 Sea King
 Seminoles
 Sequoits
@@ -163,10 +169,12 @@ Spy Ponders
 Stanners
 Steelers
 Steelmen
+Stompers
 Stormrays
 String
 Sultans
 Super Star Sam
+Super Stars
 T-Bolts
 Talismen
 Talons
@@ -184,6 +192,7 @@ Toreadores
 Towhees
 Trevians
 Tribe
+Trojan
 Trollers
 Turks
 Tyees
