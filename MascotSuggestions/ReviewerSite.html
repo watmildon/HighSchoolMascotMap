@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>School Mascot Review</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background: #f0f0f0;
+            cursor: pointer;
+        }
+
+        button {
+            padding: 5px 10px;
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>School Mascot Review</h1>
+    <input type="file" id="csvFile" accept=".csv">
+    <button id="saveCsv">Save Table to CSV</button>
+    <table id="schoolTable"></table>
+
+    <script>
+        const table = document.getElementById('schoolTable');
+        const fileInput = document.getElementById('csvFile');
+        const saveButton = document.getElementById('saveCsv');
+        let currentData = [];
+        let sortDirections = {};
+
+        function parseCSV(text) {
+            const lines = text.trim().split("\n");
+            const headers = lines[0].split(",");
+            return lines.slice(1).map(line => {
+                const values = line.split(",");
+                let obj = {};
+                headers.forEach((h, i) => obj[h.trim()] = values[i] ? values[i].trim() : "");
+                return obj;
+            });
+        }
+
+        function renderTable(data) {
+            currentData = data;
+            table.innerHTML = "";
+            const headerRow = document.createElement("tr");
+            const headers = ["School name", "Suggested Mascot", "Website", "OSM Link", "Remove"];
+            headers.forEach((h, idx) => {
+                const th = document.createElement("th");
+                th.textContent = h;
+                if (h !== "Remove") {
+                    th.addEventListener("click", () => sortTable(idx));
+                }
+                headerRow.appendChild(th);
+            });
+            table.appendChild(headerRow);
+
+            data.forEach((row, idx) => {
+                const tr = document.createElement("tr");
+
+                // School name
+                const tdName = document.createElement("td");
+                tdName.textContent = row["School name"];
+                tr.appendChild(tdName);
+
+                // Suggested Mascot
+                const tdMascot = document.createElement("td");
+                tdMascot.textContent = row["Suggested Mascot"];
+                tr.appendChild(tdMascot);
+
+                // Website link
+                const tdWebsite = document.createElement("td");
+                const aWebsite = document.createElement("a");
+                aWebsite.href = row["website"];
+                aWebsite.textContent = row["website"];
+                aWebsite.target = "_blank";
+                tdWebsite.appendChild(aWebsite);
+                tr.appendChild(tdWebsite);
+
+                // OSM link -> JOSM remote control
+                const tdOSM = document.createElement("td");
+                const aOSM = document.createElement("a");
+                const match = row["osmLink"].match(/openstreetmap\.org\/(node|way|relation)\/(\d+)/);
+                if (match) {
+                    const typeMap = { node: "n", way: "w", relation: "r" };
+                    const josmUrl = `http://localhost:8111/load_object?objects=${typeMap[match[1]]}${match[2]}`;
+                    aOSM.href = josmUrl;
+                    aOSM.textContent = "Open in JOSM";
+                    aOSM.target = "_blank";
+                } else {
+                    aOSM.href = row["osmLink"];
+                    aOSM.textContent = row["osmLink"];
+                    aOSM.target = "_blank";
+                }
+                tdOSM.appendChild(aOSM);
+                tr.appendChild(tdOSM);
+
+                // Remove button
+                const tdRemove = document.createElement("td");
+                const btnRemove = document.createElement("button");
+                btnRemove.textContent = "Remove";
+                btnRemove.addEventListener("click", () => {
+                    currentData.splice(idx, 1);
+                    renderTable(currentData);
+                });
+                tdRemove.appendChild(btnRemove);
+                tr.appendChild(tdRemove);
+
+                table.appendChild(tr);
+            });
+        }
+
+        function sortTable(columnIndex) {
+            const headers = ["School name", "Suggested Mascot", "website", "osmLink"];
+            const key = headers[columnIndex];
+            const direction = sortDirections[key] === "asc" ? "desc" : "asc";
+            sortDirections[key] = direction;
+
+            currentData.sort((a, b) => {
+                const valA = a[key].toLowerCase();
+                const valB = b[key].toLowerCase();
+                if (valA < valB) return direction === "asc" ? -1 : 1;
+                if (valA > valB) return direction === "asc" ? 1 : -1;
+                return 0;
+            });
+
+            renderTable(currentData);
+        }
+
+        function exportToCSV() {
+            if (currentData.length === 0) return;
+            const headers = ["School name", "Suggested Mascot", "website", "osmLink"];
+            const rows = currentData.map(row => headers.map(h => row[h]).join(","));
+            const csvContent = headers.join(",") + "\n" + rows.join("\n");
+            const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+            const url = URL.createObjectURL(blob);
+
+            const link = document.createElement("a");
+            link.href = url;
+            // leave download attribute empty → browser shows file picker
+            link.download = "";
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+
+
+        saveButton.addEventListener("click", exportToCSV);
+
+        fileInput.addEventListener("change", (e) => {
+            const file = e.target.files[0];
+            if (!file) return;
+            const reader = new FileReader();
+            reader.onload = (evt) => {
+                const data = parseCSV(evt.target.result);
+                renderTable(data);
+            };
+            reader.readAsText(file);
+        });
+    </script>
+</body>
+</html>
