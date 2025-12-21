@@ -1202,9 +1202,9 @@ style:
             - icons8-wind-64
 
             - - match
-              - [downcase, [slice, [coalesce, [get, mascot:iconography], [get, mascot]], 0, 1]]
+              - [downcase, [slice, [get, mascot], 0, 1]]
               - [a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z]
-              - [concat, Letterman_, [upcase, [slice, [coalesce, [get, mascot:iconography], [get, mascot]], 0, 1]]]
+              - [concat, Letterman_, [upcase, [slice, [get, mascot], 0, 1]]]
 
               - icons8-school-60
           - .png
