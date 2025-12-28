@@ -2,7 +2,6 @@
 title: MascotMap
 description: Map of school mascots powered by OSM.
 type: postpass
-server: https://qlever.cs.uni-freiburg.de/api/osm-planet
 options:
   hash: m
   zoom: -0.1
