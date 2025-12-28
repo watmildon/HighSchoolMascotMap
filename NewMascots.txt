@@ -27,12 +27,14 @@ Brahman
 Brahmans
 Brahmas;Brahmarettes
 Brave
+Bridgers
 Bronchos
 Broncos;Fillies
 Buckeyes
 Buddies
 Builldogs
 Bulldog
+Bunny
 Buzzy the Hornet
 Caballeros
 Caravan
@@ -58,6 +60,7 @@ Fighting Eagles
 Fillies;Mustangs
 Flash
 Fliers
+Flying Dutchmen
 Flying Flucos
 Foxberry
 Gales
@@ -68,6 +71,7 @@ Great Blue Heron
 Gremlins
 Groundhogs
 Harpooners;Harpoonerettes
+Hawkeyes
 Haybalers
 Hedgehogs
 Heroes
@@ -154,6 +158,7 @@ Punchers
 Quaker
 Quakers
 Qughsatkut
+Quips
 Racers
 Raging Rhino
 Raider
@@ -167,6 +172,7 @@ Red Tail Hawks
 Red Tails
 Red-Tailed Hawks
 Retrievers
+Ringnecks
 Ringtails
 River Hawks
 Riverhawk
@@ -199,6 +205,7 @@ Siberian Husky
 Silver Comets
 Sky Hawks
 Slicers
+Snowy Owls
 Sparrowhawks
 Springers
 Spy Ponders
@@ -226,6 +233,7 @@ Thoroughbreds
 Tiger
 Tigers and Jaguars
 Tilly the Tiger
+Timber Pups
 Tommy the Trojan
 Top Cats
 Top Tigers

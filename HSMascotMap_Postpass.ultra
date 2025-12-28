@@ -1,0 +1,1222 @@
+---
+title: MascotMap
+description: Map of school mascots powered by OSM.
+type: postpass
+server: https://qlever.cs.uni-freiburg.de/api/osm-planet
+options:
+  hash: m
+  zoom: -0.1
+  center: [0, 30]
+  attributionControl:
+    customAttribution: '<a href=".">Ultra</a> | <a href="https://github.com/watmildon/HighSchoolMascotMap">Github</a> | <a href="https://github.com/watmildon/HighSchoolMascotMap/blob/main/icon-info.md">Icons</a>'
+controls:
+  - type: GeolocateControl
+    options:
+      positionOptions:
+        enableHighAccuracy: true
+      trackUserLocation: true
+      style:
+  extends: https://styles.trailsta.sh/protomaps-light.json
+  layers:
+    - type: circle
+      paint:
+        circle-color: '#6dad6f'
+        circle-stroke-color: white
+        circle-stroke-width: 2
+        circle-radius: 3
+    - type: symbol
+      layout:
+        icon-padding: 0
+        icon-image:
+          - concat
+          - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/
+          - - match
+            - - case
+              - [ "has", "mascot:iconography" ]
+              - [ "get", "mascot:iconography" ]
+              - [ "get", "mascot" ]
+
+            - - Abes
+              - Railsplitters
+            - noun-abraham-lincoln-5878979
+
+            - - Aces
+              - Blue Aces
+            - icons8-ace-of-spades-64
+
+            - - Acorns
+            - icons8-acorn-64
+
+            - - Alligators
+              - Gators
+              - Golden Gators
+              - Irrigators
+            - icons8-alligator-64
+
+            - - Angels
+            - noun-angel-4039832
+
+            - - Antelopes
+              - Impalas
+              - Lopes
+            - noun-antelope-931009
+
+            - - Arrows
+              - Flying Arrows
+              - Bowmen
+            - icons8-arrow-64
+
+            - - Artisians
+              - Artesians
+            - icons8-art-64
+
+            - - Athenians
+              - Goliaths and Athenas
+              - Lady Warriors
+            - noun-athena-2225790
+
+            - - Atoms
+            - icons8-atom-64
+
+            - - Avalanche
+            - icons8-avalanche-64
+
+            - - Aviators
+              - Pilots
+            - icons8-aviator-64
+
+            - - Aztecs
+            - noun-aztec-pyramid-4486531
+
+            - - Badgers
+            - icons8-badger-64
+
+            - - Bandits
+              - Buglers
+              - Criminals
+              - Outlaws
+              - Renegades
+              - Rustlers
+              - Vandals
+              - Vigilantes
+            - icons8-bandit-64
+
+            - - Barracudas
+            - noun-barracuda-7060430
+
+            - - Beetles
+              - Weevils
+            - icons8-beetle-60
+
+            - - Bears
+              - Bearkits
+              - Black Bears
+              - Bruins
+              - Crimson Bears
+              - Cubs
+              - Kodiaks
+              - Golden Bears
+              - Grizzlies
+              - Grizzly
+              - Grizzly Bears
+              - Lady Bears
+              - Scarlet Bears
+              - Teddy Bears
+            - noun-bear-653
+
+            - - Beavers
+              - Golden Beavers
+              - Gophers
+              - Trappers
+            - icons8-beaver-64
+
+            - - Bees
+              - Blazer Bees
+              - Bumble Bees
+              - Fighting Bees
+              - Hornets
+              - Stingers
+              - Wasps
+              - Yellow Jackets
+              - Yellowjackets
+            - icons8-bee-64
+
+            - - Beetdiggers
+            - icons8-beet-64
+
+            - - Berries
+              - Marshmen
+            - icons8-blueberry-64
+
+            - - Birds
+              - Alouettes
+              - Blackbirds
+              - Bluebirds
+              - Bluejays
+              - Condors
+              - Fighting Orioles
+              - Flamingos
+              - Golden Cranes
+              - Kondors
+              - Orioles
+              - Ospreys
+              - Pelicans
+              - Pigeon
+              - Ricebirds
+              - Redbirds
+              - Tanagers
+              - Tūī
+            - icons8-bird-64
+
+            - - Bison
+              - Bisons
+              - Buffalo
+              - Buffaloes
+              - Buffalos
+              - Golden Buffaloes
+              - Tatanka
+              - White Buffalo
+            - noun-bison-5832708
+
+            - - Blizzards
+            - icons8-snowflake-64
+
+            - - Blue Jays
+            - icons8-jay-64
+
+            - - Bobcats
+              - Bobkittens
+              - Hillcats
+              - Lynx
+              - Wildcats
+              - Wildcatz
+              - Wildkats
+              - WiLdKats
+              - Wildkits
+            - noun-bobcat-6475557
+
+            - - Borderites
+              - Dateliners
+            - icons8-globe-64
+
+            - - Brickies
+            - icons8-brick-wall-64
+
+            - - Bucks
+              - Antlers
+              - Bucks;Gazelles
+              - Deer
+              - Stags
+            - icons8-deer-64
+
+            - - Bulldogs
+              - Bulldog Pups
+              - Bullpups
+              - Lil' Bulldogs
+              - Watchdogs
+            - noun-bulldog-7196519
+
+            - - Bullfrogs
+              - Frogs
+            - icons8-frog-64
+
+            - - Bulls
+              - Toros
+            - icons8-bull-64
+
+            - - Bullets
+            - icons8-bullet-64
+
+            - - Camels
+            - icons8-camel-64
+
+            - - Campers
+            - icons8-camp-64
+
+            - - Canadiens
+              - Mounties
+            - icons8-maple-leaf-64
+
+            - - Cardinals
+              - Fighting Cardinals
+            - icons8-cardinals-64
+
+            - - Cats
+              - Bearcats
+              - Bearkats
+              - Blackcats
+              - Purgolders
+              - Redcats
+              - Tomcats
+            - icons8-cat-64
+
+            - - Cavaliers
+            - icons8-cavalier-64
+
+            - - Cavemen
+              - Kavemen
+            - icons8-caveman-64
+
+            - - Cavers
+            - icons8-cave-64
+
+            - - Celts
+              - Celtics
+            - noun-celtic-knot-6722441
+
+            - - Centaurs
+            - noun-archer-3971196
+
+            - - Champions
+              - Elite
+            - icons8-trophy-64
+
+            - - Cheesemakers
+            - icons8-cheese-64
+
+            - - Cheetahs
+            - noun-cheetah-6475549
+
+            - - Chickens
+              - Bantams
+              - Brahmas
+            - icons8-chicken-64
+
+            - - Chipmunks
+            - noun-chipmunk-4132773
+
+            - - Climbers
+              - Foothillers
+              - Highclimbers
+              - Hillers
+              - Hilltoppers
+              - Mountaineers
+            - noun-climbing-4454358
+
+            - - Clockers
+            - icons8-clock-64
+
+            - - Cobblers
+            - icons8-avatar-64
+
+            - - Colonials
+            - noun-captain-james-jack-statue-59814
+
+            - - Comets
+              - Blue Comets
+              - Komets
+              - Northstars
+              - Shooting Stars
+            - icons8-comet-64
+
+            - - Conchs
+            - icons8-conch-shell-64
+
+            - - Corn
+              - Cornjerkers
+              - Huskers
+              - Kernels
+            - icons8-corn-64
+
+            - - Cowboys
+              - Cowgirls
+              - Buckaroos
+              - Scouts
+              - Texans
+              - Wranglers
+            - icons8-cowboy-64
+
+            - - Cossacks
+            - icons8-cossack-64
+
+            - - Coyotes
+              - Coyote Pups
+              - Kiotes
+            - noun-coyote-3662387
+
+            - - Crickets
+            - noun-cricket-1975340
+
+            - - Crusaders
+              - Templars
+            - icons8-crusader-60
+
+            - - Devils
+              - Blue Demons
+              - Blue Devils
+              - Demons
+              - Diablos
+              - Dust Devils
+              - Green Devils
+              - Greene Devils
+              - Red Devils
+              - Sand Devils
+              - Sundevils
+              - Sun Devils
+            - icons8-devil-64
+
+            - - Dinosaurs
+              - Dinos
+              - Raptors
+            - icons8-dino-64
+
+            - - Divers
+            - icons8-diver-64
+
+            - - Dogs
+              - Beagles
+              - Blue Dogs
+              - Boxers
+              - Devil Dogs
+              - Hoyas
+              - Pointers
+              - Spoofhounds
+              - Terriers
+              - Whippets
+            - noun-dog-364
+
+            - - Dolphins
+              - Dorado
+              - Friendly Dolphins
+            - icons8-dolphin-64
+
+            - - Dragons
+              - Blue Dragons
+              - Green Dragons
+              - Red Dragons
+              - Sea Dragons
+              - Sun Dragons
+              - Wyverns
+            - icons8-dragon-64
+
+            - - Donkeys
+              - Burros
+              - Mules
+            - noun-donkey-7033944
+
+            - - Dots
+            - icons8-dots-64
+
+            - - Dragonflies
+            - noun-dragonfly-1975339
+
+            - - Ducks
+            - icons8-duck-64
+
+            - - Dwarfs
+              - Dwarves
+              - Midgets
+            - icons8-dwarf-64
+
+            - - Eagles
+              - Aigles
+              - Black Eagles
+              - Blue Eagles
+              - Bold Eagles
+              - C-Hawks
+              - Golden Eagles
+              - Screaming Eagles
+              - Silver Eagles
+              - Soaring Eagles
+              - T-Birds
+              - Thunderbirds
+              - War Eagles
+              - Wambdi
+            - noun-eagle-7121234
+
+            - - Egrets
+              - Kōtuku
+            - noun-egret-4453450
+
+            - - Elephants
+            - icons8-elephant-64
+
+            - - Elks
+              - Golden Elks
+            - noun-elk-714220
+
+            - - Engineers
+              - Boilermakers
+              - Builders
+            - noun-engineer-5295670
+
+            - - Explorers
+              - Pathfinders
+            - icons8-binoculars-64
+
+            - - Farmers
+              - Aggies
+              - Harvesters
+              - Tractors
+            - icons8-field-and-tractor-64
+
+            - - Fish
+              - Muskies
+              - Tarpons
+            - icons8-fish-64
+
+            - - Flames
+              - Blazers
+              - Blue Blazers
+              - Blue Blazes
+              - Blue Flame
+              - Flammes
+            - icons8-flames-60
+
+            - - Fords
+            - icons8-ford-model-t-64
+
+            - - Foxes
+              - Silver Foxes
+              - Red Foxes
+            - icons8-fox-64
+
+            - - Garnets
+            - icons8-gem-64
+
+            - - Geckos
+              - Salamanders
+              - Sand Lizards
+            - icons8-gecko-64
+
+            - - Giants
+              - Titans
+              - Tiny Titans
+            - noun-giant-4728529
+
+            - - Goats
+            - icons8-goat-64
+
+            - - Gorillas
+            - icons8-gorilla-64
+
+            - - Greyhounds
+              - Grayhounds
+            - noun-dog-6190322
+
+            - - Griffins
+              - Griffons
+              - Gryphons
+            - noun-griffin-1388150
+
+            - - Hatters
+            - noun-top-hat-6147491
+
+            - - Hawks
+              - Bayhawks
+              - Black Hawks
+              - Blackhawks
+              - Blue Hawks
+              - Falcons
+              - Golden Hawks
+              - Hustlin' Hawks
+              - Junior Seahawks
+              - Nighthawks
+              - Redhawks
+              - Red Hawks
+              - Riverhawks
+              - RiverHakws
+              - Seahawks
+              - Sea Hawks
+              - Silver Hawks
+              - Silverhawks
+              - Skyhawks
+              - SkyHawks
+              - Soaring Hawks
+              - Steelhawks
+              - Thunderhawks
+              - Warhawks
+            - noun-hawk-6660034
+
+            - - Herons
+              - Blue Herons
+            - noun-heron-7121230
+
+            - - Hippos
+            - icons8-hippo-64
+
+            - - Honkers
+              - Ganders
+              - Goslings
+            - icons8-goose-64
+
+            - - Horses
+              - Bays
+              - Broncos
+              - Broncs
+              - Chargers
+              - Colts
+              - Fighting Colts
+              - Horsemen
+              - Kolts
+              - Mavericks
+              - Mustangs
+              - Pacers
+              - Ponies
+              - Pintos
+              - Stallions
+              - Stampede
+              - Warhorses
+            - icons8-horse-60
+
+            - - Hurricanes
+              - Cyclones
+              - Ouragans
+              - Purple Hurricanes
+            - icons8-hurricane-64
+
+            - - Huskies
+              - Junior Huskies
+              - Malamutes
+            - noun-siberian-husky-6144002
+
+            - - Invaders
+              - Conquerors
+              - Conquistadores
+              - Conquistadors
+              - Marauders
+            - noun-invaders-813348
+
+            - - Islanders
+            - icons8-island-64
+
+            - - Irish
+              - Fightin' Irish
+              - Fighting Irish
+              - Irish Guard
+              - Shamrocks
+            - icons8-shamrock-64
+
+            - - Jaguars
+              - Panthères
+              - Panthers
+              - Prowlers
+            - noun-jaguar-6475548
+
+            - - Jokers
+              - Jesters
+            - noun-jester-women-5434956
+
+            - - Judges
+              - Justices
+            - icons8-gavel-64
+
+            - - Kangaroos
+            - icons8-kangaroo-64
+
+            - - Kiwi
+            - noun-kiwi-bird-4453464
+
+            - - Knights
+              - Black Knights
+              - Black Raiders
+              - Blue Knights
+              - Blue Raiders
+              - Crimson Knights
+              - Golden Knights
+              - Maroon Knights
+              - Raiders
+              - Red Raiders
+              - Red Knights
+              - Silver Knights
+            - noun-knight-helmet-440140
+
+            - - Koalas
+            - icons8-koala-64
+
+            - - Koi
+              - Carp
+            - noun-koi-fish-3890830
+
+            - - Lakers
+            - icons8-anchor-64
+
+            - - Lancers
+            - noun-knight-6567383
+
+            - - Law Enforcement
+              - Lawmen
+              - Rangers
+              - Troopers
+            - icons8-sheriff-64
+
+            - - Legends
+            - icons8-scroll-64
+
+            - - Leopards
+              - Snow Leopards
+            - icons8-leopard-64
+
+            - - Lions
+              - Crimson Lions
+              - Golden Lions
+              - Pride
+              - Redd Lions
+            - noun-lion-5415959
+
+            - - Lobsters
+              - Rock Lobsters
+            - noun-rock-lobster-7060494
+
+            - - Locomotives
+              - Boilers
+              - Moguls
+              - Rail Cat
+              - Rail Cats
+              - Railroaders
+              - Rails
+              - Steamers
+            - icons8-steam-engine-64
+
+            - - Loggers
+              - Axemen
+              - Chokers
+              - Lumberjacks
+            - icons8-axe-60
+
+            - - Longhorns
+              - Dogies
+            - noun-longhorn-skull-189289
+
+            - - Macaws
+            - noun-macaw-4453451
+
+            - - Marlins
+            - noun-marlin-7060421
+
+            - - Matadors
+              - Toreadors
+            - noun-bullfighter-9541
+
+            - - Millers
+            - icons8-flour-64
+
+            - - Miners
+              - Coal Miners
+              - Coalers
+              - Gold Diggers
+              - Golddiggers
+              - Prospectors
+              - Quarriers
+            - icons8-mine-cart-64
+
+            - - Moose
+              - Mean Moose
+              - Mooses
+            - noun-moose-7525270
+
+            - - Mountains
+              - Rockies
+            - icons8-mountain-64
+
+            - - Native Americans
+              - Apaches
+              - Braves
+              - Cherokees
+              - Chiefs
+              - Chieftains
+              - Choctaw
+              - Hunkpapa
+              - Indians
+              - Moquis
+              - Mohigans
+              - Redmen
+              - Redskins
+              - Sachems
+              - Sioux
+              - Utes
+            - icons8-indian-headdress-64
+
+            - - Norskies
+            - noun-norway-6661068
+
+            - - Oilers
+              - Roughnecks
+              - Roustabouts
+              - Wildcatters
+            - icons8-oil-pump-64
+
+            - - Olympians
+              - Olympiens
+              - Torchbearers
+            - icons8-olympic-torch-64
+
+            - - Orcas
+              - Killer Whales
+            - icons8-orca-64
+
+            - - Otters
+              - River Otters
+              - Sea Otters
+            - icons8-otter-60
+
+            - - Owls
+              - Fighting Owls
+            - icons8-owl-64
+
+            - - Pandas
+            - noun-panda-6873635
+
+            - - Papermakers
+            - noun-paper-7410429
+
+            - - Parrots
+              - Kākā 
+            - icons8-parrot-64
+
+            - - Patriots
+              - Patriotes
+            - noun-liberty-bell-4360246
+
+            - - Peace Cranes
+            - noun-origami-crane-107231
+
+            - - Peacocks
+              - Peacock
+            - noun-peacock-8134651
+
+            - - Pegasus
+            - noun-pegasus-5099555
+
+            - - Penguins
+            - icons8-penguin-64
+
+            - - Phantoms
+              - Ghosts
+              - Grey Ghosts
+              - Spirit
+            - icons8-phantom-64
+
+            - - Pharaohs
+            - icons8-pharaoh-64
+
+            - - Pheasants
+            - noun-pheasant-7166338
+
+            - - Phoenix
+              - Firebirds
+              - Phénix
+              - Phoenixes
+            - icons8-phoenix-60
+
+            - - Pied Pipers
+            - noun-pied-piper-2199126
+
+            - - Pilgrims
+            - icons8-pilgrim-hat-64
+
+            - - Pioneers
+              - Trailblazers
+            - icons8-wagon-64
+
+            - - Pirates
+              - Buccaneers
+              - Corsairs
+              - Peglegs
+            - icons8-pirate-60
+
+            - - Planes
+              - Blue Bombers
+              - Bombers
+              - Flyers
+              - Golden Bombers
+              - Jets
+              - Sonics
+            - icons8-plane-64
+
+            - - Polar Bears
+              - Nanooks
+            - noun-polar-bear-6814672
+
+            - - Politicians
+              - Democrats
+              - Governors
+              - Presidents
+              - Senators
+              - Statesmen
+            - icons8-politician-64
+
+            - - Porcupines
+            - noun-porcupine-4901121
+
+            - - Potatoes
+              - Russets
+              - Spudders
+              - Spuds
+            - icons8-potato-64
+
+            - - Pretzels
+            - icons8-pretzels-64
+
+            - - Priests
+              - Deacons
+              - Friars
+            - noun-priest-6904676
+
+            - - Pumas
+              - Blue Cougar
+              - Catamounts
+              - Cougars
+              - Kougars
+              - Mountain Lions
+            - noun-puma-3391157
+
+            - - Rabbits
+              - Angoras
+              - Jackrabbits
+            - icons8-rabbit-64
+
+            - - Raccoons
+            - icons8-raccoon-64
+
+            - - Rams
+              - Bighorns
+              - Lambkins
+            - icons8-ram-64
+
+            - - Rapids
+            - noun-kayak-156915
+
+            - - Ravens
+            - icons8-raven-64
+
+            - - Razorbacks
+              - Javelinas
+            - icons8-pig-64
+
+            - - Rebels
+              - Lil' Rebels
+              - Red Rebels
+            - noun-black-flag-5471370
+
+            - - Rhinoceros
+              - Rhinos
+            - icons8-rhinoceros-64
+
+            - - Roadrunners
+              - Road Runners
+            - icons8-roadrunner-64
+
+            - - Rockets
+              - Astros
+              - Cosmos
+              - Missiles
+            - icons8-rocket-64
+
+            - - Rockstars
+              - Hardrockers
+            - noun-electric-guitar-7939886
+
+            - - Royals
+              - Barons
+              - Barrons
+              - Blue Dukes
+              - Delta Kings
+              - Dukes
+              - Kings
+              - Kingsmen
+              - Lords
+              - Monarchs
+              - Nobles
+              - Regals
+              - Regents
+            - noun-crown-7592395
+
+            - - Sabercats
+            - noun-sabertooth-4903406
+
+            - - Sabers
+              - Sabres
+            - icons8-saber-weapon-64
+
+            - - Saints
+              - Fighting Saints
+            - icons8-fleur-de-lys-60
+
+            - - Salmon
+              - Chinooks
+              - King Salmon
+            - noun-salmon-1660330
+
+            - - Scoopers
+            - icons8-shovel-64
+
+            - - Scorpions
+            - noun-scorpion-7144042
+
+            - - Scots
+              - Black Scots
+              - Blackscots
+              - Highlanders
+              - Hilanders
+              - Kilties
+            - noun-flag-of-scotland-4062186
+
+            - - Scotties
+            - icons8-yorkshire-terrier-64
+
+            - - Seagulls
+            - icons8-seagull-64
+
+            - - Sea Kings
+              - Tritons
+            - icons8-trident-64
+
+            - - Seahorses
+            - icons8-seahorse-64
+
+            - - Seals
+            - icons8-seal-64
+
+            - - Sharks
+              - Blue Sharks
+              - Bullsharks
+              - Requins
+            - icons8-shark-64
+
+            - - Ships
+              - Dutchmen
+              - Shipbuilders
+              - Whalers
+            - noun-ship-800131
+
+            - - Shields
+              - Defenders
+              - Desert Shields
+              - Guardians
+              - Shield
+            - noun-kite-shield-440133
+
+            - - Shuttles
+              - Astronauts
+              - Challengers
+            - noun-space-shuttle-7935139
+
+            - - Skippers
+              - Argonauts
+              - Clippers
+              - Fishermen
+              - Mariners
+              - Sailors
+              - Sea Pilots
+            - icons8-boat-64
+
+            - - Snakes
+              - Cobras
+              - Copperheads
+              - Diamondbacks
+              - King Cobras
+              - Kobras
+              - Pythons
+              - Rattlers
+              - Rattles
+              - Sidewinders
+              - Vipers
+              - Vipères
+            - icons8-snake-64
+
+            - - Squirrels
+            - noun-squirrel-8141310
+
+            - - Soldiers
+              - Admirals
+              - Cadets
+              - Captains
+              - Colonels
+              - Commanders
+              - Commandos
+              - Generals
+              - Kadets
+              - Majors
+              - Marines
+            - noun-military-medal-5497159
+
+            - - Spartans
+              - Centurions
+              - Sentinals
+              - Sentinels
+            - noun-spartan-helmet-1732615
+
+            - - Spiders
+            - icons8-spider-64
+
+            - - Stars
+              - All Stars
+              - Allstars
+              - North Stars
+              - Superstars
+            - icons8-star-64
+
+            - - Steers
+            - icons8-cow-64
+
+            - - Stingrays
+              - Stingarees
+            - icons8-stingray-64
+
+            - - Storm
+              - Monsoon
+              - Rainmakers
+              - Red Storm
+            - noun-storm-7373164
+
+            - - Suns
+              - Apollos
+            - icons8-sun-64
+
+            - - Swans
+            - noun-swan-7119467
+
+            - - Swordsmen
+              - Castle Guards
+              - Gladiators
+              - Golden Warriors
+              - Warriors
+            - icons8-gladiator-64
+
+            - - Syrup Makers
+            - noun-maple-syrup-7241147
+
+            - - Thorpes
+            - icons8-american-football-player-64
+
+            - - Lightning
+              - Blue Thunder
+              - Bolts
+              - Electrics
+              - Flashes
+              - Shockers
+              - Thunder
+              - Thunderbolts
+              - Thunders
+            - icons8-lightning-64
+
+            - - Tigers
+              - Bengal Tigers
+              - Bengals
+              - Tigercats
+              - Tiny Tigers
+              - White Tigers
+            - icons8-year-of-tiger-64
+
+            - - Tomahawks
+            - icons8-tomahawk-64
+
+            - - Tornados
+              - Blue Tornado
+              - Golden Tornadoes
+              - Golden Tornados
+              - Sandies
+              - Tornadoes
+              - Whirlies
+              - Whirlwinds
+            - icons8-tornado-64
+
+            - - Totems
+            - noun-totem-4721829
+
+            - - Trees
+              - Tree
+              - Chaparrals
+              - Evergreens
+            - icons8-tree-64
+
+            - - Tremors
+            - icons8-earthquake-60
+
+            - - Trojans
+            - icons8-trojan-horse-60
+
+            - - Unicorns
+            - icons8-unicorn-64
+
+            - - Vikings
+              - Norsemen
+              - Northmen
+            - noun-viking-helmet-440139
+
+            - - Waves
+              - Blue Wave
+              - Breakers
+              - Crimson Tide
+              - Crimson Wave
+              - Green Wave
+              - Greenwave
+              - Maroon Tide
+              - Purple Waves
+              - Riptides
+              - Tides
+              - Wave
+              - Waveriders
+            - icons8-wave-64
+
+            - - Western
+              - Doggers
+              - Gauchos
+              - Herders
+              - Plainsmen
+              - Riders
+              - Rough Riders
+              - Roughriders
+              - Vaqueros
+            - noun-cowboy-615101
+
+            - - Whales
+              - Belugas
+              - Blue Whales
+            - icons8-whale-64
+
+            - - Wheelers
+            - noun-wagon-wheel-4497127
+
+            - - Witches
+            - icons8-witch's-hat-64
+
+            - - Wizards
+            - icons8-wizard-64
+
+            - - Wolverines
+              - Qavviks
+            - noun-wolverine-4704799
+
+            - - Wolves
+              - Curley Wolves
+              - Gray Wolves
+              - Greywolves
+              - Loboes
+              - Lobos
+              - Loups
+              - Reds
+              - Red Wolves
+              - Seawolves
+              - Silverwolves
+              - ThunderWolves
+              - Timberwolves
+              - Wolf Pack
+              - Wolf Pups
+              - Wolfpack
+            - icons8-wolf-64
+
+            - - Yeti
+            - noun-yeti-6324100
+
+            - - Zebras
+            - icons8-zebra-60
+
+            - - Zephyrs
+            - icons8-wind-64
+
+            - - match
+              - [downcase, [slice, [get, mascot], 0, 1]]
+              - [a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z]
+              - [concat, Letterman_, [upcase, [slice, [get, mascot], 0, 1]]]
+
+              - icons8-school-60
+          - .png
+---
+SELECT mascotinstitutions.osm_type,mascotinstitutions.osm_id, mascotinstitutions.tags, ST_Centroid(mascotinstitutions.geom)
+FROM 
+    postpass_pointpolygon mascotinstitutions 
+WHERE
+    mascotinstitutions.tags?'mascot' AND
+    mascotinstitutions.tags->>'amenity' IN ('school','university')
