@@ -14,7 +14,8 @@ controls:
     options:
       positionOptions:
         enableHighAccuracy: true
-      trackUserLocation: truestyle:
+      trackUserLocation: true
+style:
   extends: https://styles.trailsta.sh/protomaps-light.json
   layers:
     - type: circle
