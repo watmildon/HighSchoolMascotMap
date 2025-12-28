@@ -6,9 +6,11 @@ on:
       - Preamble_Global.ultra
       - Preamble_QLever.ultra
       - Preamble_US.ultra
+      - Preamble_Postpass.ultra
       - Query_Global.ultra
       - Query_QLever.ultra
       - Query_US.ultra
+      - Query_Postpass.ultra      
       - Style.ultra
   schedule:
     - cron: '0 0 * * 0' # Triggers every Sunday at midnight (UTC)
@@ -55,6 +57,7 @@ jobs:
         cat Preamble_Global.ultra Style.ultra Query_Global.ultra > HSMascotMap_global.ultra
         cat Preamble_QLever.ultra Style.ultra Query_QLever.ultra > HSMascotMap_QLever.ultra
         cat Preamble_Global.ultra Style.ultra Query_University_Global.ultra > HSMascotMap_university_global.ultra
+        cat Preamble_Postpass.ultra Style.ultra Query_Postpass.ultra > HSMascotMap_Postpass.ultra
 
     - name: Commit and push changes
       run: |        

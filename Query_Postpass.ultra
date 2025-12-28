@@ -1,0 +1,6 @@
+SELECT mascotinstitutions.osm_type,mascotinstitutions.osm_id, mascotinstitutions.tags, ST_Centroid(mascotinstitutions.geom)
+FROM 
+    postpass_pointpolygon mascotinstitutions 
+WHERE
+    mascotinstitutions.tags?'mascot' AND
+    mascotinstitutions.tags->>'amenity' IN ('school','university')
