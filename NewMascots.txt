@@ -53,11 +53,13 @@ Darts
 Devildogs
 Dodgers
 Dons
+Drillers
 Elements
 Elk
 Exporters
 Fighting Eagles
 Fillies;Mustangs
+Fire
 Flash
 Fliers
 Flying Dutchmen
@@ -102,6 +104,7 @@ King Cubs
 Kittens
 Kākā
 Lakes
+Lasers
 Leathernecks
 Lil' Aggies
 Lil' Cats
