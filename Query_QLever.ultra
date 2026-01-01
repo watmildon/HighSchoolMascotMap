@@ -1,79 +1,57 @@
 PREFIX geo: <http://www.opengis.net/ont/geosparql#>
 PREFIX osmkey: <https://www.openstreetmap.org/wiki/Key:>
+PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
 SELECT * WHERE {
-  ?osm_id osmkey:amenity "school".
-  ?osm_id osmkey:mascot ?mascot.
-  ?osm_id geo:hasCentroid/geo:asWKT ?centroid .
-  OPTIONAL {
-    ?osm_id osmkey:addr:city ?addr_city .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:addr:housenumber ?addr_housenumber .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:addr:postcode ?addr_postcode .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:addr:state ?addr_state .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:addr:street ?addr_street .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:addr:unit ?addr_unit .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:alt_name ?alt_name .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:contact:phone ?contact_phone .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:gnis:feature_id ?gnis_feature_id .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:grades ?grades .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:kindergarten ?kindergarten .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:mascot:iconography ?mascot_iconography .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:mascot:iconography:wikidata ?mascot_iconography_wikidata .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:name ?name .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:note:mascot ?note_mascot .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:old_name ?old_name .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:operator ?operator .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:operator:type ?operator_type .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:operator:wikidata ?operator_wikidata .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:phone ?phone .    
-  }
-  OPTIONAL {
-    ?osm_id osmkey:preschool ?preschool .    
-  }
-  OPTIONAL {
-    ?osm_id osmkey:ref:nces ?ref_nces .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:wikidata ?wikidata .
-  }
-  OPTIONAL {
-    ?osm_id osmkey:wikipedia ?wikipedia .
-  }
+  ?school osmkey:amenity "school".
+  ?school osmkey:mascot ?mascot.
+  ?school geo:hasGeometry/geo:asWKT ?geometry .
+  BIND(geof:centroid(?geometry) AS ?centroid)
+  OPTIONAL { ?school osmkey:addr:city ?addr_city .
+ }
+  OPTIONAL { ?school osmkey:addr:housenumber ?addr_housenumber .
+ }
+  OPTIONAL { ?school osmkey:addr:postcode ?addr_postcode .
+ }
+  OPTIONAL { ?school osmkey:addr:state ?addr_state .
+ }
+  OPTIONAL { ?school osmkey:addr:street ?addr_street .
+ }
+  OPTIONAL { ?school osmkey:addr:unit ?addr_unit .
+ }
+  OPTIONAL { ?school osmkey:alt_name ?alt_name .
+ }
+  OPTIONAL { ?school osmkey:contact:phone ?contact_phone .
+ }
+  OPTIONAL { ?school osmkey:gnis:feature_id ?gnis_feature_id .
+ }
+  OPTIONAL { ?school osmkey:grades ?grades .
+ }
+  OPTIONAL { ?school osmkey:kindergarten ?kindergarten .
+ }
+  OPTIONAL { ?school osmkey:mascot:iconography ?mascot_iconography .
+ }
+  OPTIONAL { ?school osmkey:mascot:iconography:wikidata ?mascot_iconography_wikidata .
+ }
+  OPTIONAL { ?school osmkey:name ?name .
+ }
+  OPTIONAL { ?school osmkey:note:mascot ?note_mascot .
+ }
+  OPTIONAL { ?school osmkey:old_name ?old_name .
+ }
+  OPTIONAL { ?school osmkey:operator ?operator .
+ }
+  OPTIONAL { ?school osmkey:operator:type ?operator_type .
+ }
+  OPTIONAL { ?school osmkey:operator:wikidata ?operator_wikidata .
+ }
+  OPTIONAL { ?school osmkey:phone ?phone .    
+ }
+  OPTIONAL { ?school osmkey:preschool ?preschool .    
+ }
+  OPTIONAL { ?school osmkey:ref:nces ?ref_nces .
+ }
+  OPTIONAL { ?school osmkey:wikidata ?wikidata .
+ }
+  OPTIONAL { ?school osmkey:wikipedia ?wikipedia .
+ }
 }
