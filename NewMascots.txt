@@ -34,7 +34,7 @@ Buckeyes
 Buddies
 Builldogs
 Bulldog
-Bunny
+Bunnies
 Buzzy the Hornet
 Caballeros
 Caravan
@@ -42,10 +42,12 @@ Chanticleers
 Chickasaws
 Chimeras
 Chippewas
+Columbians
 Comanches
 Copper Kings
 Cotton Pickers
 Cowboys;Cowgirls
+Crimson Pride
 Cruisers
 Cubs;Cubettes
 Dalers
@@ -106,6 +108,7 @@ Kākā
 Lakes
 Lasers
 Leathernecks
+Lemurs
 Lil' Aggies
 Lil' Cats
 Lil' Trojans
@@ -165,6 +168,7 @@ Quips
 Racers
 Raging Rhino
 Raider
+Raindevils
 Ramblers
 Rams;Lady Rams
 Rangers;Penguins
@@ -222,6 +226,7 @@ Sultans
 Super Star Sam
 Super Stars
 Swathers
+Swedes
 T-Bolts
 Talismen
 Talons
