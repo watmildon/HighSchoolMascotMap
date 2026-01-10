@@ -1,13 +1,9 @@
 76ers
 87s
-All-Stars
 Archie the Lion;Monarchs
 Axolotl
-Bald Eagles
-Basset Hounds
 Battlin' Billies
 Beacons
-Bearcubs
 Benjie
 Big Blue
 Big Green
@@ -17,9 +13,6 @@ Blue Darters
 Blue Devil
 Blue Devils;Lady Devils
 Blue Hoses
-Blue Jackets
-Blue Streaks
-Bluejackets
 Blues
 Bobcat
 Bobcats;Deer
@@ -28,7 +21,6 @@ Brahmans
 Brahmas;Brahmarettes
 Brave
 Bridgers
-Bronchos
 Broncos;Fillies
 Buckeyes
 Buddies
@@ -37,8 +29,6 @@ Bulldog
 Bunnies
 Buzzy the Hornet
 Caballeros
-Caravan
-Chanticleers
 Chickasaws
 Chimeras
 Chippewas
@@ -48,35 +38,24 @@ Copper Kings
 Cotton Pickers
 Cowboys;Cowgirls
 Crimson Pride
-Cruisers
 Cubs;Cubettes
 Dalers
 Darts
 Devildogs
 Dodgers
 Dons
-Drillers
 Elements
 Elk
 Exporters
-Fighting Eagles
 Fillies;Mustangs
-Fire
 Flash
-Fliers
-Flying Dutchmen
 Flying Flucos
 Foxberry
-Gales
-Gamecocks
-Gila Monsters
 Goldburgs
 Great Blue Heron
 Gremlins
 Groundhogs
 Harpooners;Harpoonerettes
-Hawkeyes
-Haybalers
 Hedgehogs
 Heroes
 Hillbillies
@@ -84,11 +63,8 @@ Hillmen
 Hokies
 Hyacks
 Hyaks
-Iguanas
 Ironmen
-Jack Rabbits
 Jackets
-Jayhawks
 Jerseys
 Jimmies
 Juggernauts
@@ -100,14 +76,12 @@ Kahoks
 Kardinals
 Kats
 Kays
-Kestrels
 Kewpies
 King Cubs
 Kittens
 Kākā
 Lakes
 Lasers
-Leathernecks
 Lemurs
 Lil' Aggies
 Lil' Cats
@@ -118,25 +92,20 @@ Little Chiefs
 Little Green
 Little Griffins
 Little Johns
-Lizards
 Loggers;Loggerettes
 Loyal Lions
 Lumberjack;Lumberjill
 Lyons
 Magic
-Mallards
 Mammoths
 Maniacs
 Marmots
 Maroon
 Maroon Tigers
 Maroons
-Middies
-Minutemen
 Minutemen;Minutewomen
 Modeltowners
 Mohawks
-Muckers
 Mustangs;Fillies
 Mustangs;Lady Mustangs
 Navi
@@ -148,7 +117,6 @@ Oredockers
 Owls;Lady Owls
 Packers
 Padres
-Paladins
 Panther
 Panthers; Patriots
 Penmen
@@ -156,7 +124,6 @@ Pink Panthers
 Pioneers;Dusty the Pioneer
 Pirates;Lady Pirates
 Pointer
-Polars
 Porters
 Positive Astros
 Potters
@@ -175,13 +142,8 @@ Rangers;Penguins
 Reapers
 Red Birds
 Red Riots
-Red Tail Hawks
-Red Tails
-Red-Tailed Hawks
-Retrievers
 Ringnecks
 Ringtails
-River Hawks
 Riverhawk
 Rockin' Robins
 Rocklin Thunder
@@ -194,7 +156,6 @@ Sages
 Sandies;Sandiettes
 Sandites
 Sandpipers
-Sasquatch
 Savages
 Saxons
 Scarlet Knights
@@ -203,17 +164,12 @@ Scarlet Raptors
 Scholarly Knights
 Scholars
 Scorpion
-Screamin' Eagles
 Sea King
 Seminoles
 Sequoits
 Shining Stars
 Siberian Husky
-Silver Comets
-Sky Hawks
 Slicers
-Snowy Owls
-Sparrowhawks
 Springers
 Spy Ponders
 Stanners
@@ -227,7 +183,6 @@ Super Star Sam
 Super Stars
 Swathers
 Swedes
-T-Bolts
 Talismen
 Talons
 Tarriers
@@ -237,7 +192,6 @@ Terrors
 Testudo
 The Green Dragon
 Think Flamingo
-Thoroughbreds
 Tiger
 Tigers and Jaguars
 Tilly the Tiger
@@ -245,9 +199,7 @@ Timber Pups
 Tommy the Trojan
 Top Cats
 Top Tigers
-Toreadores
 Towhees
-Trail Blazers
 Travelers
 Trevians
 Tribe
@@ -258,13 +210,10 @@ Tyees
 Ugly Eagles
 Univees
 Valiants
-Valkyries
 Vanguards
 Vikings;Titans
 Vols
 Volunteers
-Voyagers
-Voyageurs
 Wamps
 Wampus Cats
 Whippet
@@ -279,7 +228,6 @@ Woody the Bear
 Wreckers
 Wykons
 Yellow Jackets;Honeybees
-Yellowhammers
 cobras
 dogs
 eagles

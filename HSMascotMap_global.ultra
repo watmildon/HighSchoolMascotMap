@@ -103,6 +103,7 @@ style:
             - icons8-beetle-60
 
             - - Bears
+              - Bearcubs
               - Bearkits
               - Black Bears
               - Bruins
@@ -126,6 +127,8 @@ style:
 
             - - Bees
               - Blazer Bees
+              - Blue Jackets
+              - Bluejackets
               - Bumble Bees
               - Fighting Bees
               - Hornets
@@ -160,6 +163,7 @@ style:
               - Redbirds
               - Tanagers
               - Tūī
+              - Yellowhammers
             - icons8-bird-64
 
             - - Bison
@@ -274,6 +278,8 @@ style:
             - - Chickens
               - Bantams
               - Brahmas
+              - Chanticleers
+              - Gamecocks
             - icons8-chicken-64
 
             - - Chipmunks
@@ -301,6 +307,7 @@ style:
               - Komets
               - Northstars
               - Shooting Stars
+              - Silver Comets
             - icons8-comet-64
 
             - - Conchs
@@ -358,12 +365,14 @@ style:
             - icons8-diver-64
 
             - - Dogs
+              - Basset Hounds
               - Beagles
               - Blue Dogs
               - Boxers
               - Devil Dogs
               - Hoyas
               - Pointers
+              - Retrievers
               - Spoofhounds
               - Terriers
               - Whippets
@@ -395,6 +404,7 @@ style:
             - noun-dragonfly-1975339
 
             - - Ducks
+              - Mallards
             - icons8-duck-64
 
             - - Dwarfs
@@ -404,11 +414,14 @@ style:
 
             - - Eagles
               - Aigles
+              - Bald Eagles
               - Black Eagles
               - Blue Eagles
               - Bold Eagles
               - C-Hawks
+              - Fighting Eagles
               - Golden Eagles
+              - Screamin' Eagles
               - Screaming Eagles
               - Silver Eagles
               - Soaring Eagles
@@ -436,11 +449,14 @@ style:
 
             - - Explorers
               - Pathfinders
+              - Voyagers
+              - Voyageurs
             - icons8-binoculars-64
 
             - - Farmers
               - Aggies
               - Harvesters
+              - Haybalers
               - Tractors
             - icons8-field-and-tractor-64
 
@@ -454,6 +470,7 @@ style:
               - Blue Blazers
               - Blue Blazes
               - Blue Flame
+              - Fire
               - Flammes
             - icons8-flames-60
 
@@ -469,6 +486,9 @@ style:
             - icons8-gem-64
 
             - - Geckos
+              - Gila Monsters
+              - Iguanas
+              - Lizards
               - Salamanders
               - Sand Lizards
             - icons8-gecko-64
@@ -503,20 +523,29 @@ style:
               - Blue Hawks
               - Falcons
               - Golden Hawks
+              - Hawkeyes
               - Hustlin' Hawks
+              - Jayhawks
+              - Kestrels
               - Junior Seahawks
               - Nighthawks
               - Redhawks
               - Red Hawks
+              - Red Tail Hawks
+              - Red Tails
+              - Red-Tailed Hawks
+              - River Hawks
               - Riverhawks
               - RiverHakws
               - Seahawks
               - Sea Hawks
               - Silver Hawks
               - Silverhawks
+              - Sky Hawks
               - Skyhawks
               - SkyHawks
               - Soaring Hawks
+              - Sparrowhawks
               - Steelhawks
               - Thunderhawks
               - Warhawks
@@ -537,6 +566,7 @@ style:
             - - Horses
               - Bays
               - Broncos
+              - Bronchos
               - Broncs
               - Chargers
               - Colts
@@ -550,6 +580,7 @@ style:
               - Pintos
               - Stallions
               - Stampede
+              - Thoroughbreds
               - Warhorses
             - icons8-horse-60
 
@@ -609,6 +640,7 @@ style:
               - Crimson Knights
               - Golden Knights
               - Maroon Knights
+              - Paladins
               - Raiders
               - Red Raiders
               - Red Knights
@@ -679,6 +711,7 @@ style:
             - noun-marlin-7060421
 
             - - Matadors
+              - Toreadores
               - Toreadors
             - noun-bullfighter-9541
 
@@ -690,6 +723,7 @@ style:
               - Coalers
               - Gold Diggers
               - Golddiggers
+              - Muckers
               - Prospectors
               - Quarriers
             - icons8-mine-cart-64
@@ -725,6 +759,7 @@ style:
             - noun-norway-6661068
 
             - - Oilers
+              - Drillers
               - Roughnecks
               - Roustabouts
               - Wildcatters
@@ -746,6 +781,7 @@ style:
 
             - - Owls
               - Fighting Owls
+              - Snowy Owls
             - icons8-owl-64
 
             - - Pandas
@@ -759,6 +795,7 @@ style:
             - icons8-parrot-64
 
             - - Patriots
+              - Minutemen
               - Patriotes
             - noun-liberty-bell-4360246
 
@@ -800,6 +837,8 @@ style:
             - icons8-pilgrim-hat-64
 
             - - Pioneers
+              - Caravan
+              - Trail Blazers
               - Trailblazers
             - icons8-wagon-64
 
@@ -812,6 +851,7 @@ style:
             - - Planes
               - Blue Bombers
               - Bombers
+              - Fliers
               - Flyers
               - Golden Bombers
               - Jets
@@ -820,6 +860,7 @@ style:
 
             - - Polar Bears
               - Nanooks
+              - Polars
             - noun-polar-bear-6814672
 
             - - Politicians
@@ -857,6 +898,7 @@ style:
 
             - - Rabbits
               - Angoras
+              - Jack Rabbits
               - Jackrabbits
             - icons8-rabbit-64
 
@@ -970,6 +1012,7 @@ style:
 
             - - Ships
               - Dutchmen
+              - Flying Dutchmen
               - Shipbuilders
               - Whalers
             - noun-ship-800131
@@ -989,6 +1032,7 @@ style:
             - - Skippers
               - Argonauts
               - Clippers
+              - Cruisers
               - Fishermen
               - Mariners
               - Sailors
@@ -1021,8 +1065,10 @@ style:
               - Commandos
               - Generals
               - Kadets
+              - Leathernecks
               - Majors
               - Marines
+              - Middies
             - noun-military-medal-5497159
 
             - - Spartans
@@ -1036,6 +1082,7 @@ style:
 
             - - Stars
               - All Stars
+              - All-Stars
               - Allstars
               - North Stars
               - Superstars
@@ -1049,6 +1096,7 @@ style:
             - icons8-stingray-64
 
             - - Storm
+              - Gales
               - Monsoon
               - Rainmakers
               - Red Storm
@@ -1075,6 +1123,8 @@ style:
             - icons8-american-football-player-64
 
             - - Lightning
+              - Blue Streaks
+              - T-Bolts
               - Blue Thunder
               - Bolts
               - Electrics
@@ -1127,6 +1177,7 @@ style:
             - - Vikings
               - Norsemen
               - Northmen
+              - Valkyries
             - noun-viking-helmet-440139
 
             - - Waves
@@ -1192,6 +1243,7 @@ style:
             - icons8-wolf-64
 
             - - Yeti
+              - Sasquatch
             - noun-yeti-6324100
 
             - - Zebras
