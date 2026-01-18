@@ -10,11 +10,9 @@ Big Green
 Big Red
 Big Reds
 Blue Darters
-Blue Devil
 Blue Devils;Lady Devils
 Blue Hoses
 Blues
-Bobcat
 Bobcats;Deer
 Brahman
 Brahmans
@@ -24,8 +22,6 @@ Bridgers
 Broncos;Fillies
 Buckeyes
 Buddies
-Builldogs
-Bulldog
 Bunnies
 Buzzy the Hornet
 Caballeros
@@ -117,24 +113,20 @@ Oredockers
 Owls;Lady Owls
 Packers
 Padres
-Panther
 Panthers; Patriots
 Penmen
 Pink Panthers
 Pioneers;Dusty the Pioneer
 Pirates;Lady Pirates
-Pointer
 Porters
 Positive Astros
 Potters
 Punchers
-Quaker
 Quakers
 Qughsatkut
 Quips
 Racers
 Raging Rhino
-Raider
 Raindevils
 Ramblers
 Rams;Lady Rams
@@ -163,7 +155,6 @@ Scarlet Raiders
 Scarlet Raptors
 Scholarly Knights
 Scholars
-Scorpion
 Sea King
 Seminoles
 Sequoits
@@ -192,7 +183,6 @@ Terrors
 Testudo
 The Green Dragon
 Think Flamingo
-Tiger
 Tigers and Jaguars
 Tilly the Tiger
 Timber Pups
@@ -203,7 +193,6 @@ Towhees
 Travelers
 Trevians
 Tribe
-Trojan
 Trollers
 Turks
 Tyees
@@ -216,11 +205,9 @@ Vols
 Volunteers
 Wamps
 Wampus Cats
-Whippet
 White Wings
 Whundas
 Wild
-Wildcat
 Wildcat Cubs
 Wolf
 Woodchucks
@@ -228,7 +215,4 @@ Woody the Bear
 Wreckers
 Wykons
 Yellow Jackets;Honeybees
-cobras
-dogs
-eagles
 salmon
