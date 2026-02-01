@@ -1,5 +1,7 @@
 76ers
 87s
+?
+? (CCHS)
 Archie the Lion;Monarchs
 Axolotl
 Battlin' Billies
@@ -64,6 +66,7 @@ Ironmen
 Jackets
 Jerseys
 Jimmies
+Jr. Raiders
 Juggernauts
 Jugglers
 Junior Bills
@@ -143,6 +146,7 @@ Rocklin Thunder
 Rocks
 Roseville Tiger
 Roughers
+Royal Rhinos
 Royal Scots
 Saber-Tooth Tigers
 Sages
@@ -202,6 +206,7 @@ Univees
 Valiants
 Vanguards
 Vikings;Titans
+Viktor E. Rat
 Vols
 Volunteers
 Wamps
