@@ -4,6 +4,7 @@
 ? (CCHS)
 Archie the Lion;Monarchs
 Axolotl
+Barristers
 Battlin' Billies
 Beacons
 Benjie
@@ -46,6 +47,7 @@ Dons
 Elements
 Elk
 Exporters
+Fighting Ducks
 Fillies;Mustangs
 Flash
 Flying Flucos
@@ -55,6 +57,7 @@ Great Blue Heron
 Gremlins
 Groundhogs
 Harpooners;Harpoonerettes
+Hatmakers
 Hedgehogs
 Heroes
 Hillbillies
@@ -83,6 +86,7 @@ Kākā
 Lakes
 Lasers
 Lemurs
+Lightning Bolts
 Lil' Aggies
 Lil' Cats
 Lil' Trojans
@@ -103,13 +107,18 @@ Marmots
 Maroon
 Maroon Tigers
 Maroons
+Mighty Arabs
+Millionaires
 Minutemen;Minutewomen
 Modeltowners
 Mohawks
+Monsoons
+Musketeers
 Mustangs;Fillies
 Mustangs;Lady Mustangs
 Navi
 Nordiks
+Normans
 Oakmont Viking
 Obama Stars
 Old Abes
@@ -191,6 +200,7 @@ Think Flamingo
 Tigers and Jaguars
 Tilly the Tiger
 Timber Pups
+Timber Wolves
 Tommy the Trojan
 Top Cats
 Top Tigers
