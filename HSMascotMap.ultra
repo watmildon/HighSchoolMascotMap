@@ -26,10 +26,16 @@ style:
           - concat
           - https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/icons/
           - - match
-            - - case
-              - [ "has", "mascot:iconography" ]
-              - [ "get", "mascot:iconography" ]
-              - [ "get", "mascot" ]
+            - - let
+              - raw
+              - - case
+                - [ "has", "mascot:iconography" ]
+                - [ "get", "mascot:iconography" ]
+                - [ "get", "mascot" ]
+              - - case
+                - [ ">=", [ "index-of", ";", [ "var", "raw" ] ], 0 ]
+                - [ "slice", [ "var", "raw" ], 0, [ "index-of", ";", [ "var", "raw" ] ] ]
+                - [ "var", "raw" ]
 
             - - Abes
               - Railsplitters
@@ -1319,9 +1325,37 @@ style:
             - icons8-wind-64
 
             - - match
-              - [downcase, [slice, [get, mascot], 0, 1]]
+              - - downcase
+                - - slice
+                  - - let
+                    - raw
+                    - - case
+                      - [ "has", "mascot:iconography" ]
+                      - [ "get", "mascot:iconography" ]
+                      - [ "get", "mascot" ]
+                    - - case
+                      - [ ">=", [ "index-of", ";", [ "var", "raw" ] ], 0 ]
+                      - [ "slice", [ "var", "raw" ], 0, [ "index-of", ";", [ "var", "raw" ] ] ]
+                      - [ "var", "raw" ]
+                  - 0
+                  - 1
               - [a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z]
-              - [concat, Letterman_, [upcase, [slice, [get, mascot], 0, 1]]]
+              - - concat
+                - Letterman_
+                - - upcase
+                  - - slice
+                    - - let
+                      - raw
+                      - - case
+                        - [ "has", "mascot:iconography" ]
+                        - [ "get", "mascot:iconography" ]
+                        - [ "get", "mascot" ]
+                      - - case
+                        - [ ">=", [ "index-of", ";", [ "var", "raw" ] ], 0 ]
+                        - [ "slice", [ "var", "raw" ], 0, [ "index-of", ";", [ "var", "raw" ] ] ]
+                        - [ "var", "raw" ]
+                    - 0
+                    - 1
 
               - icons8-school-60
           - .png
