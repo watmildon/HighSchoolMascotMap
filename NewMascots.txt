@@ -15,7 +15,6 @@ Big Reds
 Blue Darters
 Blue Devils;Lady Devils
 Blue Hoses
-Bluehawks
 Blues
 Bobcats;Deer
 Brahman
@@ -26,9 +25,8 @@ Bridgers
 Broncos;Fillies
 Buckeyes
 Buddies
-Bunnies
+Burro
 Buzzy the Hornet
-Caballeros
 Chickasaws
 Chimeras
 Chippewas
@@ -45,19 +43,14 @@ Devildogs
 Dodgers
 Dons
 Elements
-Elk
 Exporters
-Fighting Ducks
 Fillies;Mustangs
-Flash
 Flying Flucos
 Foxberry
 Goldburgs
-Great Blue Heron
 Gremlins
 Groundhogs
 Harpooners;Harpoonerettes
-Hatmakers
 Hedgehogs
 Heroes
 Hillbillies
@@ -66,53 +59,36 @@ Hokies
 Hyacks
 Hyaks
 Ironmen
-Jackets
 Jerseys
 Jimmies
-Jr. Raiders
 Juggernauts
 Jugglers
 Junior Bills
 Junior Blues
-Junior Panthers
 Kahoks
-Kardinals
-Kats
 Kays
 Kewpies
-King Cubs
-Kittens
 Kākā
 Lakes
 Lasers
 Lemurs
-Lightning Bolts
-Lil' Aggies
-Lil' Cats
-Lil' Trojans
 Lions;Lady Lions
 Lions;Socrates the Lion
-Little Chiefs
 Little Green
-Little Griffins
 Little Johns
 Loggers;Loggerettes
-Loyal Lions
 Lumberjack;Lumberjill
-Lyons
 Magic
 Mammoths
 Maniacs
 Marmots
 Maroon
-Maroon Tigers
 Maroons
 Mighty Arabs
 Millionaires
 Minutemen;Minutewomen
 Modeltowners
 Mohawks
-Monsoons
 Musketeers
 Mustangs;Fillies
 Mustangs;Lady Mustangs
@@ -125,55 +101,37 @@ Old Abes
 Oredockers
 Owls;Lady Owls
 Packers
-Padres
 Panthers; Patriots
 Penmen
-Pink Panthers
 Pioneers;Dusty the Pioneer
 Pirates;Lady Pirates
 Porters
-Positive Astros
 Potters
 Punchers
 Quakers
 Qughsatkut
 Quips
 Racers
-Raging Rhino
-Raindevils
 Ramblers
 Rams;Lady Rams
 Rangers;Penguins
 Reapers
-Red Birds
 Red Riots
-Ringnecks
 Ringtails
-Riverhawk
 Rockin' Robins
-Rocklin Thunder
 Rocks
 Roseville Tiger
 Roughers
-Royal Rhinos
-Royal Scots
-Saber-Tooth Tigers
 Sages
 Sandies;Sandiettes
 Sandites
 Sandpipers
 Savages
 Saxons
-Scarlet Knights
-Scarlet Raiders
-Scarlet Raptors
-Scholarly Knights
 Scholars
 Seminoles
 Sequoits
 Sheiks
-Shining Stars
-Siberian Husky
 Slicers
 Springers
 Spy Ponders
@@ -183,15 +141,12 @@ Steelmen
 Stompers
 Stormrays
 String
-Sultans
 Super Star Sam
-Super Stars
 Swathers
 Swedes
 Talismen
 Talons
 Tarriers
-Tartans
 Tartars
 Terrors
 Testudo
@@ -200,10 +155,7 @@ Think Flamingo
 Tigers and Jaguars
 Tilly the Tiger
 Timber Pups
-Timber Wolves
 Tommy the Trojan
-Top Cats
-Top Tigers
 Towhees
 Travelers
 Trevians
@@ -211,7 +163,6 @@ Tribe
 Trollers
 Turks
 Tyees
-Ugly Eagles
 Univees
 Valiants
 Vanguards
@@ -220,12 +171,9 @@ Viktor E. Rat
 Vols
 Volunteers
 Wamps
-Wampus Cats
 White Wings
 Whundas
 Wild
-Wildcat Cubs
-Wolf
 Woodchucks
 Woody the Bear
 Wreckers

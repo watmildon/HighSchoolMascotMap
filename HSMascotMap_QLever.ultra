@@ -116,6 +116,7 @@ style:
               - Bruins
               - Crimson Bears
               - Cubs
+              - King Cubs
               - Kodiaks
               - Golden Bears
               - Grizzlies
@@ -139,6 +140,7 @@ style:
               - Bumble Bees
               - Fighting Bees
               - Hornets
+              - Jackets
               - Stingers
               - Wasps
               - Yellow Jackets
@@ -193,6 +195,7 @@ style:
               - Bobkittens
               - Hillcats
               - Lynx
+              - Wildcat Cubs
               - Wildcats
               - Wildcatz
               - Wildkats
@@ -244,15 +247,22 @@ style:
 
             - - Cardinals
               - Fighting Cardinals
+              - Kardinals
+              - Red Birds
             - icons8-cardinals-64
 
             - - Cats
               - Bearcats
               - Bearkats
               - Blackcats
+              - Kats
+              - Kittens
+              - Lil' Cats
               - Purgolders
               - Redcats
               - Tomcats
+              - Top Cats
+              - Wampus Cats
             - icons8-cat-64
 
             - - Cavaliers
@@ -357,6 +367,7 @@ style:
               - Dust Devils
               - Green Devils
               - Greene Devils
+              - Raindevils
               - Red Devils
               - Sand Devils
               - Sundevils
@@ -366,6 +377,7 @@ style:
             - - Dinosaurs
               - Dinos
               - Raptors
+              - Scarlet Raptors
             - icons8-dino-64
 
             - - Divers
@@ -411,6 +423,7 @@ style:
             - noun-dragonfly-1975339
 
             - - Ducks
+              - Fighting Ducks
               - Mallards
             - icons8-duck-64
 
@@ -434,6 +447,7 @@ style:
               - Soaring Eagles
               - T-Birds
               - Thunderbirds
+              - Ugly Eagles
               - War Eagles
               - Wambdi
             - noun-eagle-7121234
@@ -445,7 +459,8 @@ style:
             - - Elephants
             - icons8-elephant-64
 
-            - - Elks
+            - - Elk
+              - Elks
               - Golden Elks
             - noun-elk-714220
 
@@ -464,6 +479,7 @@ style:
               - Aggies
               - Harvesters
               - Haybalers
+              - Lil' Aggies
               - Tractors
             - icons8-field-and-tractor-64
 
@@ -518,9 +534,11 @@ style:
             - - Griffins
               - Griffons
               - Gryphons
+              - Little Griffins
             - noun-griffin-1388150
 
             - - Hatters
+              - Hatmakers
             - noun-top-hat-6147491
 
             - - Hawks
@@ -528,6 +546,7 @@ style:
               - Black Hawks
               - Blackhawks
               - Blue Hawks
+              - Bluehawks
               - Falcons
               - Golden Hawks
               - Hawkeyes
@@ -542,6 +561,7 @@ style:
               - Red Tails
               - Red-Tailed Hawks
               - River Hawks
+              - Riverhawk
               - Riverhawks
               - RiverHakws
               - Seahawks
@@ -560,6 +580,7 @@ style:
 
             - - Herons
               - Blue Herons
+              - Great Blue Heron
             - noun-heron-7121230
 
             - - Hippos
@@ -600,6 +621,7 @@ style:
             - - Huskies
               - Junior Huskies
               - Malamutes
+              - Siberian Husky
             - noun-siberian-husky-6144002
 
             - - Invaders
@@ -620,8 +642,10 @@ style:
             - icons8-shamrock-64
 
             - - Jaguars
+              - Junior Panthers
               - Panthères
               - Panthers
+              - Pink Panthers
               - Prowlers
             - noun-jaguar-6475548
 
@@ -646,11 +670,15 @@ style:
               - Blue Raiders
               - Crimson Knights
               - Golden Knights
+              - Jr. Raiders
               - Maroon Knights
               - Paladins
               - Raiders
               - Red Raiders
               - Red Knights
+              - Scarlet Knights
+              - Scarlet Raiders
+              - Scholarly Knights
               - Silver Knights
             - noun-knight-helmet-440140
 
@@ -683,6 +711,8 @@ style:
             - - Lions
               - Crimson Lions
               - Golden Lions
+              - Loyal Lions
+              - Lyons
               - Pride
               - Redd Lions
             - noun-lion-5415959
@@ -753,6 +783,7 @@ style:
               - Choctaw
               - Hunkpapa
               - Indians
+              - Little Chiefs
               - Moquis
               - Mohigans
               - Redmen
@@ -829,6 +860,7 @@ style:
             - icons8-pharaoh-64
 
             - - Pheasants
+              - Ringnecks
             - noun-pheasant-7166338
 
             - - Phoenix
@@ -893,6 +925,7 @@ style:
             - - Priests
               - Deacons
               - Friars
+              - Padres
             - noun-priest-6904676
 
             - - Pumas
@@ -905,6 +938,7 @@ style:
 
             - - Rabbits
               - Angoras
+              - Bunnies
               - Jack Rabbits
               - Jackrabbits
             - icons8-rabbit-64
@@ -933,7 +967,9 @@ style:
             - noun-black-flag-5471370
 
             - - Rhinoceros
+              - Raging Rhino
               - Rhinos
+              - Royal Rhinos
             - icons8-rhinoceros-64
 
             - - Roadrunners
@@ -944,6 +980,7 @@ style:
               - Astros
               - Cosmos
               - Missiles
+              - Positive Astros
             - icons8-rocket-64
 
             - - Rockstars
@@ -963,9 +1000,11 @@ style:
               - Nobles
               - Regals
               - Regents
+              - Sultans
             - noun-crown-7592395
 
             - - Sabercats
+              - Saber-Tooth Tigers
             - noun-sabertooth-4903406
 
             - - Sabers
@@ -993,6 +1032,8 @@ style:
               - Highlanders
               - Hilanders
               - Kilties
+              - Royal Scots
+              - Tartans
             - noun-flag-of-scotland-4062186
 
             - - Scotties
@@ -1092,6 +1133,8 @@ style:
               - All-Stars
               - Allstars
               - North Stars
+              - Shining Stars
+              - Super Stars
               - Superstars
             - icons8-star-64
 
@@ -1105,6 +1148,7 @@ style:
             - - Storm
               - Gales
               - Monsoon
+              - Monsoons
               - Rainmakers
               - Red Storm
             - noun-storm-7373164
@@ -1135,7 +1179,10 @@ style:
               - Blue Thunder
               - Bolts
               - Electrics
+              - Flash
               - Flashes
+              - Lightning Bolts
+              - Rocklin Thunder
               - Shockers
               - Thunder
               - Thunderbolts
@@ -1145,8 +1192,10 @@ style:
             - - Tigers
               - Bengal Tigers
               - Bengals
+              - Maroon Tigers
               - Tigercats
               - Tiny Tigers
+              - Top Tigers
               - White Tigers
             - icons8-year-of-tiger-64
 
@@ -1176,6 +1225,7 @@ style:
             - icons8-earthquake-60
 
             - - Trojans
+              - Lil' Trojans
             - icons8-trojan-horse-60
 
             - - Unicorns
@@ -1203,6 +1253,7 @@ style:
             - icons8-wave-64
 
             - - Western
+              - Caballeros
               - Doggers
               - Gauchos
               - Herders
@@ -1243,7 +1294,9 @@ style:
               - Seawolves
               - Silverwolves
               - ThunderWolves
+              - Timber Wolves
               - Timberwolves
+              - Wolf
               - Wolf Pack
               - Wolf Pups
               - Wolfpack
