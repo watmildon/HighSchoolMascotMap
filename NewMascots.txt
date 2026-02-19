@@ -4,8 +4,6 @@
 ? (CCHS)
 Archie the Lion;Monarchs
 Axolotl
-Barristers
-Battlin' Billies
 Beacons
 Benjie
 Big Blue
@@ -38,7 +36,6 @@ Cowboys;Cowgirls
 Crimson Pride
 Cubs;Cubettes
 Dalers
-Darts
 Devildogs
 Dodgers
 Dons
@@ -93,8 +90,6 @@ Musketeers
 Mustangs;Fillies
 Mustangs;Lady Mustangs
 Navi
-Nordiks
-Normans
 Oakmont Viking
 Obama Stars
 Old Abes
@@ -118,14 +113,12 @@ Rangers;Penguins
 Reapers
 Red Riots
 Ringtails
-Rockin' Robins
 Rocks
 Roseville Tiger
 Roughers
 Sages
 Sandies;Sandiettes
 Sandites
-Sandpipers
 Savages
 Saxons
 Scholars
@@ -142,7 +135,6 @@ Stompers
 Stormrays
 String
 Super Star Sam
-Swathers
 Swedes
 Talismen
 Talons
@@ -154,18 +146,15 @@ The Green Dragon
 Think Flamingo
 Tigers and Jaguars
 Tilly the Tiger
-Timber Pups
 Tommy the Trojan
 Towhees
 Travelers
 Trevians
 Tribe
-Trollers
 Turks
 Tyees
 Univees
 Valiants
-Vanguards
 Vikings;Titans
 Viktor E. Rat
 Vols
@@ -174,7 +163,6 @@ Wamps
 White Wings
 Whundas
 Wild
-Woodchucks
 Woody the Bear
 Wreckers
 Wykons

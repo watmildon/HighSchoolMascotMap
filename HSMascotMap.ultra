@@ -57,6 +57,7 @@ style:
             - noun-antelope-931009
 
             - - Arrows
+              - Darts
               - Flying Arrows
               - Bowmen
             - icons8-arrow-64
@@ -125,6 +126,7 @@ style:
               - Golden Beavers
               - Gophers
               - Trappers
+              - Woodchucks
             - icons8-beaver-64
 
             - - Bees
@@ -164,6 +166,8 @@ style:
               - Pigeon
               - Ricebirds
               - Redbirds
+              - Rockin' Robins
+              - Sandpipers
               - Tanagers
               - Tūī
               - Yellowhammers
@@ -474,6 +478,7 @@ style:
               - Harvesters
               - Haybalers
               - Lil' Aggies
+              - Swathers
               - Tractors
             - icons8-field-and-tractor-64
 
@@ -516,6 +521,7 @@ style:
             - noun-giant-4728529
 
             - - Goats
+              - Battlin' Billies
             - icons8-goat-64
 
             - - Gorillas
@@ -648,6 +654,7 @@ style:
             - noun-jester-women-5434956
 
             - - Judges
+              - Barristers
               - Justices
             - icons8-gavel-64
 
@@ -1079,6 +1086,7 @@ style:
               - Mariners
               - Sailors
               - Sea Pilots
+              - Trollers
             - icons8-boat-64
 
             - - Snakes
@@ -1111,6 +1119,7 @@ style:
               - Majors
               - Marines
               - Middies
+              - Vanguards
             - noun-military-medal-5497159
 
             - - Spartans
@@ -1226,6 +1235,8 @@ style:
             - icons8-unicorn-64
 
             - - Vikings
+              - Nordiks
+              - Normans
               - Norsemen
               - Northmen
               - Valkyries
@@ -1288,6 +1299,7 @@ style:
               - Seawolves
               - Silverwolves
               - ThunderWolves
+              - Timber Pups
               - Timber Wolves
               - Timberwolves
               - Wolf
