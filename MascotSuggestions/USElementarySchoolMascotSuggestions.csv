@@ -1,19 +1,4 @@
 School name,Suggested Mascot,website,osmLink
-Colebrookdale Elementary School,Bears,https://www.boyertownasd.org/Domain/12,https://www.openstreetmap.org/node/357380453
-Alice Costello Elementary School,Bears,https://www.alicecostello.com/,https://www.openstreetmap.org/node/357748470
-Boyertown Elementary School,Bears,https://www.boyertownasd.org/Domain/11,https://www.openstreetmap.org/way/81105485
-Olde Creek Elementary School,Bears,https://www.fcps.edu/OldeCreekES/,https://www.openstreetmap.org/way/191005142
-Nathan S. Davis Elementary School,Bears,https://nathansdavis.cps.edu/,https://www.openstreetmap.org/way/226617023
-Broadmoor Elementary School,Bears,https://www.lpssonline.com/schools/broadmoor,https://www.openstreetmap.org/way/339830662
-Viewmont Elementary School,Bears,https://viewmont.hickoryschools.net/,https://www.openstreetmap.org/way/350174855
-Ben Lomond Elementary School,Bears,https://www.c-vusd.org/benlomond,https://www.openstreetmap.org/way/465544157
-Glenwood Elementary School,Bears,https://glenwood-lausd-ca.schoolloop.com/,https://www.openstreetmap.org/way/682320861
-Barnes Elementary School,Bears,https://www.kelso.wednet.edu/o/barnes,https://www.openstreetmap.org/way/758555857
-Bayyari Elementary School,Bears,https://bayyari.sdale.org/,https://www.openstreetmap.org/way/845135207
-Longfellow Elementary School,Bears,https://www.op97.org/longfellow,https://www.openstreetmap.org/way/1158584840
-Bryan Elementary School,Bears,https://www.cdaschools.org/BRYAN,https://www.openstreetmap.org/way/1184710698
-Sun Valley Elementary School,Bengals,https://www.peoriaunified.org/SunValley,https://www.openstreetmap.org/way/683780308
-Sonal Bhuchar Elementary,Bengals,https://www.fortbendisd.com/sbe,https://www.openstreetmap.org/way/1320940392
 Lyndon B. Johnson Elementary School,Bobcat,https://lbj.ecisd.us/,https://www.openstreetmap.org/way/1329740896
 Barbara Webster Elementary School,Bobcats,https://barbarawebster.santapaulausd.org/,https://www.openstreetmap.org/node/358780296
 Bennion Elementary School,Bobcats,https://schools.graniteschools.org/bennion/,https://www.openstreetmap.org/way/39823307
@@ -34,7 +19,6 @@ Brinnon Elementary School,Bobcats,https://www.bsd46.org/,https://www.openstreetm
 Estherwood Elementary School,Bobcats,https://www.acadia.k12.la.us/o/ewes,https://www.openstreetmap.org/way/1387949368
 Oak Heights Elementary School,Bobcats,https://ohe.edmonds.wednet.edu/,https://www.openstreetmap.org/way/1424489151
 Belle View Elementary School,Bobcats,https://belleviewes.fcps.edu,https://www.openstreetmap.org/relation/1984124
-Bellaire Elementary School,Bombers,https://bellaire.bossierschools.org/,https://www.openstreetmap.org/way/1099953576
 Shenandoah Elementary School,Braves,https://shenandoahes.net/,https://www.openstreetmap.org/way/522225994
 Holly Pond Elementary School,Broncos,https://hpe.ccboe.org/,https://www.openstreetmap.org/node/7807483120
 Carl L. Herfurth Elementary School,Broncos,https://www.garlandisdschools.net/herfurth,https://www.openstreetmap.org/way/571068158
@@ -59,8 +43,6 @@ Gibsonton Elementary School,Bulldogs,https://www.hillsboroughschools.org/gibsont
 Bucknell Elementary School,Bulldogs,https://bucknelles.fcps.edu,https://www.openstreetmap.org/way/1090781582
 Baldwin Elementary School - Primary Center,Bullpups,http://www.usd348.com/schools/bespc/,https://www.openstreetmap.org/way/1290703427
 Baldwin Elementary School - Intermediate Center,Bullpups,http://www.usd348.com/schools/besic/,https://www.openstreetmap.org/way/1290703436
-Bull Run Elementary School,Bulls,https://bullrunes.fcps.edu/,https://www.openstreetmap.org/way/231329852
-Sally Mauro Elementary School,Bulls,https://www.carbonschools.org/o/sally-mauro-elementary,https://www.openstreetmap.org/way/428033056
 Adamsville Elementary School,Cardinals,https://aes.mcnairycountyschools.com/,https://www.openstreetmap.org/node/356848870
 Southwest Elementary,Cardinals,https://www.lawsoncardinals.org/page/southwest-elementary,https://www.openstreetmap.org/way/348009762
 Cherry Run Elementary School,Cardinals,https://cherryrunes.fcps.edu/,https://www.openstreetmap.org/way/638802515
@@ -88,7 +70,6 @@ Keller Elementary School,COUGARS,https://www.mpsaz.org/keller,https://www.openst
 Crismon Elementary School,Cougars,https://www.mpsaz.org/crismon,https://www.openstreetmap.org/way/1412618912
 Applegate Elementary School,Cougars,https://www.cal.k12.or.us/page/contact-us,https://www.openstreetmap.org/way/1452567585
 Codington Elementary School,Cougars,https://codington.nhcs.net/,https://www.openstreetmap.org/relation/13095666
-Pleasant Valley Elementary - Junior High School,Cowboys,https://www.pleasantvalleyschools.org/,https://www.openstreetmap.org/way/1268046866
 John Kerr Elementary School,COYOTES,https://www.mpsaz.org/kerr,https://www.openstreetmap.org/way/35708020
 Crestmont Elementary School,Coyotes,https://crestmont.rcsdk8.org/,https://www.openstreetmap.org/way/121005384
 Patterson Elementary School,COYOTES,https://www.mpsaz.org/patterson,https://www.openstreetmap.org/way/170998281
@@ -97,7 +78,6 @@ Denair Elementary School,Coyotes,https://deca.denairusd.org/,https://www.openstr
 Hassayampa Elementary School,Coyotes,https://www.wickenburgschools.org/Domain/9,https://www.openstreetmap.org/way/769561541
 Las Sendas Elementary School,COYOTES,https://lassendas.mpsaz.org,https://www.openstreetmap.org/way/1259130888
 Kimbark Elementary School,Coyotes,https://kimbark.sbcusd.com,https://www.openstreetmap.org/way/1450652434
-Island Creek Elementary School,Crocs,https://islandcreekes.fcps.edu/,https://www.openstreetmap.org/relation/1937098
 Coker Elementary School,Cubs,https://www.neisd.net/coker/,https://www.openstreetmap.org/way/303129809
 Cedarwood Elementary School,Cubs,https://cedarwood.pusdk12.org/,https://www.openstreetmap.org/way/657363284
 Howard J McKibben Elementary School,Cubs,https://mckibben.swhittier.k12.ca.us/,https://www.openstreetmap.org/way/730952529
@@ -105,15 +85,6 @@ SGA Elementary School,Cubs,https://sga.burke.k12.ga.us/,https://www.openstreetma
 Cucamonga Elementary School,Cubs,https://ces.cuca.k12.ca.us,https://www.openstreetmap.org/way/832401496
 Centennial Elementary School,Cubs,https://www.ruesd.net/o/centennial,https://www.openstreetmap.org/way/1450994215
 Westfield Elementary School,Cyclones,https://www.whsd1.org,https://www.openstreetmap.org/node/354154927
-Kenneth Divich Elementary,Divich,https://www.divichelementary.org/,https://www.openstreetmap.org/way/799153641
-Dixie Elementary School,Dixie,https://www.newlebanonschools.org/,https://www.openstreetmap.org/way/936158897
-North River Elementary School,Dolphins,https://www.northriveres.org/,https://www.openstreetmap.org/way/27862270
-Dare Elementary School,Dolphins,https://ycsd.yorkcountyschools.org/DES,https://www.openstreetmap.org/way/50884922
-Lake Anne Elementary School,Dolphins,https://lakeannees.fcps.edu/,https://www.openstreetmap.org/way/79666016
-Mabry Elementary School,Dolphins,https://www.hillsboroughschools.org/mabry,https://www.openstreetmap.org/way/120926812
-Dellview Elementary School,Dolphins,https://www.neisd.net/dellview,https://www.openstreetmap.org/way/133581801
-Samuel R. Donald Elementary School,Dolphins,https://srd.bpsnj.org/,https://www.openstreetmap.org/way/276388366
-Lake Forest Hills Elementary School,Dolphins,http://lforest-hills.rcboe.org/,https://www.openstreetmap.org/way/301418466
 Ridgebrook Elementary School,Dolphins,https://ridgebrook.parmacityschools.org/,https://www.openstreetmap.org/way/479766043
 Dickenson Elementary School,dolphins,https://www.hillsboroughschools.org/dickenson,https://www.openstreetmap.org/way/523040785
 Lanier Elementary School,Dolphins,https://www.hillsboroughschools.org/lanier,https://www.openstreetmap.org/way/523360683
@@ -134,7 +105,6 @@ Harding Elementary School,Dragons,https://www.eriesd.org/harding,https://www.ope
 Colvin Run Elementary School,Dragons,https://colvinrunes.fcps.edu/,https://www.openstreetmap.org/way/1123860558
 North Webster Upper Elementary School,Dragons,https://nwues.websterpsb.org/,https://www.openstreetmap.org/way/1328612860
 Marlin Elementary School,Dragons,https://marlin.mccsc.edu/,https://www.openstreetmap.org/way/1435797893
-Bonita Elementary School,Dust,https://www.bonitaesd.com/,https://www.openstreetmap.org/way/1303841887
 Saunemin Elementary School,Eagles,https://www.saunemin.org/,https://www.openstreetmap.org/node/354207209
 Curtner Elementary School,Eagles,https://curtner.musd.org/,https://www.openstreetmap.org/way/39320310
 Adams Elementary School,Eagles,https://bettyadams.jeffcopublicschools.org/,https://www.openstreetmap.org/way/47237443
