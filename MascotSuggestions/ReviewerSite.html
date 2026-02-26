@@ -4,174 +4,606 @@
     <meta charset="UTF-8">
     <title>School Mascot Review</title>
     <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
         body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: #f5f7fa;
+            color: #333;
+            padding: 24px;
+        }
+
+        h1 {
+            font-size: 1.6rem;
+            margin-bottom: 16px;
+        }
+
+        /* Toolbar */
+        .toolbar {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 8px 16px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            background: #fff;
+            font-size: 0.875rem;
+            cursor: pointer;
+            transition: background 0.15s, border-color 0.15s;
+        }
+        .btn:hover { background: #e8ecf1; border-color: #999; }
+        .btn-primary { background: #3b82f6; color: #fff; border-color: #3b82f6; }
+        .btn-primary:hover { background: #2563eb; border-color: #2563eb; }
+        .btn-primary:disabled { background: #93c5fd; border-color: #93c5fd; cursor: default; }
+
+        .status {
+            font-size: 0.875rem;
+            color: #666;
+            margin-left: auto;
+        }
+
+        /* Drop zone */
+        .dropzone {
+            border: 2px dashed #cbd5e1;
+            border-radius: 12px;
+            padding: 48px 24px;
+            text-align: center;
+            color: #94a3b8;
+            font-size: 1rem;
+            transition: border-color 0.2s, background 0.2s;
+            cursor: pointer;
+        }
+        .dropzone.dragover {
+            border-color: #3b82f6;
+            background: #eff6ff;
+            color: #3b82f6;
+        }
+        .dropzone p { margin-bottom: 12px; }
+        .dropzone .hint { font-size: 0.8rem; }
+
+        /* Table */
+        .table-wrapper {
+            overflow-x: auto;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
         }
 
         table {
-            border-collapse: collapse;
             width: 100%;
-            margin-top: 20px;
+            border-collapse: collapse;
+            font-size: 0.875rem;
         }
 
-        th, td {
-            border: 1px solid #ccc;
-            padding: 8px;
+        thead th {
+            position: sticky;
+            top: 0;
+            background: #f8fafc;
+            padding: 10px 12px;
             text-align: left;
+            font-weight: 600;
+            border-bottom: 2px solid #e2e8f0;
+            white-space: nowrap;
+            user-select: none;
+        }
+        th.sortable { cursor: pointer; }
+        th.sortable:hover { color: #3b82f6; }
+        th .sort-arrow { font-size: 0.7rem; margin-left: 4px; opacity: 0.4; }
+        th.sort-asc .sort-arrow, th.sort-desc .sort-arrow { opacity: 1; color: #3b82f6; }
+
+        tbody tr { transition: background 0.1s; }
+        tbody tr:hover { background: #f1f5f9; }
+
+        td {
+            padding: 8px 12px;
+            border-bottom: 1px solid #f1f5f9;
+            vertical-align: middle;
         }
 
-        th {
-            background: #f0f0f0;
+        td a {
+            color: #3b82f6;
+            text-decoration: none;
+        }
+        td a:hover { text-decoration: underline; }
+
+        /* Editor buttons */
+        .editor-btns {
+            display: flex;
+            gap: 4px;
+        }
+        .editor-btn {
+            padding: 4px 8px;
+            font-size: 0.75rem;
+            border: 1px solid #d1d5db;
+            border-radius: 4px;
+            background: #fff;
             cursor: pointer;
+            white-space: nowrap;
+            transition: background 0.15s, border-color 0.15s;
+        }
+        .editor-btn:hover { background: #f3f4f6; border-color: #9ca3af; }
+        .editor-btn.josm { border-color: #22c55e; color: #16a34a; }
+        .editor-btn.josm:hover { background: #f0fdf4; }
+        .editor-btn.id-editor { border-color: #3b82f6; color: #2563eb; }
+        .editor-btn.id-editor:hover { background: #eff6ff; }
+        .editor-btn.rapid { border-color: #a855f7; color: #9333ea; }
+        .editor-btn.rapid:hover { background: #faf5ff; }
+
+        /* Remove button */
+        .btn-remove {
+            padding: 4px 10px;
+            font-size: 0.75rem;
+            border: 1px solid #fca5a5;
+            border-radius: 4px;
+            background: #fff;
+            color: #dc2626;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+        .btn-remove:hover { background: #fef2f2; }
+
+        /* Toast notification */
+        .toast {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            color: #fff;
+            opacity: 0;
+            transform: translateY(10px);
+            transition: opacity 0.3s, transform 0.3s;
+            pointer-events: none;
+            z-index: 100;
+        }
+        .toast.show { opacity: 1; transform: translateY(0); }
+        .toast.success { background: #16a34a; }
+        .toast.error { background: #dc2626; }
+        .toast.info { background: #3b82f6; }
+
+        /* Unsaved indicator */
+        .unsaved-dot {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #f59e0b;
+            margin-left: 6px;
+            vertical-align: middle;
         }
 
-        button {
-            padding: 5px 10px;
-            margin: 5px;
-        }
+        .hidden { display: none; }
     </style>
 </head>
 <body>
     <h1>School Mascot Review</h1>
-    <input type="file" id="csvFile" accept=".csv">
-    <button id="saveCsv">Save Table to CSV</button>
-    <table id="schoolTable"></table>
+
+    <!-- Drop zone (shown when no data loaded) -->
+    <div id="dropzone" class="dropzone">
+        <p>Drop a CSV file here</p>
+        <button class="btn" id="btnOpen">Open File...</button>
+        <p class="hint">Supports *Suggestions.csv files</p>
+    </div>
+
+    <!-- Toolbar + table (shown after data loaded) -->
+    <div id="tableView" class="hidden">
+        <div class="toolbar">
+            <button class="btn" id="btnOpenAnother">Open File...</button>
+            <button class="btn btn-primary" id="btnSave">Save</button>
+            <span id="statusText" class="status"></span>
+        </div>
+        <div class="table-wrapper">
+            <table>
+                <thead>
+                    <tr id="headerRow"></tr>
+                </thead>
+                <tbody id="tbody"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <div id="toast" class="toast"></div>
 
     <script>
-        const table = document.getElementById('schoolTable');
-        const fileInput = document.getElementById('csvFile');
-        const saveButton = document.getElementById('saveCsv');
+        // ── State ──
         let currentData = [];
-        let sortDirections = {};
+        let fileHandle = null; // File System Access API handle
+        let fileName = '';
+        let dirty = false;
+        let sortKey = null;
+        let sortDir = 'asc';
 
+        // ── DOM refs ──
+        const dropzone = document.getElementById('dropzone');
+        const tableView = document.getElementById('tableView');
+        const btnOpen = document.getElementById('btnOpen');
+        const btnOpenAnother = document.getElementById('btnOpenAnother');
+        const btnSave = document.getElementById('btnSave');
+        const statusText = document.getElementById('statusText');
+        const headerRow = document.getElementById('headerRow');
+        const tbody = document.getElementById('tbody');
+        const toastEl = document.getElementById('toast');
+
+        // ── CSV helpers ──
         function parseCSV(text) {
-            const lines = text.trim().split("\n");
-            const headers = lines[0].split(",");
+            const lines = text.trim().split('\n');
+            if (lines.length < 2) return [];
             return lines.slice(1).map(line => {
-                const values = line.split(",");
-                let obj = {};
-                headers.forEach((h, i) => obj[h.trim()] = values[i] ? values[i].trim() : "");
-                return obj;
-            });
+                const values = splitCSVLine(line);
+                return {
+                    'School name': (values[0] || '').trim(),
+                    'Suggested Mascot': (values[1] || '').trim(),
+                    'website': (values[2] || '').trim(),
+                    'osmLink': (values[3] || '').trim()
+                };
+            }).filter(r => r['School name'] || r['osmLink']);
         }
 
-        function renderTable(data) {
-            currentData = data;
-            table.innerHTML = "";
-            const headerRow = document.createElement("tr");
-            const headers = ["School name", "Suggested Mascot", "Website", "OSM Link", "Remove"];
-            headers.forEach((h, idx) => {
-                const th = document.createElement("th");
-                th.textContent = h;
-                if (h !== "Remove") {
-                    th.addEventListener("click", () => sortTable(idx));
+        function splitCSVLine(line) {
+            const result = [];
+            let current = '';
+            let inQuotes = false;
+            for (let i = 0; i < line.length; i++) {
+                const ch = line[i];
+                if (inQuotes) {
+                    if (ch === '"' && line[i + 1] === '"') {
+                        current += '"';
+                        i++;
+                    } else if (ch === '"') {
+                        inQuotes = false;
+                    } else {
+                        current += ch;
+                    }
+                } else {
+                    if (ch === '"') {
+                        inQuotes = true;
+                    } else if (ch === ',') {
+                        result.push(current);
+                        current = '';
+                    } else {
+                        current += ch;
+                    }
+                }
+            }
+            result.push(current);
+            return result;
+        }
+
+        function toCSV(data) {
+            const headers = ['School name', 'Suggested Mascot', 'website', 'osmLink'];
+            const rows = data.map(row => headers.map(h => {
+                const val = row[h] || '';
+                return val.includes(',') || val.includes('"') ? '"' + val.replace(/"/g, '""') + '"' : val;
+            }).join(','));
+            return headers.join(',') + '\n' + rows.join('\n') + '\n';
+        }
+
+        // ── OSM link parsing ──
+        function parseOSMLink(osmLink) {
+            const match = osmLink.match(/openstreetmap\.org\/(node|way|relation)\/(\d+)/);
+            if (!match) return null;
+            return { type: match[1], id: match[2] };
+        }
+
+        function osmPrefix(type) {
+            return { node: 'n', way: 'w', relation: 'r' }[type];
+        }
+
+        // ── Editor URLs ──
+        function josmUrl(parsed, mascot) {
+            let url = `http://localhost:8111/load_object?objects=${osmPrefix(parsed.type)}${parsed.id}`;
+            if (mascot) {
+                url += `&addtags=mascot=${encodeURIComponent(mascot)}`;
+            }
+            return url;
+        }
+
+        function idUrl(parsed) {
+            return `https://www.openstreetmap.org/edit?editor=id&${parsed.type}=${parsed.id}`;
+        }
+
+        function rapidUrl(parsed) {
+            return `https://rapideditor.org/edit#id=${osmPrefix(parsed.type)}${parsed.id}`;
+        }
+
+        // ── Toast notification ──
+        let toastTimer = null;
+        function toast(message, type = 'info') {
+            clearTimeout(toastTimer);
+            toastEl.textContent = message;
+            toastEl.className = 'toast ' + type;
+            requestAnimationFrame(() => toastEl.classList.add('show'));
+            toastTimer = setTimeout(() => toastEl.classList.remove('show'), 3000);
+        }
+
+        // ── Status line ──
+        function updateStatus() {
+            const count = currentData.length;
+            const label = count === 1 ? 'school' : 'schools';
+            const dirtyMark = dirty ? '<span class="unsaved-dot" title="Unsaved changes"></span>' : '';
+            const file = fileName ? ` — ${fileName}` : '';
+            statusText.innerHTML = `${count} ${label} remaining${file}${dirtyMark}`;
+        }
+
+        // ── Render table ──
+        function renderTable() {
+            // Header
+            headerRow.innerHTML = '';
+            const columns = [
+                { key: 'School name', label: 'School Name', sortable: true },
+                { key: 'Suggested Mascot', label: 'Suggested Mascot', sortable: true },
+                { key: 'website', label: 'Website', sortable: false },
+                { key: null, label: 'Open In', sortable: false },
+                { key: null, label: '', sortable: false }
+            ];
+            columns.forEach(col => {
+                const th = document.createElement('th');
+                if (col.sortable) {
+                    th.classList.add('sortable');
+                    if (sortKey === col.key) th.classList.add(sortDir === 'asc' ? 'sort-asc' : 'sort-desc');
+                    const arrow = document.createElement('span');
+                    arrow.className = 'sort-arrow';
+                    arrow.textContent = sortKey === col.key ? (sortDir === 'asc' ? '▲' : '▼') : '▲';
+                    th.textContent = col.label;
+                    th.appendChild(arrow);
+                    th.addEventListener('click', () => {
+                        if (sortKey === col.key) {
+                            sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+                        } else {
+                            sortKey = col.key;
+                            sortDir = 'asc';
+                        }
+                        currentData.sort((a, b) => {
+                            const va = (a[sortKey] || '').toLowerCase();
+                            const vb = (b[sortKey] || '').toLowerCase();
+                            return sortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
+                        });
+                        renderTable();
+                    });
+                } else {
+                    th.textContent = col.label;
                 }
                 headerRow.appendChild(th);
             });
-            table.appendChild(headerRow);
 
-            data.forEach((row, idx) => {
-                const tr = document.createElement("tr");
+            // Body
+            tbody.innerHTML = '';
+            currentData.forEach((row, idx) => {
+                const tr = document.createElement('tr');
 
                 // School name
-                const tdName = document.createElement("td");
-                tdName.textContent = row["School name"];
+                const tdName = document.createElement('td');
+                tdName.textContent = row['School name'];
                 tr.appendChild(tdName);
 
                 // Suggested Mascot
-                const tdMascot = document.createElement("td");
-                tdMascot.textContent = row["Suggested Mascot"];
+                const tdMascot = document.createElement('td');
+                tdMascot.textContent = row['Suggested Mascot'];
                 tr.appendChild(tdMascot);
 
-                // Website link
-                const tdWebsite = document.createElement("td");
-                const aWebsite = document.createElement("a");
-                aWebsite.href = row["website"];
-                aWebsite.textContent = row["website"];
-                aWebsite.target = "_blank";
-                tdWebsite.appendChild(aWebsite);
-                tr.appendChild(tdWebsite);
-
-                // OSM link -> JOSM remote control
-                const tdOSM = document.createElement("td");
-                const aOSM = document.createElement("a");
-                const match = row["osmLink"].match(/openstreetmap\.org\/(node|way|relation)\/(\d+)/);
-                if (match) {
-                    const typeMap = { node: "n", way: "w", relation: "r" };
-                    const josmUrl = `http://localhost:8111/load_object?objects=${typeMap[match[1]]}${match[2]}`;
-                    aOSM.href = josmUrl;
-                    aOSM.textContent = "Open in JOSM";
-                    aOSM.target = "_blank";
-                } else {
-                    aOSM.href = row["osmLink"];
-                    aOSM.textContent = row["osmLink"];
-                    aOSM.target = "_blank";
+                // Website
+                const tdWeb = document.createElement('td');
+                if (row['website']) {
+                    const a = document.createElement('a');
+                    a.href = row['website'];
+                    // Show a shorter link text
+                    try {
+                        a.textContent = new URL(row['website']).hostname.replace(/^www\./, '');
+                    } catch {
+                        a.textContent = row['website'];
+                    }
+                    a.target = '_blank';
+                    a.rel = 'noopener';
+                    tdWeb.appendChild(a);
                 }
-                tdOSM.appendChild(aOSM);
-                tr.appendChild(tdOSM);
+                tr.appendChild(tdWeb);
 
-                // Remove button
-                const tdRemove = document.createElement("td");
-                const btnRemove = document.createElement("button");
-                btnRemove.textContent = "Remove";
-                btnRemove.addEventListener("click", () => {
+                // Editor buttons
+                const tdEdit = document.createElement('td');
+                const parsed = parseOSMLink(row['osmLink']);
+                if (parsed) {
+                    const btnGroup = document.createElement('div');
+                    btnGroup.className = 'editor-btns';
+
+                    // JOSM
+                    const bJosm = document.createElement('button');
+                    bJosm.className = 'editor-btn josm';
+                    bJosm.textContent = 'JOSM';
+                    bJosm.title = 'Open in JOSM (remote control)';
+                    bJosm.addEventListener('click', () => {
+                        fetch(josmUrl(parsed, row['Suggested Mascot']), { mode: 'no-cors' })
+                            .then(() => toast('Sent to JOSM', 'success'))
+                            .catch(() => toast('Could not reach JOSM — is it running?', 'error'));
+                    });
+                    btnGroup.appendChild(bJosm);
+
+                    // iD
+                    const bId = document.createElement('button');
+                    bId.className = 'editor-btn id-editor';
+                    bId.textContent = 'iD';
+                    bId.title = 'Open in iD editor';
+                    bId.addEventListener('click', () => window.open(idUrl(parsed), '_blank'));
+                    btnGroup.appendChild(bId);
+
+                    // Rapid
+                    const bRapid = document.createElement('button');
+                    bRapid.className = 'editor-btn rapid';
+                    bRapid.textContent = 'Rapid';
+                    bRapid.title = 'Open in Rapid editor';
+                    bRapid.addEventListener('click', () => window.open(rapidUrl(parsed), '_blank'));
+                    btnGroup.appendChild(bRapid);
+
+                    tdEdit.appendChild(btnGroup);
+                } else {
+                    // Fallback: raw link
+                    const a = document.createElement('a');
+                    a.href = row['osmLink'];
+                    a.textContent = 'OSM';
+                    a.target = '_blank';
+                    tdEdit.appendChild(a);
+                }
+                tr.appendChild(tdEdit);
+
+                // Remove
+                const tdRem = document.createElement('td');
+                const bRem = document.createElement('button');
+                bRem.className = 'btn-remove';
+                bRem.textContent = 'Remove';
+                bRem.addEventListener('click', () => {
                     currentData.splice(idx, 1);
-                    renderTable(currentData);
+                    dirty = true;
+                    renderTable();
+                    updateStatus();
                 });
-                tdRemove.appendChild(btnRemove);
-                tr.appendChild(tdRemove);
+                tdRem.appendChild(bRem);
+                tr.appendChild(tdRem);
 
-                table.appendChild(tr);
-            });
-        }
-
-        function sortTable(columnIndex) {
-            const headers = ["School name", "Suggested Mascot", "website", "osmLink"];
-            const key = headers[columnIndex];
-            const direction = sortDirections[key] === "asc" ? "desc" : "asc";
-            sortDirections[key] = direction;
-
-            currentData.sort((a, b) => {
-                const valA = a[key].toLowerCase();
-                const valB = b[key].toLowerCase();
-                if (valA < valB) return direction === "asc" ? -1 : 1;
-                if (valA > valB) return direction === "asc" ? 1 : -1;
-                return 0;
+                tbody.appendChild(tr);
             });
 
-            renderTable(currentData);
+            updateStatus();
         }
 
-        function exportToCSV() {
-            if (currentData.length === 0) return;
-            const headers = ["School name", "Suggested Mascot", "website", "osmLink"];
-            const rows = currentData.map(row => headers.map(h => row[h]).join(","));
-            const csvContent = headers.join(",") + "\n" + rows.join("\n");
-            const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
-            const url = URL.createObjectURL(blob);
-
-            const link = document.createElement("a");
-            link.href = url;
-            // leave download attribute empty → browser shows file picker
-            link.download = "";
-            document.body.appendChild(link);
-            link.click();
-            document.body.removeChild(link);
+        // ── File loading ──
+        function loadData(text, name) {
+            currentData = parseCSV(text);
+            fileName = name || '';
+            dirty = false;
+            sortKey = null;
+            sortDir = 'asc';
+            dropzone.classList.add('hidden');
+            tableView.classList.remove('hidden');
+            renderTable();
         }
 
+        async function openFilePicker() {
+            // Try File System Access API first (Chromium)
+            if (window.showOpenFilePicker) {
+                try {
+                    const [handle] = await window.showOpenFilePicker({
+                        types: [{ description: 'CSV files', accept: { 'text/csv': ['.csv'] } }],
+                        multiple: false
+                    });
+                    fileHandle = handle;
+                    const file = await handle.getFile();
+                    const text = await file.text();
+                    loadData(text, file.name);
+                    return;
+                } catch (err) {
+                    if (err.name === 'AbortError') return; // user cancelled
+                    // fall through to legacy
+                }
+            }
+            // Fallback: hidden file input
+            legacyOpen();
+        }
 
-        saveButton.addEventListener("click", exportToCSV);
+        function legacyOpen() {
+            const input = document.createElement('input');
+            input.type = 'file';
+            input.accept = '.csv';
+            input.addEventListener('change', () => {
+                const file = input.files[0];
+                if (!file) return;
+                fileHandle = null;
+                const reader = new FileReader();
+                reader.onload = (e) => loadData(e.target.result, file.name);
+                reader.readAsText(file);
+            });
+            input.click();
+        }
 
-        fileInput.addEventListener("change", (e) => {
-            const file = e.target.files[0];
+        btnOpen.addEventListener('click', openFilePicker);
+        btnOpenAnother.addEventListener('click', openFilePicker);
+
+        // ── Drag & drop ──
+        dropzone.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            dropzone.classList.add('dragover');
+        });
+        dropzone.addEventListener('dragleave', () => dropzone.classList.remove('dragover'));
+        dropzone.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dropzone.classList.remove('dragover');
+            const file = e.dataTransfer.files[0];
             if (!file) return;
+            fileHandle = null; // drag-drop doesn't give a writable handle
             const reader = new FileReader();
-            reader.onload = (evt) => {
-                const data = parseCSV(evt.target.result);
-                renderTable(data);
-            };
+            reader.onload = (ev) => loadData(ev.target.result, file.name);
             reader.readAsText(file);
+        });
+
+        // ── Save ──
+        async function saveFile() {
+            const csv = toCSV(currentData);
+
+            // Try writing back to the same file handle
+            if (fileHandle) {
+                try {
+                    const writable = await fileHandle.createWritable();
+                    await writable.write(csv);
+                    await writable.close();
+                    dirty = false;
+                    updateStatus();
+                    toast('Saved to ' + fileName, 'success');
+                    return;
+                } catch (err) {
+                    if (err.name === 'AbortError') return;
+                    // permission denied or other error — fall through
+                }
+            }
+
+            // Try Save As picker
+            if (window.showSaveFilePicker) {
+                try {
+                    const handle = await window.showSaveFilePicker({
+                        suggestedName: fileName || 'Suggestions.csv',
+                        types: [{ description: 'CSV files', accept: { 'text/csv': ['.csv'] } }]
+                    });
+                    const writable = await handle.createWritable();
+                    await writable.write(csv);
+                    await writable.close();
+                    fileHandle = handle;
+                    fileName = handle.name;
+                    dirty = false;
+                    updateStatus();
+                    toast('Saved to ' + fileName, 'success');
+                    return;
+                } catch (err) {
+                    if (err.name === 'AbortError') return;
+                }
+            }
+
+            // Final fallback: download
+            const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(blob);
+            a.download = fileName || 'Suggestions.csv';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            dirty = false;
+            updateStatus();
+            toast('Downloaded ' + (fileName || 'Suggestions.csv'), 'info');
+        }
+
+        btnSave.addEventListener('click', saveFile);
+
+        // ── Warn before leaving with unsaved changes ──
+        window.addEventListener('beforeunload', (e) => {
+            if (dirty) {
+                e.preventDefault();
+                e.returnValue = '';
+            }
         });
     </script>
 </body>
