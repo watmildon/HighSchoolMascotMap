@@ -10,31 +10,31 @@ class Program
 
         var lines = File.ReadAllLines(filePath);
 
-        bool inPreamble = true;
-
         var mascots = new List<string>();
 
-        for (int i = 0; i < lines.Length; i++)
+        // Find the first "- [ "get", "mascot" ]" to skip the preamble,
+        // then collect mascot names until "- - match" (the letterman fallback)
+        int start = 0;
+        for (; start < lines.Length; start++)
         {
-            if (lines[i] == "            - - match")
+            if (lines[start].Trim() == "- [ \"get\", \"mascot\" ]")
+                break;
+        }
+
+        for (int i = start + 1; i < lines.Length; i++)
+        {
+            var trimmed = lines[i].Trim();
+
+            if (trimmed == "- - match")
                 break;
 
-            if (inPreamble)
+            if (trimmed.StartsWith("- - ") && char.IsUpper(trimmed[4]))
             {
-                if (lines[i] == "              - [ \"get\", \"mascot\" ]")
-                {
-                    inPreamble = false;
-                }
-                continue;
+                mascots.Add(trimmed.Substring(4));
             }
-
-            if (lines[i].StartsWith("            - - "))
+            else if (trimmed.StartsWith("- ") && trimmed.Length > 2 && char.IsUpper(trimmed[2]))
             {
-                mascots.Add(lines[i].Replace("            - - ", ""));
-            }
-            else if (lines[i].StartsWith("              - "))
-            {
-                mascots.Add(lines[i].Replace("              - ", ""));
+                mascots.Add(trimmed.Substring(2));
             }
         }
 
