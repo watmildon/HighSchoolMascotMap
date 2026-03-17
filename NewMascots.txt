@@ -42,6 +42,7 @@ Barristers
 Barrons
 Basset Hounds
 Battlin' Billies
+Battling Bees;Bees
 Bayhawks
 Bays
 Beacons
@@ -181,6 +182,7 @@ Celtics
 Celts
 Centaurs
 Centurions
+Ceramics
 Challengers
 Champions
 Chanticleers
@@ -232,10 +234,12 @@ Coyotes
 Crickets
 Criminals
 Crimson Bears
+Crimson Flashes
 Crimson Lions
 Crimson Pride
 Crimson Tide
 Crimson Wave
+Crocs
 Cruisers
 Crusaders
 Cubs
@@ -358,6 +362,7 @@ Green Devils
 Green Dragons
 Green Wave
 Greene Devils
+Greenmen
 Greenwave
 Gremlins
 Grey Ghosts
@@ -834,6 +839,7 @@ T-Bolts
 Talismen
 Talons
 Tanagers
+Tanners
 Tarpons
 Tarriers
 Tartans
@@ -857,6 +863,7 @@ Thunderhawks
 Thunders
 Tides
 Tigercats
+Tigerhawks
 Tigers
 Tigers and Jaguars
 Tilly the Tiger
