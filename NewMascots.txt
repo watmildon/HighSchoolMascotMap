@@ -14,6 +14,7 @@ Big Reds
 Blue Darters
 Blue Devils;Lady Devils
 Blue Hoses
+Blue Tigers
 Blues
 Bobcats;Deer
 Brahman
@@ -80,11 +81,13 @@ Little Johns
 Loggers;Loggerettes
 Lumberjack;Lumberjill
 Magic
+Magicians
 Mammoths
 Maniacs
 Marmots
 Maroon
 Maroons
+Matadores
 Mighty Arabs
 Millionaires
 Minutemen;Minutewomen
@@ -102,6 +105,7 @@ Owls;Lady Owls
 Packers
 Panthers; Patriots
 Penmen
+Phoenix Firebirds
 Pioneers;Dusty the Pioneer
 Pirates;Lady Pirates
 Porters
@@ -115,9 +119,11 @@ Ramblers
 Rams;Lady Rams
 Rangers;Penguins
 Reapers
+Red Rams
 Red Riots
 Ringtails
 Rocks
+Roosters
 Roseville Tiger
 Roughers
 Sages
@@ -143,6 +149,7 @@ Swedes
 Talismen
 Talons
 Tanners
+Tarbabes
 Tarriers
 Tartars
 Terrors
