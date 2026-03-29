@@ -131,6 +131,7 @@ Sandies;Sandiettes
 Sandites
 Savages
 Saxons
+Scarlets
 Scholars
 Seminoles
 Sequoits
@@ -181,3 +182,4 @@ Wreckers
 Wykons
 Yellow Jackets;Honeybees
 salmon
+tiger
