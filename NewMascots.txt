@@ -28,6 +28,7 @@ Buddies
 Burro
 Buzzy the Hornet
 Ceramics
+Charger
 Chickasaws
 Chimeras
 Chippewas
@@ -72,6 +73,7 @@ Junior Blues
 Kahoks
 Kays
 Kewpies
+Knight
 Lakes
 Lasers
 Lemurs
@@ -112,6 +114,7 @@ Pirates;Lady Pirates
 Porters
 Potters
 Punchers
+Python
 Quakers
 Qughsatkut
 Quips
@@ -182,5 +185,6 @@ Woody the Bear
 Wreckers
 Wykons
 Yellow Jackets;Honeybees
+cougar
 salmon
 tiger
