@@ -88,6 +88,7 @@ Magic
 Magicians
 Mammoths
 Maniacs
+Maples
 Marmots
 Maroon
 Maroons
@@ -97,6 +98,7 @@ Millionaires
 Minutemen;Minutewomen
 Modeltowners
 Mohawks
+Moutaineers
 Musketeers
 Mustangs;Fillies
 Mustangs;Lady Mustangs
@@ -132,12 +134,14 @@ Roosters
 Roseville Tiger
 Roughers
 Sages
+Salthawks
 Sandies;Sandiettes
 Sandites
 Savages
 Saxons
 Scarlets
 Scholars
+Seabees
 Seminoles
 Sequoits
 Sheiks
@@ -187,5 +191,8 @@ Wreckers
 Wykons
 Yellow Jackets;Honeybees
 cougar
+cougars
+panthers
 salmon
+sharks
 tiger
