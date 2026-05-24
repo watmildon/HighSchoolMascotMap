@@ -32,6 +32,7 @@ Charger
 Chickasaws
 Chimeras
 Chippewas
+Cobbers
 Columbians
 Comanches
 Copper Kings
@@ -51,6 +52,7 @@ Fillies;Mustangs
 Flying Flucos
 Foxberry
 Goldburgs
+Golden Tornado
 Greenmen
 Gremlins
 Groundhogs
@@ -88,6 +90,7 @@ Magic
 Magicians
 Mammoths
 Maniacs
+Maple Leaf
 Maples
 Marmots
 Maroon
