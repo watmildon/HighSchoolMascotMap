@@ -119,6 +119,7 @@ style:
             - - Beavers
               - Golden Beavers
               - Gophers
+              - Groundhogs
               - Trappers
               - Woodchucks
             - icons8-beaver-64
@@ -234,6 +235,8 @@ style:
             - icons8-camp-64
 
             - - Canadiens
+              - Maple Leaf
+              - Maples
               - Mounties
             - icons8-maple-leaf-64
 
@@ -289,6 +292,7 @@ style:
               - Brahmas
               - Chanticleers
               - Gamecocks
+              - Roosters
             - icons8-chicken-64
 
             - - Chipmunks
@@ -381,6 +385,7 @@ style:
               - Blue Dogs
               - Boxers
               - Devil Dogs
+              - Devildogs
               - Hoyas
               - Pointers
               - Retrievers
@@ -404,6 +409,7 @@ style:
             - icons8-dragon-64
 
             - - Donkeys
+              - Burro
               - Burros
               - Mules
             - noun-donkey-7033944
@@ -593,6 +599,7 @@ style:
               - Chargers
               - Colts
               - Fighting Colts
+              - Fillies
               - Horsemen
               - Kolts
               - Mavericks
@@ -632,6 +639,7 @@ style:
               - Fightin' Irish
               - Fighting Irish
               - Irish Guard
+              - Leprechaun
               - Shamrocks
             - icons8-shamrock-64
 
@@ -944,6 +952,7 @@ style:
             - - Rams
               - Bighorns
               - Lambkins
+              - Red Rams
             - icons8-ram-64
 
             - - Rapids
