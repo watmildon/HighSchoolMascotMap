@@ -25,7 +25,6 @@ Bridgers
 Broncos;Fillies
 Buckeyes
 Buddies
-Burro
 Buzzy the Hornet
 Ceramics
 Charger
@@ -43,7 +42,6 @@ Crimson Pride
 Crocs
 Cubs;Cubettes
 Dalers
-Devildogs
 Dodgers
 Dons
 Elements
@@ -55,7 +53,6 @@ Goldburgs
 Golden Tornado
 Greenmen
 Gremlins
-Groundhogs
 Harpooners;Harpoonerettes
 Hedgehogs
 Heroes
@@ -79,7 +76,6 @@ Knight
 Lakes
 Lasers
 Lemurs
-Leprechaun
 Lions;Lady Lions
 Lions;Socrates the Lion
 Little Green
@@ -90,8 +86,6 @@ Magic
 Magicians
 Mammoths
 Maniacs
-Maple Leaf
-Maples
 Marmots
 Maroon
 Maroons
@@ -129,11 +123,9 @@ Ramblers
 Rams;Lady Rams
 Rangers;Penguins
 Reapers
-Red Rams
 Red Riots
 Ringtails
 Rocks
-Roosters
 Roughers
 Sages
 Salthawks
