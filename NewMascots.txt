@@ -134,7 +134,6 @@ Red Riots
 Ringtails
 Rocks
 Roosters
-Roseville Tiger
 Roughers
 Sages
 Salthawks
@@ -193,9 +192,11 @@ Woody the Bear
 Wreckers
 Wykons
 Yellow Jackets;Honeybees
+Yeomen
 cougar
 cougars
 panthers
 salmon
+sea_kings
 sharks
 tiger
