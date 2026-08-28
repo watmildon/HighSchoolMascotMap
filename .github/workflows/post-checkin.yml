@@ -46,8 +46,8 @@ jobs:
 
     - name: Verify file generation
       run: |
-        if [ ! -f NewMascots.txt ]; then
-          echo "NewMascots.txt was not generated."
+        if [ ! -s NewMascots.txt ]; then
+          echo "NewMascots.txt was not generated or is empty."
           exit 1
         fi
 

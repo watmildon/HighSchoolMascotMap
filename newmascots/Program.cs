@@ -42,42 +42,79 @@ class Program
         string apiUrl = "https://taginfo.openstreetmap.org/api/4/key/values?key=mascot";
         // Call the function to fetch and compare results
         List<string> newResults = await FetchAndReturnValues(apiUrl);
+
+        if (newResults.Count == 0)
+        {
+            Console.Error.WriteLine("No mascot values were returned from TagInfo. Refusing to overwrite NewMascots.txt.");
+            Environment.Exit(1);
+        }
+
         PrintNewItems(newResults, mascots);
     }
 
     static async Task<List<string>> FetchAndReturnValues(string url)
     {
+        // TagInfo rejects unpaged requests for keys with many values (HTTP 412,
+        // "number of results too large, use paging"), so walk the pages.
+        const int resultsPerPage = 999;
+
         using (HttpClient client = new HttpClient())
         {
             var values = new List<string>();
+            int total = 0;
 
-            try
+            for (int page = 1; ; page++)
             {
-                HttpResponseMessage response = await client.GetAsync(url);
+                string pagedUrl = $"{url}&rp={resultsPerPage}&page={page}";
+
+                HttpResponseMessage response = await client.GetAsync(pagedUrl);
                 response.EnsureSuccessStatusCode();
 
                 string responseBody = await response.Content.ReadAsStringAsync();
 
                 // Parse the JSON and extract only "value" fields
                 var jsonData = System.Text.Json.JsonDocument.Parse(responseBody);
+
+                if (jsonData.RootElement.TryGetProperty("total", out var totalElement))
+                {
+                    total = totalElement.GetInt32();
+                }
+
                 var dataArray = jsonData.RootElement.GetProperty("data");
+                int countThisPage = 0;
 
                 foreach (var item in dataArray.EnumerateArray())
                 {
+                    countThisPage++;
+
                     if (item.TryGetProperty("value", out var value))
                     {
-                        values.Add(value.GetString());
+                        string? mascotValue = value.GetString();
+
+                        if (mascotValue != null)
+                        {
+                            values.Add(mascotValue);
+                        }
                     }
                 }
+
+                if (countThisPage == 0 || values.Count >= total)
+                {
+                    break;
+                }
             }
-            catch (Exception e)
+
+            if (values.Count < total)
             {
-                Console.WriteLine($"Error: {e.Message}");
+                throw new Exception($"Expected {total} mascot values from TagInfo but only retrieved {values.Count}.");
             }
+
+            Console.WriteLine($"Retrieved {values.Count} mascot values from TagInfo.");
 
             return values;
         }
     }
+
     static void PrintNewItems(List<string> newResults, List<string> oldResults)
     {
         string fileName = "../NewMascots.txt";
@@ -99,7 +136,8 @@ class Program
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"Error writing to file: {ex.Message}");
+            Console.Error.WriteLine($"Error writing to file: {ex.Message}");
+            Environment.Exit(1);
         }
     }
 }
