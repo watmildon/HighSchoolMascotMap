@@ -3,6 +3,7 @@
 ?
 ? (CCHS)
 Ambassadors
+Archangels
 Archie the Lion;Monarchs
 Axolotl
 Battling Bees;Bees
@@ -55,6 +56,7 @@ Dons
 Dragonslayers
 Elements
 Exporters
+Falcon
 Fighting Tigers
 Fillies;Mustangs
 Flying Flucos
@@ -221,3 +223,4 @@ sea_kings
 sharks
 tiger
 tigers
+warriors
