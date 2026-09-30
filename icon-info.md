@@ -173,6 +173,7 @@ Provides an accounting of the license information for image files in the "icons"
 
 * noun-abraham-lincoln-5878979 - Abraham Lincoln by Brad from Noun Project (CC BY 3.0)
 * noun-angel-4039832 - Angel by IronSV from Noun Project (CC BY 3.0)
+* noun-anteater-8009887 - Anteater by bis kim from Noun Project (CC BY 3.0)
 * noun-antelope-931009 - Antelope by parkjisun from Noun Project (CC BY 3.0)
 * noun-archer-3971196 - Archer by Becris from Noun Project (CC BY 3.0)
 * noun-athena-2225790 - Athena by parkjisun from Noun Project (CC BY 3.0)
