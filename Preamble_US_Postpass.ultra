@@ -1,0 +1,15 @@
+---
+title: MascotMap (US)
+description: Map of US school mascots powered by OSM.
+type: postpass
+options:
+  hash: m
+  attributionControl:
+    customAttribution: '<a href=".">Ultra</a> | <a href="https://github.com/watmildon/HighSchoolMascotMap">Github</a> | <a href="https://github.com/watmildon/HighSchoolMascotMap/blob/main/icon-info.md">Icons</a>'
+  bounds: [ -124.848974, 24.396308, -66.885444, 49.384358 ]
+controls:
+  - type: GeolocateControl
+    options:
+      positionOptions:
+        enableHighAccuracy: true
+      trackUserLocation: true

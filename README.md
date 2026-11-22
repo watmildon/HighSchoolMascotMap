@@ -3,7 +3,7 @@ This repo hosts the style file and icons for an [Ultra](https://overpass-ultra.u
 
 * [United States](https://overpass-ultra.us/#map&query=url:https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/HSMascotMap.ultra).
 * [Global](https://overpass-ultra.us/#map&query=url:https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/HSMascotMap_Postpass.ultra).
-* [Universities](https://overpass-ultra.us/#map&query=url:https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/HSMascotMap_university_global.ultra).
+* [Universities](https://overpass-ultra.us/#map&query=url:https://raw.githubusercontent.com/watmildon/HighSchoolMascotMap/refs/heads/main/HSMascotMap_university_Postpass.ultra).
 
 I gave a talk about this map at the [2026 Mapping USA](https://openstreetmap.us/events/mapping-usa/2026/) virtual conference. It is available [here](https://www.youtube.com/watch?v=nhwXGOjG5E4). 
 

@@ -61,6 +61,9 @@ style:
             - - Angels
             - noun-angel-4039832
 
+            - - Anteaters
+            - noun-anteater-8009887
+
             - - Antelopes
               - Impalas
               - Lopes
@@ -1373,9 +1376,16 @@ style:
               - icons8-school-60
           - .png
 ---
-SELECT mascotinstitutions.osm_type,mascotinstitutions.osm_id, mascotinstitutions.tags, ST_Centroid(mascotinstitutions.geom)
-FROM 
-    postpass_pointpolygon mascotinstitutions 
+SELECT
+    mascotinstitutions.osm_type,
+    mascotinstitutions.osm_id,
+    mascotinstitutions.tags->>'name' AS name,
+    mascotinstitutions.tags->>'mascot' AS mascot,
+    COALESCE(mascotinstitutions.tags->>'mascot:iconography', mascotinstitutions.tags->>'mascot') AS "mascot:iconography",
+    mascotinstitutions.tags,
+    ST_Centroid(mascotinstitutions.geom) AS geom
+FROM
+    postpass_pointpolygon mascotinstitutions
 WHERE
     mascotinstitutions.tags?'mascot' AND
     mascotinstitutions.tags->>'amenity' IN ('school','university')

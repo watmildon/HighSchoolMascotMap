@@ -1,0 +1,13 @@
+SELECT
+    mascotinstitutions.osm_type,
+    mascotinstitutions.osm_id,
+    mascotinstitutions.tags->>'name' AS name,
+    mascotinstitutions.tags->>'mascot' AS mascot,
+    COALESCE(mascotinstitutions.tags->>'mascot:iconography', mascotinstitutions.tags->>'mascot') AS "mascot:iconography",
+    mascotinstitutions.tags,
+    ST_Centroid(mascotinstitutions.geom) AS geom
+FROM
+    postpass_pointpolygon mascotinstitutions
+WHERE
+    mascotinstitutions.tags?'mascot' AND
+    mascotinstitutions.tags->>'amenity' = 'university'

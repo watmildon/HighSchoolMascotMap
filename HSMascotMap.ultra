@@ -1,4 +1,7 @@
 ---
+title: MascotMap (US)
+description: Map of US school mascots powered by OSM.
+type: postpass
 options:
   hash: m
   attributionControl:
@@ -56,6 +59,9 @@ style:
 
             - - Angels
             - noun-angel-4039832
+
+            - - Anteaters
+            - noun-anteater-8009887
 
             - - Antelopes
               - Impalas
@@ -1369,12 +1375,16 @@ style:
               - icons8-school-60
           - .png
 ---
-[out:json][timeout:800];
-rel(148838);map_to_area->.searchArea;
-// determine set of schools
-(
-  nwr[mascot][amenity=school](area.searchArea);
-  nwr[mascot][amenity=university](area.searchArea);
-);
-
-out center;
+SELECT
+    mascotinstitutions.osm_type,
+    mascotinstitutions.osm_id,
+    mascotinstitutions.tags->>'name' AS name,
+    mascotinstitutions.tags->>'mascot' AS mascot,
+    COALESCE(mascotinstitutions.tags->>'mascot:iconography', mascotinstitutions.tags->>'mascot') AS "mascot:iconography",
+    mascotinstitutions.tags,
+    ST_Centroid(mascotinstitutions.geom) AS geom
+FROM
+    postpass_pointpolygon mascotinstitutions
+WHERE
+    mascotinstitutions.tags?'mascot' AND
+    mascotinstitutions.tags->>'amenity' IN ('school','university')

@@ -7,10 +7,14 @@ on:
       - Preamble_QLever.ultra
       - Preamble_US.ultra
       - Preamble_Postpass.ultra
+      - Preamble_US_Postpass.ultra
+      - Preamble_University_Postpass.ultra
       - Query_Global.ultra
       - Query_QLever.ultra
       - Query_US.ultra
-      - Query_Postpass.ultra      
+      - Query_University_Global.ultra
+      - Query_Postpass.ultra
+      - Query_University_Postpass.ultra
       - Style.ultra
   schedule:
     - cron: '0 0 * * 0' # Triggers every Sunday at midnight (UTC)
@@ -53,11 +57,17 @@ jobs:
 
     - name: Concat style files
       run: |
-        cat Preamble_US.ultra Style.ultra Query_US.ultra > HSMascotMap.ultra
+        # Postpass-backed maps (the README links). HSMascotMap.ultra keeps its
+        # name so existing US links keep working; it frames the US with bounds
+        # rather than clipping, since a boundary join times out on Postpass.
+        cat Preamble_US_Postpass.ultra Style.ultra Query_Postpass.ultra > HSMascotMap.ultra
+        cat Preamble_Postpass.ultra Style.ultra Query_Postpass.ultra > HSMascotMap_Postpass.ultra
+        cat Preamble_University_Postpass.ultra Style.ultra Query_University_Postpass.ultra > HSMascotMap_university_Postpass.ultra
+        # Overpass / QLever variants, kept as fallbacks.
+        cat Preamble_US.ultra Style.ultra Query_US.ultra > HSMascotMap_US_overpass.ultra
         cat Preamble_Global.ultra Style.ultra Query_Global.ultra > HSMascotMap_global.ultra
         cat Preamble_QLever.ultra Style.ultra Query_QLever.ultra > HSMascotMap_QLever.ultra
         cat Preamble_Global.ultra Style.ultra Query_University_Global.ultra > HSMascotMap_university_global.ultra
-        cat Preamble_Postpass.ultra Style.ultra Query_Postpass.ultra > HSMascotMap_Postpass.ultra
 
     - name: Commit and push changes
       run: |        
