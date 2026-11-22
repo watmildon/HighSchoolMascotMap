@@ -215,6 +215,8 @@ Yeomen
 bucaneers
 cougar
 cougars
+highlander
+mustang
 panthers
 pioneers
 pirates
