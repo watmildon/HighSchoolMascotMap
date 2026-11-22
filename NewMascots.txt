@@ -3,6 +3,7 @@
 ?
 ? (CCHS)
 Ambassadors
+Archangels
 Archie the Lion;Monarchs
 Axolotl
 Battling Bees;Bees
@@ -167,6 +168,7 @@ Spy Ponders
 Stanners
 Steelers
 Steelmen
+Stingray
 Stompers
 Stormrays
 String
@@ -213,6 +215,8 @@ Yeomen
 bucaneers
 cougar
 cougars
+highlander
+mustang
 panthers
 pioneers
 pirates
@@ -221,3 +225,4 @@ sea_kings
 sharks
 tiger
 tigers
+warriors
